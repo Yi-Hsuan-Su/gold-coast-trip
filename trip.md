@@ -32,7 +32,7 @@
 |------|------|
 | **行程** | 天堂鄉農莊 Paradise Country（無尾熊 / 袋鼠 / 牧羊秀）→ 海港城 Premium Outlets |
 | **午餐** | 園區自助餐（含） |
-| **晚餐** | 自理推薦 ★ **Rick Shores** Burleigh Heads（海景越亞名店 ~AUD120） |
+| **晚餐** | 自理推薦 ★ **Rick Shores** Burleigh Heads（海景越亞名店 ~AUD120）📅 [訂位](https://www.rickshores.com.au/reservations) |
 | **住宿** | Novotel Surfers Paradise |
 
 - **晚餐替代**：Hellenika 希臘菜（Nobby Beach）、BiN72 tapas、The Tropic rooftop
@@ -49,10 +49,10 @@
 
 | 時段 | 主安排 | 備選/替代 |
 |------|--------|-----------|
-| **凌晨主活動** | **熱氣球 Hot Air Gold Coast** Scenic Rim 飛行（~30-60 分）+ 回程葡萄酒莊歐式早餐 | Hot Air Brisbane（布市西郊起飛 同公司） |
+| **凌晨主活動** | **熱氣球 Hot Air Gold Coast** Scenic Rim 飛行（~30-60 分）+ 回程葡萄酒莊歐式早餐 🎈 [官網訂](https://www.hotair.com.au/gold-coast/) ｜ [Klook](https://www.klook.com/zh-TW/activity/2118-hot-air-balloon-ride-gold-coast/) | Hot Air Brisbane（布市西郊起飛 同公司） |
 | **下午** | 鬆散：飯店泳池 / Surfers Paradise 海灘 / 補眠 | Tamborine 山下午茶（雨林 + 酒莊 + 巧克力工坊） |
 | **傍晚** | Burleigh Headland Walk（海岬步道 ~30 分）+ 海灘夕陽 | Currumbin Rock 夕陽、Snapper Rocks |
-| **晚餐** | ★ Rick Shores（若 Day2 訂不到挪這天）／ Burleigh Pavilion（西望 Surfers 天際線日落） | Light Years（Burleigh 東南亞）、Justin Lane Pizzeria |
+| **晚餐** | ★ Rick Shores（若 Day2 訂不到挪這天）📅 [訂位](https://www.rickshores.com.au/reservations) ／ Burleigh Pavilion（西望 Surfers 天際線日落 不收訂） | Light Years（Burleigh 東南亞）、Justin Lane Pizzeria |
 
 - **交通**：熱氣球公司含飯店接送（04:00 pick up）；其餘 G:Link Tram 輕軌
 - **自費**：熱氣球 ~AUD329 ×2 / 約 NT$14,000（2 人）
@@ -73,11 +73,11 @@
 
 | 時段 | 主安排 | 備選/替代 |
 |------|--------|-----------|
-| **上午主活動** | **Cook Island 半日浮潛**（Tweed Heads 出發 08:30-12:30 海龜 + 魟魚 + 珊瑚） | Wave Break Island 半日浮潛、Tangalooma 沉船浮潛（全日 太占時間 棄） |
-| **午餐** | Tweed Heads / Kingscliff 海邊 café 推薦 **Fins Restaurant**（Kingscliff 海鮮） | Paper Daisy（Cabarita Beach fine dining ~AUD110） |
-| **下午** | **Springbrook 國家公園** — Best of All Lookout 觀景台 + Natural Bridge 自然橋 | Lamington 國家公園（更原始 但較遠）、Mt Tamborine 酒莊 |
-| **傍晚** | Natural Bridge 等天黑看**螢光蟲洞**（藍螢光） | — |
-| **晚餐** | 回 Surfers Paradise — ★ **The Tropic** rooftop（夕陽錯過改夜景） | Cambus Wallace 速食酒吧、Hellenika 希臘 |
+| **上午主活動** | **Cook Island 半日浮潛**（Tweed Heads 出發 08:30-12:30 海龜 + 魟魚 + 珊瑚）🤿 [官網訂](https://www.snorkellingaustralia.com.au/) ｜ [Klook](https://www.klook.com/zh-TW/activity/72655-cook-island-snorkelling-tour-gold-coast/) | Wave Break Island 半日浮潛、Tangalooma 沉船浮潛（全日 太占時間 棄） |
+| **午餐** | Tweed Heads / Kingscliff 海邊 café 推薦 **Fins Restaurant**（Kingscliff 海鮮）📅 [訂位](https://fins.com.au/reservations/) | Paper Daisy（Cabarita Beach fine dining ~AUD110）📅 [訂位](https://halcyonhouse.com.au/dining/) |
+| **下午** | **Springbrook 國家公園** — Best of All Lookout 觀景台 + Natural Bridge 自然橋 🌿 [Queensland NP](https://parks.desi.qld.gov.au/parks/springbrook) | Lamington 國家公園（更原始 但較遠）、Mt Tamborine 酒莊 |
+| **傍晚** | Natural Bridge 等天黑看**螢光蟲洞**（藍螢光）免費入場 | — |
+| **晚餐** | 回 Surfers Paradise — ★ **The Tropic** rooftop（夕陽錯過改夜景）📅 [訂位](https://www.thetropic.com.au/bookings) | Cambus Wallace 速食酒吧、Hellenika 希臘 📅 [訂位](https://hellenika.com.au/nobby-beach/) |
 
 - **交通**：浮潛公司 Surfers Paradise 接送；Springbrook 須包車 / Uber（無大眾運輸） 來回約 AUD$200
 - **自費**：Cook Island 浮潛 ~AUD159 ×2 / 約 NT$6,800（2 人）
@@ -96,10 +96,10 @@
 |------|------|
 | **行程** | 跟團：舊市政廳 + 喬治王廣場 + 南岸公園 South Bank → 庫薩山 Mt Coot-tha 觀景台 → 皇后街 Queen St Mall 購物 |
 | **早餐** | 飯店 |
-| **午餐** | 皇后街 / 南岸 自理 推薦 ★ **Howard Smith Wharves**（布市河岸群 故事橋下） |
+| **午餐** | 皇后街 / 南岸 自理 推薦 ★ **Howard Smith Wharves**（布市河岸群 故事橋下）🌐 [howardsmithwharves.com](https://howardsmithwharves.com/) ｜ Greca 📅 [訂](https://grecabrisbane.com.au/) ｜ Mr Percival's 📅 [訂](https://mrpercivals.com.au/) |
 | **下午彈性** | 南岸公園 Streets Beach 人造海灘 + GOMA 現代美術館（免費）+ 故事橋 Story Bridge |
-| **黃昏** | ★ **Felons Brewing Co.**（故事橋下河岸啤酒廠）看夕陽 / Mt Coot-tha 黃昏觀景 |
-| **晚餐** | ★ **Stokehouse Q**（South Bank 河畔 fine dining ~AUD130） |
+| **黃昏** | ★ **Felons Brewing Co.**（故事橋下河岸啤酒廠）看夕陽 🍺 [felonsbrewingco.com.au](https://felonsbrewingco.com.au/) ／ Mt Coot-tha 黃昏觀景 |
+| **晚餐** | ★ **Stokehouse Q**（South Bank 河畔 fine dining ~AUD130）📅 [訂位](https://www.stokehouseq.com.au/reservations)（指定河景位） |
 | **返程** | Brisbane → BNE 機場 跟團車 → BR316 22:15 起飛 |
 
 - **備選**：Eagle Street Pier 河畔、Brisbane River City Hopper 免費渡輪、Otto Ristorante、ARIA Brisbane ★ 名廚
@@ -114,28 +114,35 @@
 
 ## 🍽 推薦餐廳
 
-| 餐廳 | 地點 / 類型 | 價位 | 訂位方式 | 連結 |
-|------|-------------|------|----------|------|
-| **★ Rick Shores** | Burleigh Heads・越亞海景名店 | AUD$80-120/人 | OpenTable 官網 提前 1-2 週 | [rickshores.com.au](https://rickshores.com.au) |
-| Burleigh Pavilion | Burleigh・海邊酒吧西餐（夕陽） | AUD$40-70/人 | **不收訂位** 早到 | [burleighpavilion.com](https://burleighpavilion.com) |
-| **The Tropic** | Surfers Paradise・rooftop 東南亞 | AUD$50-80/人 | OpenTable / IG DM | [thetropic.com.au](https://thetropic.com.au) |
-| Hellenika | Nobby Beach・希臘菜 | AUD$70-100/人 | OpenTable | [hellenika.com.au](https://hellenika.com.au) |
-| Fins Restaurant | Kingscliff・海鮮（Day4 午） | AUD$70-110/人 | 官網訂位 | [fins.com.au](https://fins.com.au) |
-| Paper Daisy | Cabarita Beach・fine dining | AUD$100-140/人 | Halcyon House 官網 | [halcyonhouse.com.au](https://halcyonhouse.com.au) |
-| **★ Stokehouse Q** | South Bank・fine dining 河景 | AUD$100-150/人 | OpenTable 提前 2 週 指定河景位 | [stokehouseq.com.au](https://stokehouseq.com.au) |
-| Howard Smith Wharves | 布市・河岸餐廳群 | AUD$30-80/人 | 個別訂位（Felons / Greca / Mr Percival's） | [howardsmithwharves.com](https://howardsmithwharves.com) |
-| Otto Ristorante | South Bank・義式河景 | AUD$80-120/人 | OpenTable | [ottoristorante.com.au](https://ottoristorante.com.au) |
+| 餐廳 | 地點 / 類型 | 價位 | 訂位難度 | 訂位連結 |
+|------|-------------|------|----------|----------|
+| **★ Rick Shores** | Burleigh Heads・越亞海景名店 | AUD$80-120/人 | ★★★ 提前 1-2 週 | 📅 [rickshores.com.au/reservations](https://www.rickshores.com.au/reservations) |
+| Burleigh Pavilion | Burleigh・海邊酒吧（夕陽） | AUD$40-70/人 | **不收訂位** 早到搶位 | 🌐 [burleighpavilion.com](https://burleighpavilion.com/) |
+| **The Tropic** | Surfers Paradise・rooftop 東南亞 | AUD$50-80/人 | ★★ 提前 1 週 | 📅 [thetropic.com.au/bookings](https://www.thetropic.com.au/bookings) |
+| Hellenika | Nobby Beach・希臘菜 | AUD$70-100/人 | ★★ OpenTable | 📅 [hellenika.com.au](https://hellenika.com.au/nobby-beach/) |
+| Fins Restaurant | Kingscliff・海鮮（Day4 午） | AUD$70-110/人 | ★★ 官網訂位 週一公休 | 📅 [fins.com.au/reservations](https://fins.com.au/reservations/) |
+| Paper Daisy | Cabarita Beach・fine dining | AUD$100-140/人 | ★★★ Halcyon House | 📅 [halcyonhouse.com.au/dining](https://halcyonhouse.com.au/dining/) |
+| **★ Stokehouse Q** | South Bank・fine dining 河景 | AUD$100-150/人 | ★★★ 提前 2 週 河景位指定 | 📅 [stokehouseq.com.au](https://www.stokehouseq.com.au/reservations) |
+| **Felons Brewing Co.** | 故事橋下・河岸啤酒廠（夕陽） | AUD$30-60/人 | 露天區不收訂 室內可訂 | 📅 [felonsbrewingco.com.au](https://felonsbrewingco.com.au/) |
+| Greca | Howard Smith Wharves・地中海 | AUD$60-100/人 | ★★ 提前 1 週 | 📅 [grecabrisbane.com.au](https://grecabrisbane.com.au/) |
+| Mr Percival's | Howard Smith Wharves・河上水餐廳 | AUD$50-90/人 | ★★ 提前 1 週 | 📅 [mrpercivals.com.au](https://mrpercivals.com.au/) |
+| Otto Ristorante | South Bank・義式河景 | AUD$80-120/人 | ★★ OpenTable | 📅 [ottoristorante.com.au](https://www.ottoristorante.com.au/) |
+| ARIA Brisbane | 河岸・★ 名廚 fine dining | AUD$120-180/人 | ★★★ 提前 2-3 週 | 📅 [ariarestaurant.com](https://www.ariarestaurant.com/brisbane/) |
+
+:::warning
+**訂位優先順序**：Rick Shores / Stokehouse Q / Paper Daisy / ARIA → 出發前 2 週訂；The Tropic / Fins / Hellenika → 出發前 1 週訂；Burleigh Pavilion / Felons 露天 → 不收訂位早點到。
+:::
 
 ---
 
 ## 🎟 活動訂票
 
-| 活動 | 平台 | 價格（每人） | 備註 |
-|------|------|-------------|------|
-| **Hot Air Gold Coast 熱氣球** | 官網 / Klook / Viator | AUD$329 含早餐 + 酒莊 | 04:00 接送 天候取消可改期 預約綁日期 |
-| **Cook Island 半日浮潛** | Watersports Guru / Klook | AUD$159 含裝備 + 導潛 | Tweed Heads 出海 5-10 月最佳能見度 |
-| Tangalooma 沉船浮潛（備選 棄） | Tangalooma Resort | AUD$199 全日船 | 佔整天 不符鬆散風格 |
-| Springbrook Natural Bridge | 免費 | 0 | 黃昏入園看螢光蟲 步道 25 分 帶紅光手電 |
+| 活動 | 平台 | 價格（每人） | 訂票連結 | 備註 |
+|------|------|-------------|----------|------|
+| **Hot Air Gold Coast 熱氣球** | 官網 | AUD$329 含早餐 + 酒莊 | 🎈 [hotair.com.au](https://www.hotair.com.au/gold-coast/) ｜ [Klook](https://www.klook.com/zh-TW/activity/2118-hot-air-balloon-ride-gold-coast/) ｜ [KKday](https://www.kkday.com/zh-tw/product/19996) | 04:00 接送 天候取消可改期 預約綁日期 |
+| **Cook Island 半日浮潛** | Watersports Guru | AUD$159 含裝備 + 導潛 | 🤿 [snorkellingaustralia.com.au](https://www.snorkellingaustralia.com.au/) ｜ [Klook](https://www.klook.com/zh-TW/activity/72655-cook-island-snorkelling-tour-gold-coast/) | Tweed Heads 出海 5-10 月最佳能見度 |
+| Tangalooma 沉船浮潛（備選 棄） | Tangalooma Resort | AUD$199 全日船 | 🛥 [tangalooma.com](https://www.tangalooma.com/Marine-Eco-Tours/Tangalooma-Day-Cruise) | 佔整天 不符鬆散風格 |
+| Springbrook Natural Bridge | 免費 | 0 | 🌿 [Queensland NP](https://parks.desi.qld.gov.au/parks/springbrook) | 黃昏入園看螢光蟲 步道 25 分 帶紅光手電 |
 
 ---
 
