@@ -128,16 +128,31 @@ section.page .head .rule{display:inline-block;width:48px;height:1px;background:v
 @media (max-width:780px){.day-card{grid-template-columns:1fr}}
 
 .day-card .gallery{
-  position:relative;min-height:260px;background:var(--washi-deep);
-  display:flex;flex-direction:column;
+  position:relative;min-height:280px;background:var(--washi-deep);overflow:hidden;
 }
-.day-card .gallery .main-img{
-  flex:1;min-height:260px;background-size:cover;background-position:center;
-  background-color:var(--washi-deep);
+.day-card .gallery .slide{
+  position:absolute;inset:0;background-size:cover;background-position:center;
+  background-color:var(--washi-deep);opacity:0;transition:opacity .9s ease;
 }
-.day-card .gallery .thumbs{display:flex;gap:0;border-top:1px solid var(--line)}
-.day-card .gallery .thumbs .t{flex:1;height:60px;background-size:cover;background-position:center;background-color:var(--washi);border-right:1px solid var(--line)}
-.day-card .gallery .thumbs .t:last-child{border-right:none}
+.day-card .gallery .slide.active{opacity:1}
+.day-card .gallery .cap{
+  position:absolute;left:14px;bottom:14px;z-index:2;
+  padding:5px 12px;background:rgba(21,40,48,.6);color:#fff;
+  font-size:12px;letter-spacing:.05em;border-radius:999px;
+  backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);
+  pointer-events:none;font-weight:500;transition:opacity .3s;
+}
+.day-card .gallery .dots{
+  position:absolute;right:14px;bottom:14px;z-index:2;display:flex;gap:6px;
+}
+.day-card .gallery .dots .dot{
+  width:8px;height:8px;border-radius:50%;border:none;padding:0;
+  background:rgba(255,255,255,.45);cursor:pointer;
+  transition:width .25s ease,background .25s ease;
+}
+.day-card .gallery .dots .dot.active{background:#fff;width:22px;border-radius:6px}
+.day-card .gallery .dots .dot:hover{background:rgba(255,255,255,.8)}
+.day-card .gallery .dots .dot:focus-visible{outline:2px solid var(--shu);outline-offset:3px}
 
 .day-card .body{padding:28px 32px}
 @media (max-width:780px){.day-card .body{padding:22px 22px 26px}}
@@ -357,6 +372,46 @@ async function openSearch(lang, query){
   }catch(e){ return null; }
 }
 
+async function commonsImage(query){
+  try{
+    const sr = await fetch(`https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(query)}&srnamespace=6&srlimit=5&format=json&origin=*`);
+    if (!sr.ok) return null;
+    const sj = await sr.json();
+    const hits = (sj.query && sj.query.search) || [];
+    const file = hits.find(h => /\.(jpe?g|png|webp)$/i.test(h.title));
+    if (!file) return null;
+    const ir = await fetch(`https://commons.wikimedia.org/w/api.php?action=query&titles=${encodeURIComponent(file.title)}&prop=imageinfo&iiprop=url&iiurlwidth=1200&format=json&origin=*`);
+    if (!ir.ok) return null;
+    const ij = await ir.json();
+    const pages = ij.query && ij.query.pages || {};
+    const k = Object.keys(pages)[0];
+    const info = pages[k] && pages[k].imageinfo && pages[k].imageinfo[0];
+    return info ? (info.thumburl || info.url) : null;
+  }catch(e){ return null; }
+}
+
+const PROXY_URL = 'https://script.google.com/macros/s/AKfycbxWB3owHPCyHtPeZpE4O45X9Gvzl3HOuHKRz5Km_sl4SyHW37t5N2W81gtLkClNi68e/exec';
+const PROXY_TOKEN = 'ethan-sheet-9x7k2p';
+async function pexelsImage(query){
+  try{
+    const url = `${PROXY_URL}?token=${PROXY_TOKEN}&action=pexels&q=${encodeURIComponent(query)}`;
+    const r = await fetch(url);
+    if (!r.ok) return null;
+    const j = await r.json();
+    return (j && j.ok) ? j.src : null;
+  }catch(e){ return null; }
+}
+
+async function openverseImage(query){
+  try{
+    const r = await fetch(`https://api.openverse.org/v1/images/?q=${encodeURIComponent(query)}&page_size=5&license_type=all`);
+    if (!r.ok) return null;
+    const j = await r.json();
+    const hit = (j.results || []).find(x => x && (x.url || x.thumbnail));
+    return hit ? (hit.url || hit.thumbnail) : null;
+  }catch(e){ return null; }
+}
+
 async function wikiImage(title){
   if (imgCache.has(title)) return imgCache.get(title);
   if (CURATED[title]){ imgCache.set(title, CURATED[title]); return CURATED[title]; }
@@ -373,6 +428,12 @@ async function wikiImage(title){
       if (src){ imgCache.set(title, src); return src; }
     }
   }
+  let src = await commonsImage(q);
+  if (src){ imgCache.set(title, src); return src; }
+  src = await pexelsImage(q);
+  if (src){ imgCache.set(title, src); return src; }
+  src = await openverseImage(q);
+  if (src){ imgCache.set(title, src); return src; }
   imgCache.set(title, null);
   return null;
 }
@@ -466,11 +527,14 @@ function dayCardHtml(d){
   const meals = Object.entries(d.meal||{}).map(([k,v])=>`<div class="item"><span class="label">${k}</span><span class="val">${v}</span></div>`).join('');
   const activity = d.activity ? `<div class="item"><span class="label">活動</span><span class="val"><span class="hi">${d.activity}</span></span></div>` : '';
   const hotel = `<div class="item"><span class="label">住宿</span><span class="val">${d.hotel}</span></div>`;
+  const slides = d.attractions.map((a,i)=>`<div class="slide${i===0?' active':''}" data-wiki="${a.wiki}" data-cap="${a.name}"></div>`).join('');
+  const dots = d.attractions.length>1 ? `<div class="dots">${d.attractions.map((_,i)=>`<button class="dot${i===0?' active':''}" data-i="${i}" aria-label="圖片 ${i+1}"></button>`).join('')}</div>` : '';
   return `
     <article class="day-card" data-day="${d.n}">
       <div class="gallery">
-        <div class="main-img" data-wiki="${d.heroWiki}"></div>
-        ${d.attractions.length>1 ? `<div class="thumbs">${d.attractions.slice(0,3).map(a=>`<div class="t" data-wiki="${a.wiki}"></div>`).join('')}</div>`:''}
+        ${slides}
+        <div class="cap">${d.attractions[0]?.name||''}</div>
+        ${dots}
       </div>
       <div class="body">
         <div class="day-tag"><span class="num">${String(d.n).padStart(2,'0')}</span>Day ${d.n}</div>
@@ -486,13 +550,36 @@ function dayCardHtml(d){
 }
 
 async function paintDayImages(){
-  const els = [...document.querySelectorAll('.day-card .main-img[data-wiki], .day-card .thumbs .t[data-wiki]')];
-  await Promise.all(els.map(async el=>{
+  const slides = [...document.querySelectorAll('.day-card .gallery .slide[data-wiki]')];
+  await Promise.all(slides.map(async el=>{
     const t = el.dataset.wiki;
     if (!t) return;
     const src = await wikiImage(t);
     if (src) el.style.backgroundImage = `url(${src})`;
   }));
+  document.querySelectorAll('.day-card').forEach(setupCarousel);
+}
+
+function setupCarousel(card){
+  const slides = [...card.querySelectorAll('.gallery .slide')];
+  const dots = [...card.querySelectorAll('.gallery .dot')];
+  const cap = card.querySelector('.gallery .cap');
+  if (slides.length < 2) return;
+  let i = 0, timer = null;
+  const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const set = (n) => {
+    i = (n + slides.length) % slides.length;
+    slides.forEach((s,k)=>s.classList.toggle('active', k===i));
+    dots.forEach((d,k)=>d.classList.toggle('active', k===i));
+    if (cap) cap.textContent = slides[i].dataset.cap || '';
+  };
+  const next = () => set(i+1);
+  const start = () => { if (!timer && !reduced) timer = setInterval(next, 4800); };
+  const stop = () => { if (timer){ clearInterval(timer); timer = null; } };
+  dots.forEach(d => d.addEventListener('click', () => { stop(); set(parseInt(d.dataset.i)); start(); }));
+  card.addEventListener('mouseenter', stop);
+  card.addEventListener('mouseleave', start);
+  start();
 }
 
 function renderHome(){
