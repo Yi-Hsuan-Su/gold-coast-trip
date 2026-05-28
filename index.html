@@ -1,0 +1,571 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#1A6D7C">
+<title>黃金海岸・布里斯本 ｜ 5 Day Travel Notebook</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;600;700&family=Noto+Sans+TC:wght@300;400;500;700&family=Playfair+Display:ital,wght@0,500;0,700;1,500&display=swap" rel="stylesheet">
+
+<style>
+:root{
+  --washi:#FAF6EE; --washi-deep:#F1E9D8; --paper:#FFFFFF;
+  --ink:#152830; --ink-soft:#3A4B53; --ink-mute:#7B8990;
+  --line:#E2DACA; --line-soft:#EFE7D5;
+  --shu:#1A6D7C; --shu-deep:#114E5A;
+  --kincha:#D2613F; --matcha:#6B8E5C;
+  --info-fg:#2D5F8F; --info-bg:#EBF1F8; --info-bd:#C8DBEB;
+  --warn-fg:#A06318; --warn-bg:#FBEFD9; --warn-bd:#EFD9A3;
+  --ok-fg:#3D7A5C;   --ok-bg:#E5F0E8;   --ok-bd:#C1DCC9;
+  --danger-fg:#A4422A;--danger-bg:#F8E2DA;--danger-bd:#EFC6B5;
+  --shadow-1:0 1px 2px rgba(21,40,48,.05),0 4px 12px rgba(21,40,48,.05);
+  --shadow-2:0 4px 24px rgba(21,40,48,.10);
+  --radius:12px; --radius-sm:6px;
+  --serif:'Noto Serif',Georgia,'Times New Roman',serif;
+  --sans:'Noto Sans TC','Hiragino Sans','PingFang TC',-apple-system,sans-serif;
+  --display:'Playfair Display','Noto Serif',serif;
+}
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:80px}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation-duration:.001ms!important;transition-duration:.001ms!important}}
+body{margin:0;background:var(--washi);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.75;-webkit-font-smoothing:antialiased}
+img{max-width:100%;display:block}
+::selection{background:rgba(26,109,124,.18);color:var(--shu-deep)}
+
+/* ───── Top Nav ───── */
+nav.top{
+  position:sticky;top:0;z-index:50;background:rgba(250,246,238,.92);
+  backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--line);
+}
+nav.top .row{
+  max-width:1200px;margin:0 auto;padding:14px 22px;
+  display:flex;align-items:center;justify-content:space-between;gap:18px;
+}
+nav.top .brand{
+  font-family:var(--serif);font-weight:600;font-size:16px;letter-spacing:.06em;color:var(--ink);
+  display:flex;align-items:center;gap:10px;text-decoration:none;cursor:pointer;
+}
+nav.top .brand .dot{
+  display:inline-block;width:10px;height:10px;border-radius:50%;background:var(--shu);
+}
+nav.top .links{display:flex;gap:4px;flex-wrap:wrap}
+nav.top .links a{
+  font-size:14px;padding:8px 14px;color:var(--ink-soft);text-decoration:none;
+  border-radius:999px;cursor:pointer;transition:background .2s,color .2s;letter-spacing:.04em;
+}
+nav.top .links a:hover{background:var(--washi-deep);color:var(--shu)}
+nav.top .links a.active{background:var(--shu);color:#fff}
+nav.top .links a:focus-visible{outline:2px solid var(--shu);outline-offset:2px}
+@media (max-width:760px){
+  nav.top .row{padding:10px 14px;flex-direction:column;align-items:flex-start;gap:8px}
+  nav.top .links{width:100%;overflow-x:auto;flex-wrap:nowrap;padding-bottom:4px}
+  nav.top .links a{flex-shrink:0;font-size:13px;padding:6px 12px}
+}
+
+/* ───── Hero ───── */
+.hero{
+  position:relative;min-height:88vh;display:flex;align-items:center;justify-content:center;
+  text-align:center;color:#fff;overflow:hidden;
+  background-color:#0E2A33;
+}
+.hero .bg{position:absolute;inset:0;z-index:0;background-size:cover;background-position:center;
+  filter:brightness(.55) saturate(1.08);transform:scale(1.05);transition:opacity 1s ease;opacity:0}
+.hero .bg.loaded{opacity:1}
+.hero::after{
+  content:"";position:absolute;inset:0;z-index:1;pointer-events:none;
+  background:radial-gradient(ellipse at center,transparent 0%,rgba(0,0,0,.55) 100%),
+             linear-gradient(180deg,rgba(0,0,0,.1) 0%,rgba(0,0,0,.5) 100%);
+}
+.hero .inner{position:relative;z-index:2;padding:24px;max-width:840px}
+.hero .eyebrow{
+  font-family:var(--display);font-style:italic;font-size:14px;letter-spacing:.28em;
+  color:#F2D4B3;text-transform:uppercase;margin:0 0 18px;opacity:.9
+}
+.hero h1{
+  font-family:var(--serif);font-weight:600;letter-spacing:.06em;
+  font-size:clamp(40px,7vw,84px);margin:0 0 8px;line-height:1.05;
+  text-shadow:0 2px 20px rgba(0,0,0,.4);
+}
+.hero h1 .jp{display:block;font-size:.32em;font-weight:500;letter-spacing:.4em;margin-top:14px;opacity:.85;color:#F4E6D0}
+.hero .rule{display:inline-block;width:80px;height:1px;background:#F2D4B3;margin:28px 0;opacity:.6}
+.hero .dates{font-family:var(--display);font-size:clamp(18px,2.4vw,24px);letter-spacing:.08em;opacity:.95}
+.hero .meta{display:flex;flex-wrap:wrap;gap:12px 20px;justify-content:center;margin-top:24px;font-size:13px;opacity:.85}
+.hero .meta span{display:inline-flex;align-items:center;gap:8px;letter-spacing:.04em}
+.hero .meta span::before{content:"";width:5px;height:5px;border-radius:50%;background:#F2D4B3}
+.hero .scroll-hint{
+  position:absolute;bottom:24px;left:50%;transform:translateX(-50%);z-index:2;
+  color:#F4E6D0;opacity:.7;font-size:12px;letter-spacing:.25em;text-transform:uppercase;
+  display:flex;flex-direction:column;align-items:center;gap:8px;
+}
+.hero .scroll-hint .arrow{width:1px;height:36px;background:#F4E6D0;animation:drop 2.2s ease-in-out infinite}
+@keyframes drop{0%,100%{transform:scaleY(.4) translateY(-12px);opacity:.2}50%{transform:scaleY(1) translateY(0);opacity:.9}}
+
+/* ───── Section Container ───── */
+section.page{padding:72px 24px 96px}
+section.page .wrap{max-width:1100px;margin:0 auto}
+section.page .head{text-align:center;margin-bottom:48px}
+section.page .head .kicker{
+  font-family:var(--display);font-style:italic;font-size:13px;letter-spacing:.28em;
+  text-transform:uppercase;color:var(--shu);margin:0 0 8px
+}
+section.page .head h2{
+  font-family:var(--serif);font-weight:600;font-size:clamp(28px,4vw,40px);margin:0;letter-spacing:.04em;color:var(--ink)
+}
+section.page .head .desc{color:var(--ink-mute);margin-top:10px;font-size:14px}
+section.page .head .rule{display:inline-block;width:48px;height:1px;background:var(--shu);margin:18px 0 0}
+
+/* ───── Day Timeline ───── */
+.timeline{display:grid;gap:32px}
+.day-card{
+  background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+  overflow:hidden;box-shadow:var(--shadow-1);transition:transform .3s ease, box-shadow .3s ease;
+  display:grid;grid-template-columns:minmax(0,1fr) 1.2fr;
+}
+.day-card:hover{transform:translateY(-2px);box-shadow:var(--shadow-2)}
+@media (max-width:780px){.day-card{grid-template-columns:1fr}}
+
+.day-card .gallery{
+  position:relative;min-height:260px;background:var(--washi-deep);
+  display:flex;flex-direction:column;
+}
+.day-card .gallery .main-img{
+  flex:1;min-height:260px;background-size:cover;background-position:center;
+  background-color:var(--washi-deep);
+}
+.day-card .gallery .thumbs{display:flex;gap:0;border-top:1px solid var(--line)}
+.day-card .gallery .thumbs .t{flex:1;height:60px;background-size:cover;background-position:center;background-color:var(--washi);border-right:1px solid var(--line)}
+.day-card .gallery .thumbs .t:last-child{border-right:none}
+
+.day-card .body{padding:28px 32px}
+@media (max-width:780px){.day-card .body{padding:22px 22px 26px}}
+
+.day-card .day-tag{
+  font-family:var(--display);font-style:italic;color:var(--shu);font-size:13px;letter-spacing:.18em;text-transform:uppercase
+}
+.day-card .day-tag .num{font-size:36px;font-style:normal;font-weight:700;color:var(--ink);margin-right:8px;letter-spacing:.02em;vertical-align:-4px}
+.day-card .date{margin-top:2px;font-size:14px;color:var(--ink-mute);letter-spacing:.06em}
+.day-card h3{
+  font-family:var(--serif);font-weight:600;font-size:24px;margin:14px 0 8px;letter-spacing:.02em;color:var(--ink)
+}
+.day-card .tagline{color:var(--ink-soft);margin:0 0 16px;font-size:15px}
+
+.day-card .attractions{display:flex;flex-wrap:wrap;gap:6px;margin:14px 0}
+.day-card .attractions .pill{
+  font-size:12.5px;padding:4px 10px;border:1px solid var(--line);border-radius:999px;
+  color:var(--ink-soft);background:var(--washi);
+}
+.day-card .attractions .pill.star{border-color:var(--shu);color:var(--shu);background:rgba(26,109,124,.06)}
+
+.day-card .meta-row{
+  display:grid;grid-template-columns:repeat(2,1fr);gap:10px 18px;margin-top:14px;font-size:13.5px;color:var(--ink-soft);
+  padding-top:14px;border-top:1px dashed var(--line)
+}
+.day-card .meta-row .item{display:flex;gap:8px;align-items:flex-start;min-width:0}
+.day-card .meta-row .item .label{color:var(--ink-mute);font-size:11px;letter-spacing:.12em;text-transform:uppercase;flex-shrink:0;min-width:42px;margin-top:3px}
+.day-card .meta-row .item .val{flex:1;min-width:0}
+.day-card .meta-row .item .val .hi{color:var(--shu);font-weight:500}
+
+/* ───── Subpage MD content ───── */
+.md{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);padding:48px 56px;box-shadow:var(--shadow-1)}
+@media (max-width:720px){.md{padding:28px 22px}}
+.md > *:first-child{margin-top:0}
+.md p{margin:1em 0;color:var(--ink-soft)}
+.md h1{font-family:var(--serif);font-weight:600;font-size:28px;margin:0 0 18px;padding-bottom:14px;border-bottom:1px solid var(--line);letter-spacing:.02em}
+.md h2{font-family:var(--serif);font-weight:600;font-size:22px;margin:40px 0 14px;padding-left:16px;position:relative;letter-spacing:.02em;scroll-margin-top:80px}
+.md h2::before{content:"";position:absolute;left:0;top:.35em;bottom:.35em;width:3px;background:var(--shu);border-radius:2px}
+.md h3{font-family:var(--serif);font-weight:500;font-size:17px;margin:28px 0 10px;color:var(--shu-deep);letter-spacing:.02em}
+.md ul,.md ol{padding-left:22px;margin:1em 0}
+.md li{margin:5px 0;color:var(--ink-soft)}
+.md ul li::marker{color:var(--kincha)}
+.md ol li::marker{color:var(--shu);font-family:var(--display)}
+.md strong{color:var(--ink);font-weight:600}
+.md em{color:var(--shu-deep)}
+.md a{color:var(--shu);text-decoration:none;background-image:linear-gradient(var(--shu),var(--shu));background-size:100% 1px;background-position:0 100%;background-repeat:no-repeat;transition:background-size .2s ease,color .2s ease;padding:0 1px;cursor:pointer}
+.md a:hover{color:var(--shu-deep);background-size:100% 2px}
+.md a:focus-visible{outline:2px solid var(--shu);outline-offset:2px;border-radius:2px}
+.md blockquote{margin:22px 0;padding:14px 20px;background:var(--washi);border-left:3px solid var(--kincha);border-radius:0 var(--radius-sm) var(--radius-sm) 0;color:var(--ink-soft);font-style:italic;font-size:14.5px}
+.md blockquote p{margin:.3em 0}
+.md hr{border:none;height:1px;background:var(--line);margin:40px auto;max-width:80px;position:relative}
+.md hr::after{content:"❋";display:block;position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);background:var(--paper);padding:0 12px;color:var(--kincha);font-size:14px}
+.md code{background:var(--washi);padding:2px 6px;border-radius:4px;font-size:.88em;color:var(--shu-deep);font-family:ui-monospace,"SF Mono",Menlo,monospace}
+.md .table-wrap{overflow-x:auto;margin:16px 0;border-radius:var(--radius);border:1px solid var(--line)}
+.md table{width:100%;border-collapse:collapse;font-size:13.5px;background:var(--paper)}
+.md thead th{background:var(--washi-deep);font-family:var(--serif);font-weight:600;color:var(--ink);text-align:left;padding:10px 12px;border-bottom:2px solid var(--shu);letter-spacing:.02em;font-size:12.5px}
+.md tbody td{padding:10px 12px;border-bottom:1px solid var(--line-soft);vertical-align:top;color:var(--ink-soft)}
+.md tbody tr:last-child td{border-bottom:none}
+.md tbody tr:nth-child(even){background:#FCF9F2}
+.md tbody tr:hover{background:var(--washi)}
+.md tbody td strong{color:var(--ink)}
+
+/* ───── Callouts ───── */
+.callout{margin:20px 0;padding:14px 18px 14px 18px;border-radius:var(--radius);border:1px solid;display:grid;grid-template-columns:24px 1fr;gap:14px;align-items:flex-start}
+.callout .ico{width:22px;height:22px;flex-shrink:0;margin-top:2px}
+.callout .body > *:first-child{margin-top:0}
+.callout .body > *:last-child{margin-bottom:0}
+.callout p,.callout li{color:inherit}
+.callout strong{color:inherit;font-weight:700}
+.callout.info{background:var(--info-bg);border-color:var(--info-bd);color:var(--info-fg)}
+.callout.warning{background:var(--warn-bg);border-color:var(--warn-bd);color:var(--warn-fg)}
+.callout.success{background:var(--ok-bg);border-color:var(--ok-bd);color:var(--ok-fg)}
+.callout.danger{background:var(--danger-bg);border-color:var(--danger-bd);color:var(--danger-fg)}
+
+/* ───── Footer ───── */
+footer.site{text-align:center;color:var(--ink-mute);font-size:12px;padding:32px 16px 56px;letter-spacing:.05em;border-top:1px solid var(--line);margin-top:48px}
+footer.site .seal{display:inline-flex;align-items:center;justify-content:center;width:42px;height:42px;border:1.5px solid var(--shu);color:var(--shu);border-radius:50%;margin-bottom:10px;font-family:var(--serif);font-weight:600;font-size:16px}
+
+/* ───── Loading ───── */
+.loading{display:flex;flex-direction:column;align-items:center;gap:14px;padding:80px 0;color:var(--ink-mute)}
+.loading .spin{width:28px;height:28px;border:2px solid var(--line);border-top-color:var(--shu);border-radius:50%;animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.loading .spin{animation:none}}
+
+.route-view{animation:fadein .35s ease both}
+@keyframes fadein{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+</style>
+</head>
+<body>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <symbol id="i-info" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><circle cx="12" cy="8" r=".5" fill="currentColor"/></symbol>
+  <symbol id="i-warn" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><circle cx="12" cy="17" r=".5" fill="currentColor"/></symbol>
+  <symbol id="i-ok" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="15" y1="9" x2="9" y2="15"/><line x1="9" y1="9" x2="15" y2="15"/></symbol>
+</svg>
+
+<nav class="top" aria-label="主導覽">
+  <div class="row">
+    <a class="brand" href="#/" data-route="/"><span class="dot"></span>黃金海岸・布里斯本 Notebook</a>
+    <div class="links" id="nav-links">
+      <a href="#/" data-route="/">行程</a>
+      <a href="#/restaurants" data-route="/restaurants">餐廳</a>
+      <a href="#/booking" data-route="/booking">訂票</a>
+      <a href="#/transport" data-route="/transport">交通</a>
+      <a href="#/lodging" data-route="/lodging">住宿</a>
+      <a href="#/budget" data-route="/budget">預算</a>
+      <a href="#/tips" data-route="/tips">Tips</a>
+    </div>
+  </div>
+</nav>
+
+<div id="view"></div>
+
+<footer class="site">
+  <div class="seal">澳</div>
+  <div>Gold Coast ・ Brisbane Travel Notebook</div>
+  <div style="opacity:.6;margin-top:4px">資料隨 trip.md 更新</div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js"></script>
+<script>
+const DAYS = [
+  {
+    n:1, date:'Day 1 ・ 抵達', title:'抵達 ・ Surfers Paradise',
+    tagline:'紅眼前夜：BR315 落地 BNE，跟團車南下黃金海岸 Surfers Paradise，Cavill Mall 海邊夜逛。',
+    heroWiki:'Surfers_Paradise,_Queensland',
+    attractions:[
+      { name:'Surfers Paradise', wiki:'Surfers_Paradise,_Queensland' },
+      { name:'Cavill Mall', wiki:'Cavill_Avenue' },
+    ],
+    meal:{ 晚:'機上簡餐 / 宵夜' },
+    hotel:'Novotel Surfers Paradise',
+  },
+  {
+    n:2, date:'Day 2 ・ 跟團', title:'天堂鄉農莊 ・ 海港城',
+    tagline:'跟團一日：Paradise Country 抱無尾熊 + 牧羊秀，Harbour Town Premium Outlets 退稅戰，晚上自費 Rick Shores 海景越亞名店。',
+    heroWiki:'Paradise_Country',
+    attractions:[
+      { name:'Paradise Country', wiki:'Paradise_Country' },
+      { name:'Harbour Town Outlets', wiki:'Harbour_Town,_Gold_Coast' },
+      { name:'Rick Shores', wiki:'Burleigh_Heads,_Queensland' },
+    ],
+    meal:{ 午:'園區自助餐（含）', 晚:'★ Rick Shores（自費 ~AUD120）' },
+    hotel:'Novotel Surfers Paradise',
+  },
+  {
+    n:3, date:'Day 3 ・ 自由日', title:'熱氣球 ・ Burleigh 夕陽',
+    tagline:'⭐ 重點日 — 凌晨 Hot Air Gold Coast 飛 Scenic Rim 農牧地 + 葡萄酒莊歐式早餐；傍晚 Burleigh Headland 海岬步道接夕陽，Burleigh Pavilion 海邊酒吧晚餐。',
+    heroWiki:'Burleigh_Heads,_Queensland',
+    star:true,
+    attractions:[
+      { name:'Hot Air Gold Coast', wiki:'Hot_air_balloon' },
+      { name:'Scenic Rim', wiki:'Scenic_Rim_Region' },
+      { name:'Burleigh Heads', wiki:'Burleigh_Heads,_Queensland' },
+      { name:'Burleigh Headland NP', wiki:'Burleigh_Head_National_Park' },
+    ],
+    meal:{ 早:'酒莊歐式（熱氣球含）', 晚:'★ Burleigh Pavilion 海邊夕陽 / Rick Shores' },
+    activity:'★ Hot Air Gold Coast 熱氣球（含早餐 + 酒莊）',
+    hotel:'Novotel Surfers Paradise',
+  },
+  {
+    n:4, date:'Day 4 ・ 自由日', title:'Cook Island 浮潛 ・ Springbrook 螢光蟲',
+    tagline:'⭐ 重點日 — 上午 Cook Island 半日浮潛（海龜 + 魟魚 + 珊瑚），下午 Springbrook 國家公園 Natural Bridge 自然橋，黃昏看藍螢光蟲。晚回 Surfers 上 The Tropic rooftop。',
+    heroWiki:'Springbrook_National_Park',
+    star:true,
+    attractions:[
+      { name:'Cook Island', wiki:'Cook_Island_(New_South_Wales)' },
+      { name:'Springbrook NP', wiki:'Springbrook_National_Park' },
+      { name:'Natural Bridge', wiki:'Springbrook_National_Park' },
+      { name:'The Tropic', wiki:'Surfers_Paradise,_Queensland' },
+    ],
+    meal:{ 午:'Fins Restaurant（Kingscliff 海鮮）', 晚:'★ The Tropic rooftop' },
+    activity:'★ Cook Island 半日浮潛 + Springbrook 自駕',
+    hotel:'Novotel Surfers Paradise',
+  },
+  {
+    n:5, date:'Day 5 ・ 返程', title:'布里斯本市區 ・ 紅眼回程',
+    tagline:'跟團走 Brisbane CBD：舊市政廳、South Bank 南岸公園、Mt Coot-tha 觀景、皇后街購物。Howard Smith Wharves 午餐 + Felons 夕陽 + Stokehouse Q 河景晚餐，深夜 BR316 紅眼回。',
+    heroWiki:'Brisbane',
+    attractions:[
+      { name:'South Bank Parklands', wiki:'South_Bank,_Brisbane' },
+      { name:'Story Bridge', wiki:'Story_Bridge' },
+      { name:'Mt Coot-tha', wiki:'Mount_Coot-tha' },
+      { name:'Queen St Mall', wiki:'Queen_Street_Mall,_Brisbane' },
+      { name:'Howard Smith Wharves', wiki:'Howard_Smith_Wharves' },
+    ],
+    warn:true,
+    meal:{ 午:'★ Howard Smith Wharves', 晚:'★ Stokehouse Q 河景 fine dining' },
+    hotel:'— 返台 BR316 22:15 —',
+  },
+];
+
+const HERO_WIKI = 'Surfers_Paradise,_Queensland';
+
+const imgCache = new Map();
+const LANGS = ['en','zh'];
+
+const CURATED = {};
+
+async function summaryDirect(lang, title){
+  try{
+    const r = await fetch(`https://${lang}.wikipedia.org/api/rest_v1/page/summary/${encodeURIComponent(title)}`);
+    if (!r.ok) return null;
+    const j = await r.json();
+    return (j.originalimage && j.originalimage.source) || (j.thumbnail && j.thumbnail.source) || null;
+  }catch(e){ return null; }
+}
+
+async function openSearch(lang, query){
+  try{
+    const url = `https://${lang}.wikipedia.org/w/api.php?action=opensearch&search=${encodeURIComponent(query)}&limit=1&namespace=0&format=json&origin=*`;
+    const r = await fetch(url);
+    if (!r.ok) return null;
+    const j = await r.json();
+    return (j[1] && j[1][0]) || null;
+  }catch(e){ return null; }
+}
+
+async function wikiImage(title){
+  if (imgCache.has(title)) return imgCache.get(title);
+  if (CURATED[title]){ imgCache.set(title, CURATED[title]); return CURATED[title]; }
+
+  for (const lang of LANGS){
+    const src = await summaryDirect(lang, title);
+    if (src){ imgCache.set(title, src); return src; }
+  }
+  const q = title.replace(/_/g,' ');
+  for (const lang of LANGS){
+    const found = await openSearch(lang, q);
+    if (found){
+      const src = await summaryDirect(lang, found.replace(/ /g,'_'));
+      if (src){ imgCache.set(title, src); return src; }
+    }
+  }
+  imgCache.set(title, null);
+  return null;
+}
+
+let _mdRaw = null;
+async function getMd(){
+  if (_mdRaw !== null) return _mdRaw;
+  const r = await fetch('trip.md?_='+Date.now());
+  if (!r.ok) throw new Error('無法讀取 trip.md');
+  _mdRaw = await r.text();
+  return _mdRaw;
+}
+
+const SECTIONS = {
+  restaurants: ['🍽 推薦餐廳','⭐ 米其林'],
+  booking: ['🎟 活動訂票'],
+  transport: ['🚃 交通'],
+  lodging: ['🏨 住宿周邊'],
+  budget: ['💰 自費預算','💴 預算總表'],
+  tips: ['⚠️ 備案','⚠ 備案'],
+};
+
+function extractSections(md, keywords){
+  const parts = md.split(/^##\s+/m);
+  const blocks = [];
+  for (let i=1;i<parts.length;i++){
+    const block = '## ' + parts[i];
+    const firstLine = block.split('\n')[0];
+    if (keywords.some(k => firstLine.includes(k.replace(/^[^一-龥\w]+/,'')) || firstLine.startsWith(k))){
+      blocks.push(block.trim());
+    }
+  }
+  return blocks.join('\n\n---\n\n');
+}
+
+marked.setOptions({ gfm:true, breaks:false });
+const ICONS = {
+  info:'<svg class="ico"><use href="#i-info"/></svg>',
+  warning:'<svg class="ico"><use href="#i-warn"/></svg>',
+  success:'<svg class="ico"><use href="#i-ok"/></svg>',
+  danger:'<svg class="ico"><use href="#i-x"/></svg>'
+};
+function preprocessCallouts(md){
+  md = md.replace(/^\[TOC\]\s*$/m,'');
+  return md.replace(/:::(info|warning|success|danger)\s*\n([\s\S]*?):::/g,(_,type,body)=>{
+    return `<div class="callout ${type}">${ICONS[type]}<div class="body">${marked.parse(body.trim())}</div></div>`;
+  });
+}
+function slugify(t){return t.toString().trim().replace(/[^\p{Letter}\p{Number}]+/gu,'-').replace(/^-+|-+$/g,'').toLowerCase().slice(0,80)||'s'}
+function renderMd(md){
+  const renderer = new marked.Renderer();
+  renderer.heading = (text, level) => `<h${level} id="${slugify(text)}">${text}</h${level}>`;
+  return marked.parse(preprocessCallouts(md), { renderer });
+}
+function wrapTables(root){
+  root.querySelectorAll('table').forEach(t=>{
+    if (t.parentElement.classList.contains('table-wrap')) return;
+    const w=document.createElement('div'); w.className='table-wrap';
+    t.parentNode.insertBefore(w,t); w.appendChild(t);
+  });
+}
+
+function renderHero(){
+  return `
+  <section class="hero" id="hero">
+    <div class="bg" id="hero-bg"></div>
+    <div class="inner">
+      <p class="eyebrow">— A 5-Day Travel Notebook —</p>
+      <h1>黃金海岸・布里斯本<span class="jp">GOLD COAST・BRISBANE</span></h1>
+      <span class="rule"></span>
+      <p class="dates">5 Days ・ 4 Nights</p>
+      <div class="meta">
+        <span>BR315 / BR316</span>
+        <span>Novotel Surfers Paradise ×4</span>
+        <span>自費 NT$29,500 ／ 2 人</span>
+      </div>
+    </div>
+    <div class="scroll-hint"><span>SCROLL</span><span class="arrow"></span></div>
+  </section>`;
+}
+
+async function paintHeroBg(){
+  const el = document.getElementById('hero-bg');
+  if (!el) return;
+  const src = await wikiImage(HERO_WIKI);
+  if (src){ el.style.backgroundImage = `url(${src})`; el.classList.add('loaded'); }
+}
+
+function dayCardHtml(d){
+  const pills = d.attractions.map((a,i)=>`<span class="pill${i===0&&d.star?' star':''}" data-wiki="${a.wiki}">${a.name}</span>`).join('');
+  const meals = Object.entries(d.meal||{}).map(([k,v])=>`<div class="item"><span class="label">${k}</span><span class="val">${v}</span></div>`).join('');
+  const activity = d.activity ? `<div class="item"><span class="label">活動</span><span class="val"><span class="hi">${d.activity}</span></span></div>` : '';
+  const hotel = `<div class="item"><span class="label">住宿</span><span class="val">${d.hotel}</span></div>`;
+  return `
+    <article class="day-card" data-day="${d.n}">
+      <div class="gallery">
+        <div class="main-img" data-wiki="${d.heroWiki}"></div>
+        ${d.attractions.length>1 ? `<div class="thumbs">${d.attractions.slice(0,3).map(a=>`<div class="t" data-wiki="${a.wiki}"></div>`).join('')}</div>`:''}
+      </div>
+      <div class="body">
+        <div class="day-tag"><span class="num">${String(d.n).padStart(2,'0')}</span>Day ${d.n}</div>
+        <div class="date">${d.date}</div>
+        <h3>${d.title}</h3>
+        <p class="tagline">${d.tagline}</p>
+        <div class="attractions">${pills}</div>
+        <div class="meta-row">
+          ${meals}${activity}${hotel}
+        </div>
+      </div>
+    </article>`;
+}
+
+async function paintDayImages(){
+  const els = [...document.querySelectorAll('.day-card .main-img[data-wiki], .day-card .thumbs .t[data-wiki]')];
+  await Promise.all(els.map(async el=>{
+    const t = el.dataset.wiki;
+    if (!t) return;
+    const src = await wikiImage(t);
+    if (src) el.style.backgroundImage = `url(${src})`;
+  }));
+}
+
+function renderHome(){
+  const cards = DAYS.map(dayCardHtml).join('');
+  return `
+    ${renderHero()}
+    <section class="page route-view">
+      <div class="wrap">
+        <div class="head">
+          <p class="kicker">— Itinerary —</p>
+          <h2>逐日主流程</h2>
+          <div class="rule"></div>
+          <p class="desc">五天的節奏走法，餐廳訂位、活動票價、預算總表請走上方分頁。</p>
+        </div>
+        <div class="timeline">${cards}</div>
+      </div>
+    </section>`;
+}
+
+async function renderSubpage(keywords, title, kicker, desc){
+  const md = await getMd();
+  const content = extractSections(md, keywords);
+  if (!content){
+    return `<section class="page route-view"><div class="wrap"><div class="head"><p class="kicker">— ${kicker} —</p><h2>${title}</h2><div class="rule"></div></div><div class="md"><p>找不到對應內容。</p></div></div></section>`;
+  }
+  const html = renderMd(content);
+  return `
+    <section class="page route-view">
+      <div class="wrap">
+        <div class="head">
+          <p class="kicker">— ${kicker} —</p>
+          <h2>${title}</h2>
+          <div class="rule"></div>
+          ${desc?`<p class="desc">${desc}</p>`:''}
+        </div>
+        <div class="md" id="md-content">${html}</div>
+      </div>
+    </section>`;
+}
+
+const ROUTES = {
+  '/':           { fn: ()=>Promise.resolve(renderHome()), title:'行程' },
+  '/restaurants':{ fn: ()=>renderSubpage(SECTIONS.restaurants,'餐廳清單','Restaurants','海景名店、河岸 fine dining、夕陽 cafe') },
+  '/booking':    { fn: ()=>renderSubpage(SECTIONS.booking,'活動訂票','Booking','熱氣球 / Cook Island 浮潛 / Springbrook') },
+  '/transport':  { fn: ()=>renderSubpage(SECTIONS.transport,'交通詳細','Transport','Go Card / G:Link 輕軌 / 右駕') },
+  '/lodging':    { fn: ()=>renderSubpage(SECTIONS.lodging,'住宿周邊','Lodging','Novotel Surfers Paradise') },
+  '/budget':     { fn: ()=>renderSubpage(SECTIONS.budget,'預算明細','Budget','自費 ＋ 預算總表') },
+  '/tips':       { fn: ()=>renderSubpage(SECTIONS.tips,'備案 & Tips','Tips','ETA 簽證、防曬、退稅、右駕、紅眼') },
+};
+
+async function navigate(){
+  const hash = location.hash.replace(/^#/,'') || '/';
+  const route = ROUTES[hash] || ROUTES['/'];
+  document.querySelectorAll('nav.top .links a').forEach(a=>{
+    a.classList.toggle('active', a.dataset.route === hash);
+  });
+  const view = document.getElementById('view');
+  view.innerHTML = `<div class="loading"><div class="spin"></div><div>讀取中…</div></div>`;
+  try{
+    view.innerHTML = await route.fn();
+    if (hash === '/'){
+      paintHeroBg();
+      paintDayImages();
+    } else {
+      wrapTables(view);
+    }
+    window.scrollTo({top:0,behavior:'instant'});
+  }catch(err){
+    view.innerHTML = `<section class="page"><div class="wrap"><div class="callout danger"><svg class="ico"><use href="#i-x"/></svg><div class="body"><strong>載入失敗</strong><p>${err.message}</p></div></div></div></section>`;
+  }
+}
+window.addEventListener('hashchange', navigate);
+navigate();
+</script>
+</body>
+</html>
