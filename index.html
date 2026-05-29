@@ -183,6 +183,110 @@ section.page .head .rule{display:inline-block;width:48px;height:1px;background:v
 .day-card .meta-row .item .val{flex:1;min-width:0}
 .day-card .meta-row .item .val .hi{color:var(--shu);font-weight:500}
 
+/* ───── Full-bleed Day Sections (home) ───── */
+.timeline-full{position:relative}
+.day-section{
+  min-height:100vh;display:grid;grid-template-columns:1fr 1fr;
+  background:var(--paper);position:relative;scroll-margin-top:0;
+}
+.day-section:nth-child(even){background:var(--washi)}
+.day-section:nth-child(even) .day-hero{order:2}
+.day-section:nth-child(even) .day-content{order:1}
+@media (max-width:900px){
+  .day-section{grid-template-columns:1fr;min-height:auto}
+  .day-section:nth-child(even) .day-hero{order:0}
+  .day-section:nth-child(even) .day-content{order:0}
+}
+
+.day-hero{
+  position:relative;min-height:60vh;overflow:hidden;background:var(--washi-deep);
+}
+@media (max-width:900px){.day-hero{min-height:48vh}}
+.day-hero .slide{
+  position:absolute;inset:0;background-size:cover;background-position:center;
+  background-color:var(--washi-deep);opacity:0;transition:opacity .9s ease;
+}
+.day-hero .slide.active{opacity:1}
+.day-hero .cap{
+  position:absolute;left:20px;bottom:20px;z-index:2;
+  padding:6px 14px;background:rgba(21,40,48,.65);color:#fff;
+  font-size:13px;letter-spacing:.05em;border-radius:999px;
+  backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);
+  pointer-events:none;font-weight:500;
+}
+.day-hero .dots{
+  position:absolute;right:20px;bottom:20px;z-index:2;display:flex;gap:6px;
+}
+.day-hero .dots .dot{
+  width:8px;height:8px;border-radius:50%;border:none;padding:0;
+  background:rgba(255,255,255,.45);cursor:pointer;
+  transition:width .25s ease,background .25s ease;
+}
+.day-hero .dots .dot.active{background:#fff;width:22px;border-radius:6px}
+.day-hero .dots .dot:hover{background:rgba(255,255,255,.8)}
+
+.day-content{padding:64px 56px;display:flex;flex-direction:column;justify-content:center;overflow:hidden}
+@media (max-width:900px){.day-content{padding:40px 22px}}
+.day-content .day-num{
+  font-family:var(--display);font-style:italic;color:var(--shu);
+  font-size:13px;letter-spacing:.28em;text-transform:uppercase;margin-bottom:6px;
+}
+.day-content .day-num .num{font-size:42px;font-style:normal;font-weight:700;color:var(--ink);margin-right:10px;letter-spacing:.02em;vertical-align:-6px}
+.day-content h2{
+  font-family:var(--serif);font-weight:600;font-size:clamp(24px,3vw,32px);
+  margin:0 0 8px;letter-spacing:.02em;color:var(--ink);
+}
+.day-content .date{color:var(--ink-mute);font-size:14px;letter-spacing:.06em;margin:0 0 4px}
+.day-content .tagline{color:var(--ink-soft);font-size:15px;margin:14px 0 22px;line-height:1.7}
+.day-content .md{padding:0;border:none;box-shadow:none;background:transparent}
+.day-content .md h2{display:none}
+.day-content .md table{font-size:12.5px}
+.day-content .md .table-wrap{margin:12px 0}
+
+/* ───── Progress Nav (scroll spy) ───── */
+.progress-nav{
+  position:fixed;right:28px;top:50%;transform:translateY(-50%);z-index:40;
+  display:flex;flex-direction:column;gap:18px;
+  padding:18px 12px;border-radius:999px;
+  background:rgba(255,255,255,.88);
+  backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);
+  border:1px solid var(--line);
+  box-shadow:var(--shadow-1);
+  opacity:0;pointer-events:none;transition:opacity .4s ease;
+}
+.progress-nav.visible{opacity:1;pointer-events:auto}
+.progress-nav::before{
+  content:"";position:absolute;left:50%;top:24px;bottom:24px;width:1px;
+  background:var(--line);transform:translateX(-50%);z-index:0;
+}
+.progress-nav .p-fill{
+  position:absolute;left:50%;top:24px;width:1px;
+  background:var(--shu);transform:translateX(-50%);z-index:0;
+  height:0;transition:height .35s ease;
+}
+.progress-nav .p-dot{
+  position:relative;z-index:1;
+  width:34px;height:34px;border-radius:50%;border:1px solid var(--line);
+  background:var(--paper);
+  font-family:var(--display);font-style:italic;font-size:12px;font-weight:700;
+  color:var(--ink-mute);cursor:pointer;
+  display:flex;align-items:center;justify-content:center;
+  transition:all .3s ease;padding:0;letter-spacing:.02em;
+}
+.progress-nav .p-dot:hover{border-color:var(--shu);color:var(--shu)}
+.progress-nav .p-dot.active{
+  background:var(--shu);color:#fff;border-color:var(--shu);
+  transform:scale(1.18);box-shadow:0 4px 14px rgba(26,109,124,.35);
+}
+@media (max-width:760px){
+  .progress-nav{right:auto;left:50%;top:auto;bottom:18px;transform:translateX(-50%);
+    flex-direction:row;gap:12px;padding:10px 16px;
+  }
+  .progress-nav::before{left:24px;right:24px;top:50%;bottom:auto;width:auto;height:1px;transform:translateY(-50%)}
+  .progress-nav .p-fill{left:24px;right:auto;top:50%;width:0;height:1px;transform:translateY(-50%);transition:width .35s ease}
+  .progress-nav .p-dot{width:30px;height:30px;font-size:11px}
+}
+
 /* ───── Subpage MD content ───── */
 .md{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);padding:48px 56px;box-shadow:var(--shadow-1)}
 @media (max-width:720px){.md{padding:28px 22px}}
@@ -579,9 +683,8 @@ function dayCardHtml(d){
 }
 
 async function paintDayImages(){
-  const slides = [...document.querySelectorAll('.day-card .gallery .slide[data-day]')];
+  const slides = [...document.querySelectorAll('.day-hero .slide[data-day], .day-card .gallery .slide[data-day]')];
   const used = new Set();
-  // sequential to allow dedupe order priority by day/index
   for (const el of slides){
     const dn = parseInt(el.dataset.day), idx = parseInt(el.dataset.idx);
     const day = DAYS.find(x=>x.n===dn);
@@ -590,13 +693,14 @@ async function paintDayImages(){
     const src = await fetchSlideImage(item, used);
     if (src) el.style.backgroundImage = `url(${src})`;
   }
-  document.querySelectorAll('.day-card').forEach(setupCarousel);
+  document.querySelectorAll('.day-section, .day-card').forEach(setupCarousel);
 }
 
 function setupCarousel(card){
-  const slides = [...card.querySelectorAll('.gallery .slide')];
-  const dots = [...card.querySelectorAll('.gallery .dot')];
-  const cap = card.querySelector('.gallery .cap');
+  const scope = card.querySelector('.day-hero') || card.querySelector('.gallery') || card;
+  const slides = [...scope.querySelectorAll('.slide')];
+  const dots = [...scope.querySelectorAll('.dot')];
+  const cap = scope.querySelector('.cap');
   if (slides.length < 2) return;
   let i = 0, timer = null;
   const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -615,21 +719,114 @@ function setupCarousel(card){
   start();
 }
 
-function renderHome(){
-  const cards = DAYS.map(dayCardHtml).join('');
+function extractDaySection(md, dayN){
+  const re = new RegExp(`^##\\s+📅\\s*Day\\s*${dayN}[\\s\\S]*?(?=^##\\s+|\\Z)`, 'm');
+  const m = md.match(re);
+  if (!m) return '';
+  // strip the H2 line itself; tagline already shown above
+  return m[0].replace(/^##[^\n]*\n/, '');
+}
+
+async function renderHome(){
+  let md = '';
+  try{ md = await getMd(); }catch(e){}
+  const sections = DAYS.map(d=>{
+    const slides = d.attractions.map((a,i)=>`<div class="slide${i===0?' active':''}" data-day="${d.n}" data-idx="${i}" data-cap="${a.name}"></div>`).join('');
+    const dots = d.attractions.length>1 ? `<div class="dots">${d.attractions.map((_,i)=>`<button class="dot${i===0?' active':''}" data-i="${i}" aria-label="圖片 ${i+1}"></button>`).join('')}</div>` : '';
+    const dayMdRaw = extractDaySection(md, d.n);
+    const dayHtml = dayMdRaw ? renderMd(dayMdRaw) : '';
+    return `
+      <section class="day-section" id="day-${d.n}" data-day="${d.n}">
+        <div class="day-hero">
+          ${slides}
+          <div class="cap">${d.attractions[0]?.name||''}</div>
+          ${dots}
+        </div>
+        <div class="day-content">
+          <div class="day-num"><span class="num">${String(d.n).padStart(2,'0')}</span>Day ${d.n}</div>
+          <div class="date">${d.date}</div>
+          <h2>${d.title}</h2>
+          <p class="tagline">${d.tagline}</p>
+          <div class="md">${dayHtml}</div>
+        </div>
+      </section>`;
+  }).join('');
   return `
     ${renderHero()}
-    <section class="page route-view">
-      <div class="wrap">
-        <div class="head">
-          <p class="kicker">— Itinerary —</p>
-          <h2>逐日主流程</h2>
-          <div class="rule"></div>
-          <p class="desc">五天的節奏走法，餐廳訂位、活動票價、預算總表請走上方分頁。</p>
-        </div>
-        <div class="timeline">${cards}</div>
-      </div>
-    </section>`;
+    <nav class="progress-nav" id="progress-nav" aria-label="Day progress">
+      <div class="p-fill" id="p-fill"></div>
+      ${DAYS.map(d=>`<button class="p-dot${d.n===1?' active':''}" data-day="${d.n}" aria-label="跳到 Day ${d.n}">${String(d.n).padStart(2,'0')}</button>`).join('')}
+    </nav>
+    <main class="timeline-full">${sections}</main>`;
+}
+
+function setupScrollSpy(){
+  const nav = document.getElementById('progress-nav');
+  const fill = document.getElementById('p-fill');
+  if (!nav) return;
+  const dots = [...nav.querySelectorAll('.p-dot')];
+  const sections = DAYS.map(d=>document.getElementById(`day-${d.n}`)).filter(Boolean);
+  if (!sections.length || !dots.length) return;
+
+  dots.forEach(d=>{
+    d.addEventListener('click', ()=>{
+      const t = document.getElementById(`day-${d.dataset.day}`);
+      if (t) t.scrollIntoView({behavior:'smooth', block:'start'});
+    });
+  });
+
+  const setActive = (n)=>{
+    dots.forEach(d=>d.classList.toggle('active', parseInt(d.dataset.day)===n));
+    if (!fill || dots.length<2) return;
+    const ratio = (n-1)/(dots.length-1);
+    const isMobile = window.matchMedia('(max-width:760px)').matches;
+    if (isMobile){
+      const span = dots[dots.length-1].offsetLeft - dots[0].offsetLeft;
+      fill.style.width = Math.max(0, span*ratio) + 'px';
+    } else {
+      const span = dots[dots.length-1].offsetTop - dots[0].offsetTop;
+      fill.style.height = Math.max(0, span*ratio) + 'px';
+    }
+  };
+  setActive(1);
+
+  // Pick active day = section whose center is closest to viewport center
+  const updateOnScroll = ()=>{
+    const vc = window.innerHeight/2;
+    let best = sections[0], bestDist = Infinity;
+    for (const s of sections){
+      const r = s.getBoundingClientRect();
+      const c = r.top + r.height/2;
+      const d = Math.abs(c - vc);
+      if (d < bestDist){ bestDist = d; best = s; }
+    }
+    setActive(parseInt(best.dataset.day));
+  };
+
+  let ticking = false;
+  const onScroll = ()=>{
+    if (!ticking){
+      window.requestAnimationFrame(()=>{ updateOnScroll(); ticking=false; });
+      ticking = true;
+    }
+  };
+  window.addEventListener('scroll', onScroll, {passive:true});
+  window.addEventListener('resize', onScroll);
+
+  // Toggle nav visibility based on hero
+  const heroEl = document.querySelector('.hero');
+  if (heroEl && 'IntersectionObserver' in window){
+    const heroObs = new IntersectionObserver((entries)=>{
+      const ratio = entries[0].intersectionRatio;
+      nav.classList.toggle('visible', ratio < 0.4);
+    }, {threshold:[0, .4, .8, 1]});
+    heroObs.observe(heroEl);
+  } else {
+    nav.classList.add('visible');
+  }
+
+  // initial paint
+  updateOnScroll();
 }
 
 async function renderSubpage(keywords, title, kicker, desc){
@@ -654,7 +851,7 @@ async function renderSubpage(keywords, title, kicker, desc){
 }
 
 const ROUTES = {
-  '/':           { fn: ()=>Promise.resolve(renderHome()), title:'行程' },
+  '/':           { fn: ()=>renderHome(), title:'行程' },
   '/restaurants':{ fn: ()=>renderSubpage(SECTIONS.restaurants,'餐廳清單','Restaurants','海景名店、河岸 fine dining、夕陽 cafe') },
   '/booking':    { fn: ()=>renderSubpage(SECTIONS.booking,'活動訂票','Booking','熱氣球 / Cook Island 浮潛 / Springbrook') },
   '/transport':  { fn: ()=>renderSubpage(SECTIONS.transport,'交通詳細','Transport','Go Card / G:Link 輕軌 / 右駕') },
@@ -676,6 +873,8 @@ async function navigate(){
     if (hash === '/'){
       paintHeroBg();
       paintDayImages();
+      wrapTables(view);
+      setupScrollSpy();
     } else {
       wrapTables(view);
     }
