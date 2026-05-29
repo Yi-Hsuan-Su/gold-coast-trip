@@ -73,7 +73,7 @@
 
 | 時段 | 主安排 | 備選/替代 |
 |------|--------|-----------|
-| **上午主活動** | **Cook Island 半日浮潛**（Tweed Heads 出發 08:30-12:30 海龜 + 魟魚 + 珊瑚）🤿 [官網訂](https://www.snorkellingaustralia.com.au/) ｜ [Klook](https://www.klook.com/zh-TW/activity/72655-cook-island-snorkelling-tour-gold-coast/) | Wave Break Island 半日浮潛、Tangalooma 沉船浮潛（全日 太占時間 棄） |
+| **上午主活動** | **Cook Island 半日浮潛**（Tweed Heads 出發 08:30-12:30 海龜 + 魟魚 + 珊瑚）🤿 [Watersports Guru 官網](https://watersportsguru.com/snorkel-with-turtles/) ｜ [直接訂(Rezdy)](https://watersportsguru.rezdy.com/42288/snorkel-with-the-turtles) ｜ [Experience Oz](https://www.experienceoz.com.au/en/gold-coast/snorkel-or-scuba-at-cook-island) ｜ [Viator](https://www.viator.com/tours/Gold-Coast/Guided-Snorkel-with-Fish-Tour-at-Cook-Island-Aquatic-Reserve/d367-37835P15) | Wave Break Island 半日浮潛、Tangalooma 沉船浮潛（全日 太占時間 棄） |
 | **午餐** | Tweed Heads / Kingscliff 海邊 café 推薦 **[Fins Restaurant](https://www.google.com/maps/search/?api=1&query=Fins%20Restaurant%20Kingscliff)**（Kingscliff 海鮮）📅 [訂位](https://fins.com.au/reservations/) | [Paper Daisy](https://www.google.com/maps/search/?api=1&query=Paper%20Daisy%20Cabarita%20Beach)（Cabarita Beach fine dining ~AUD110）📅 [訂位](https://halcyonhouse.com.au/dining/) |
 | **下午** | **Springbrook 國家公園** — Best of All Lookout 觀景台 + Natural Bridge 自然橋 🌿 [Queensland NP](https://parks.desi.qld.gov.au/parks/springbrook) | Lamington 國家公園（更原始 但較遠）、Mt Tamborine 酒莊 |
 | **傍晚** | Natural Bridge 等天黑看**螢光蟲洞**（藍螢光）免費入場 | — |
@@ -140,7 +140,7 @@
 | 活動 | 平台 | 價格（每人） | 訂票連結 | 備註 |
 |------|------|-------------|----------|------|
 | **Hot Air Gold Coast 熱氣球** | 官網 | AUD$329 含早餐 + 酒莊 | 🎈 [hotair.com.au](https://www.hotair.com.au/gold-coast/) ｜ [Klook](https://www.klook.com/zh-TW/activity/2118-hot-air-balloon-ride-gold-coast/) ｜ [KKday](https://www.kkday.com/zh-tw/product/19996) | 04:00 接送 天候取消可改期 預約綁日期 |
-| **Cook Island 半日浮潛** | Watersports Guru | AUD$159 含裝備 + 導潛 | 🤿 [snorkellingaustralia.com.au](https://www.snorkellingaustralia.com.au/) ｜ [Klook](https://www.klook.com/zh-TW/activity/72655-cook-island-snorkelling-tour-gold-coast/) | Tweed Heads 出海 5-10 月最佳能見度 |
+| **Cook Island 半日浮潛** | Watersports Guru | AUD$159 含裝備 + 導潛 | 🤿 [官網](https://watersportsguru.com/snorkel-with-turtles/) ｜ [Rezdy 直訂](https://watersportsguru.rezdy.com/42288/snorkel-with-the-turtles) ｜ [Experience Oz](https://www.experienceoz.com.au/en/gold-coast/snorkel-or-scuba-at-cook-island) ｜ [Viator](https://www.viator.com/tours/Gold-Coast/Guided-Snorkel-with-Fish-Tour-at-Cook-Island-Aquatic-Reserve/d367-37835P15) | Tweed Heads 出海 5-10 月最佳能見度 |
 | Tangalooma 沉船浮潛（備選 棄） | Tangalooma Resort | AUD$199 全日船 | 🛥 [tangalooma.com](https://www.tangalooma.com/Marine-Eco-Tours/Tangalooma-Day-Cruise) | 佔整天 不符鬆散風格 |
 | Springbrook Natural Bridge | 免費 | 0 | 🌿 [Queensland NP](https://parks.desi.qld.gov.au/parks/springbrook) | 黃昏入園看螢光蟲 步道 25 分 帶紅光手電 |
 
