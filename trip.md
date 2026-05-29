@@ -32,12 +32,12 @@
 |------|------|
 | **行程** | 天堂鄉農莊 Paradise Country（無尾熊 / 袋鼠 / 牧羊秀）→ 海港城 Premium Outlets |
 | **午餐** | 園區自助餐（含） |
-| **晚餐** | 自理推薦 ★ **[Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads)** Burleigh Heads（海景越亞名店 ~AUD120）📅 [訂位](https://www.rickshores.com.au/reservations) |
+| **晚餐** | 中價位 ★ **[Surfers Pavilion](https://www.google.com/maps/search/?api=1&query=Surfers%20Pavilion%20Surfers%20Paradise)**（河景 Mod-Aus AUD$50-65）📅 [官網訂](https://www.surferspavilion.com.au) |
 | **住宿** | Novotel Surfers Paradise |
 
-- **晚餐替代**：[Hellenika](https://www.google.com/maps/search/?api=1&query=Hellenika%20Nobby%20Beach) 希臘菜（Nobby Beach）、[BiN72](https://www.google.com/maps/search/?api=1&query=BiN72%20Mermaid%20Beach%20Gold%20Coast) tapas、[The Tropic](https://www.google.com/maps/search/?api=1&query=The%20Tropic%20Surfers%20Paradise) rooftop
-- **備案**：跟團含 不可改 含抱無尾熊紀念照
-- **[Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads) 須提前 1-2 週訂**
+- **晚餐替代（中價位）**：[COAST Beach Bar & Kitchen](https://www.google.com/maps/search/?api=1&query=COAST%20Beach%20Bar%20Kitchen%20Surfers%20Paradise)（海邊 Josper grill）、[Justin Lane](https://www.google.com/maps/search/?api=1&query=Justin%20Lane%20Establishment%20Burleigh%20Heads)（Burleigh rooftop pizza）
+- **升級備選**：★ [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads)（AUD$110-140 需 4-6 週訂）— 詳見「升級備選」section
+- **備案**：跟團含午餐 不可改 含抱無尾熊紀念照
 
 ---
 
@@ -49,10 +49,10 @@
 
 | 時段 | 主安排 | 備選/替代 |
 |------|--------|-----------|
-| **凌晨主活動** | **熱氣球 Hot Air Gold Coast** Scenic Rim 飛行（~30-60 分）+ 回程葡萄酒莊歐式早餐 🎈 [官網訂](https://www.hotair.com.au/gold-coast/) ｜ [Klook](https://www.klook.com/zh-TW/activity/2118-hot-air-balloon-ride-gold-coast/) | Hot Air Brisbane（布市西郊起飛 同公司） |
+| **凌晨主活動** | **熱氣球 Hot Air Gold Coast** Scenic Rim 飛行（~30-60 分）+ 回程葡萄酒莊歐式早餐 🎈 [官網訂](https://www.hotair.com.au/gold-coast/) ｜ [Klook](https://www.klook.com/zh-TW/activity/2477-hot-air-balloon-ride-gold-coast/) | Hot Air Brisbane（布市西郊起飛 同公司） |
 | **下午** | 鬆散：飯店泳池 / Surfers Paradise 海灘 / 補眠 | Tamborine 山下午茶（雨林 + 酒莊 + 巧克力工坊） |
 | **傍晚** | Burleigh Headland Walk（海岬步道 ~30 分）+ 海灘夕陽 | Currumbin Rock 夕陽、Snapper Rocks |
-| **晚餐** | ★ [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads)（若 Day2 訂不到挪這天）📅 [訂位](https://www.rickshores.com.au/reservations) ／ [Burleigh Pavilion](https://www.google.com/maps/search/?api=1&query=Burleigh%20Pavilion%20Burleigh%20Heads)（西望 Surfers 天際線日落 不收訂） | [Light Years](https://www.google.com/maps/search/?api=1&query=Light%20Years%20Burleigh%20Heads)（Burleigh 東南亞）、[Justin Lane Pizzeria](https://www.google.com/maps/search/?api=1&query=Justin%20Lane%20Pizzeria%20Burleigh%20Heads) |
+| **晚餐** | 中價位 ★ **[Justin Lane Establishment](https://www.google.com/maps/search/?api=1&query=Justin%20Lane%20Establishment%20Burleigh%20Heads)**（Burleigh rooftop pizza/pasta AUD$50-60）📅 [官網訂](https://www.justinlane.com.au) ／ 餐前酒 [Burleigh Pavilion](https://www.google.com/maps/search/?api=1&query=Burleigh%20Pavilion%20Burleigh%20Heads)（日落 不收訂） | 中價位替代：[Burleigh Social](https://www.google.com/maps/search/?api=1&query=Burleigh%20Social%20Burleigh%20Heads) Mod-Aus；升級 ★ [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads) / [The Tropic](https://www.google.com/maps/search/?api=1&query=The%20Tropic%20Burleigh%20Pavilion) |
 
 - **交通**：熱氣球公司含飯店接送（04:00 pick up）；其餘 G:Link Tram 輕軌
 - **自費**：熱氣球 ~AUD329 ×2 / 約 NT$14,000（2 人）
@@ -73,19 +73,19 @@
 
 | 時段 | 主安排 | 備選/替代 |
 |------|--------|-----------|
-| **上午主活動** | **Cook Island 半日浮潛**（Tweed Heads 出發 08:30-12:30 海龜 + 魟魚 + 珊瑚）🤿 [Watersports Guru 官網](https://watersportsguru.com/snorkel-with-turtles/) ｜ [直接訂(Rezdy)](https://watersportsguru.rezdy.com/42288/snorkel-with-the-turtles) ｜ [Experience Oz](https://www.experienceoz.com.au/en/gold-coast/snorkel-or-scuba-at-cook-island) ｜ [Viator](https://www.viator.com/tours/Gold-Coast/Guided-Snorkel-with-Fish-Tour-at-Cook-Island-Aquatic-Reserve/d367-37835P15) | Wave Break Island 半日浮潛、Tangalooma 沉船浮潛（全日 太占時間 棄） |
-| **午餐** | Tweed Heads / Kingscliff 海邊 café 推薦 **[Fins Restaurant](https://www.google.com/maps/search/?api=1&query=Fins%20Restaurant%20Kingscliff)**（Kingscliff 海鮮）📅 [訂位](https://fins.com.au/reservations/) | [Paper Daisy](https://www.google.com/maps/search/?api=1&query=Paper%20Daisy%20Cabarita%20Beach)（Cabarita Beach fine dining ~AUD110）📅 [訂位](https://halcyonhouse.com.au/dining/) |
-| **下午** | **Springbrook 國家公園** — Best of All Lookout 觀景台 + Natural Bridge 自然橋 🌿 [Queensland NP](https://parks.desi.qld.gov.au/parks/springbrook) | Lamington 國家公園（更原始 但較遠）、Mt Tamborine 酒莊 |
+| **上午主活動** | **Cook Island 半日浮潛**（Fingal Head 出發 — Watersports Guru 班次 08:00 / 10:30 / 13:00 任選；建議 08:00 場 ~11:00 結束 海龜 + 魟魚 + 珊瑚）🤿 [Watersports Guru 官網](https://watersportsguru.com/snorkel-with-turtles/) ｜ [直接訂(Rezdy)](https://watersportsguru.rezdy.com/42288/snorkel-with-the-turtles) ｜ [Experience Oz](https://www.experienceoz.com.au/en/gold-coast/snorkel-or-scuba-at-cook-island) ｜ [Viator](https://www.viator.com/tours/Gold-Coast/Guided-Snorkel-with-Fish-Tour-at-Cook-Island-Aquatic-Reserve/d367-37835P15) | Wave Break Island 半日浮潛、Tangalooma 沉船浮潛（全日 太占時間 棄） |
+| **午餐** | 中價位 ★ **[No. 35 Kitchen & Bar](https://www.google.com/maps/search/?api=1&query=No.%2035%20Kitchen%20Bar%20Cabarita%20Beach)**（Cabarita Beach Mod-Aus 季節食材 AUD$55-70）📅 [no35.com.au](https://www.no35.com.au) | 中價替代 [Taverna Kingscliff](https://www.google.com/maps/search/?api=1&query=Taverna%20Kingscliff)；升級 [Paper Daisy](https://www.google.com/maps/search/?api=1&query=Paper%20Daisy%20Cabarita%20Beach)（AUD$130-160）📅 [Halcyon House](https://halcyonhouse.com.au/paper-daisy-restaurant/) |
+| **下午（直接路線）** | Cabarita → **Springbrook 國家公園**（~50 分車程 不必繞回 Surfers）— Best of All Lookout 觀景台 + Natural Bridge 自然橋 🌿 [Queensland NP](https://parks.qld.gov.au/parks/springbrook) | Lamington 國家公園（更原始 但較遠）、Mt Tamborine 酒莊 |
 | **傍晚** | Natural Bridge 等天黑看**螢光蟲洞**（藍螢光）免費入場 | — |
-| **晚餐** | 回 Surfers Paradise — ★ **[The Tropic](https://www.google.com/maps/search/?api=1&query=The%20Tropic%20Surfers%20Paradise)** rooftop（夕陽錯過改夜景）📅 [訂位](https://www.thetropic.com.au/bookings) | [Cambus Wallace](https://www.google.com/maps/search/?api=1&query=Cambus%20Wallace%20Mermaid%20Beach%20Gold%20Coast) 速食酒吧、[Hellenika](https://www.google.com/maps/search/?api=1&query=Hellenika%20Nobby%20Beach) 希臘 📅 [訂位](https://hellenika.com.au/nobby-beach/) |
+| **晚餐** | 回 Surfers Paradise — 中價位 ★ **[Hellenika Broadbeach](https://www.google.com/maps/search/?api=1&query=Hellenika%20Broadbeach%20The%20Star)**（The Star 內 現代希臘 AUD$60-75）📅 [OpenTable](https://www.opentable.com.au/r/hellenika-broadbeach) | 升級 [The Tropic](https://www.google.com/maps/search/?api=1&query=The%20Tropic%20Burleigh%20Pavilion)（Burleigh Pavilion 樓上地中海 AUD$100-130）📅 [thetropic.com.au/bookings](https://www.thetropic.com.au/bookings) |
 
-- **交通**：浮潛公司 Surfers Paradise 接送；Springbrook 須包車 / Uber（無大眾運輸） 來回約 AUD$200
-- **自費**：Cook Island 浮潛 ~AUD159 ×2 / 約 NT$6,800（2 人）
+- **交通（優化）**：浮潛公司 Surfers ↔ Fingal Head 接送（含）；**Fingal → Cabarita → Springbrook 直接走 不繞回 Surfers**（省 1.5hr 車程）；Springbrook 須自駕或包車（無大眾運輸 來回 Springbrook → Surfers 約 AUD$150）
+- **自費**：Cook Island 浮潛 ~AUD139 ×2 / 約 NT$6,000（2 人）— Watersports Guru 實際價格
 - **備案**：
   - Cook Island 能見度佳 **5-10 月最好**；暈船備藥（出海 40 分 提前 30 分服藥）
-  - Fins **星期一公休**
   - Natural Bridge 黃昏入園才看得到螢火蟲（18:30 後 步道 25 分 帶**紅光**手電筒 禁閃光燈）
-  - Tropic 18 席屋頂 須訂
+  - 11 月為春末初夏 螢火蟲族群比 12-3 月高峰少 預期會比夏季少
+  - Hellenika 假日午晚熱門 提早 1 週訂
 - **住宿**：Novotel Surfers Paradise
 
 ---
@@ -96,41 +96,65 @@
 |------|------|
 | **行程** | 跟團：舊市政廳 + 喬治王廣場 + 南岸公園 South Bank → 庫薩山 Mt Coot-tha 觀景台 → 皇后街 Queen St Mall 購物 |
 | **早餐** | 飯店 |
-| **午餐** | 皇后街 / 南岸 自理 推薦 ★ **[Howard Smith Wharves](https://www.google.com/maps/search/?api=1&query=Howard%20Smith%20Wharves%20Brisbane)**（布市河岸群 故事橋下）🌐 [howardsmithwharves.com](https://howardsmithwharves.com/) ｜ [Greca](https://www.google.com/maps/search/?api=1&query=Greca%20Brisbane) 📅 [訂](https://grecabrisbane.com.au/) ｜ [Mr Percival's](https://www.google.com/maps/search/?api=1&query=Mr%20Percival%27s%20Brisbane) 📅 [訂](https://mrpercivals.com.au/) |
+| **午餐** | 中價位 ★ **[Ciao Papi](https://www.google.com/maps/search/?api=1&query=Ciao%20Papi%20Howard%20Smith%20Wharves%20Brisbane)**（HSW 河岸義式 pizza/pasta AUD$45-65）📅 [ciaopapi.com.au](https://www.ciaopapi.com.au) | 替代：[Felons Brewing](https://www.google.com/maps/search/?api=1&query=Felons%20Brewing%20Co%20Howard%20Smith%20Wharves%20Brisbane) 河岸 pub（AUD$40-60）｜ HSW 河岸群整覽：[howardsmithwharves.com](https://howardsmithwharves.com/) |
 | **下午彈性** | 南岸公園 Streets Beach 人造海灘 + GOMA 現代美術館（免費）+ 故事橋 Story Bridge |
 | **黃昏** | ★ **[Felons Brewing Co.](https://www.google.com/maps/search/?api=1&query=Felons%20Brewing%20Co%20Howard%20Smith%20Wharves%20Brisbane)**（故事橋下河岸啤酒廠）看夕陽 🍺 [felonsbrewingco.com.au](https://felonsbrewingco.com.au/) ／ Mt Coot-tha 黃昏觀景 |
-| **晚餐** | ★ **[Stokehouse Q](https://www.google.com/maps/search/?api=1&query=Stokehouse%20Q%20South%20Bank%20Brisbane)**（South Bank 河畔 fine dining ~AUD130）📅 [訂位](https://www.stokehouseq.com.au/reservations)（指定河景位） |
+| **晚餐** | 中價位 ★ **[Riverbar & Kitchen](https://www.google.com/maps/search/?api=1&query=Riverbar%20Kitchen%20Eagle%20Street%20Pier%20Brisbane)**（Eagle St Pier Mod-Aus 故事橋河景 AUD$55-75）📅 [riverbarandkitchen.com.au](https://riverbarandkitchen.com.au) |
 | **返程** | Brisbane → BNE 機場 跟團車 → BR316 22:15 起飛 |
 
-- **備選**：[Eagle Street Pier](https://www.google.com/maps/search/?api=1&query=Eagle%20Street%20Pier%20Brisbane) 河畔、Brisbane River City Hopper 免費渡輪、[Otto Ristorante](https://www.google.com/maps/search/?api=1&query=Otto%20Ristorante%20Brisbane)、[ARIA Brisbane](https://www.google.com/maps/search/?api=1&query=ARIA%20Brisbane) ★ 名廚
+- **晚餐升級備選**：★ [Stokehouse Q](https://www.google.com/maps/search/?api=1&query=Stokehouse%20Q%20South%20Bank%20Brisbane)（South Bank 河畔 fine dining AUD$120-150）📅 [訂位](https://stokehouseq.com.au/bookings/) ／ [Blackbird](https://www.google.com/maps/search/?api=1&query=Blackbird%20Bar%20Grill%20Eagle%20Street%20Pier%20Brisbane) Eagle St 牛排 ／ [BlackHide by Gambaro](https://www.google.com/maps/search/?api=1&query=BlackHide%20by%20Gambaro%20Brisbane) 昆士蘭名牛排 ／ ⚠️ [ARIA Brisbane](https://www.google.com/maps/search/?api=1&query=ARIA%20Brisbane)（傳 2026/6/15 結業 出發前確認）
+- **景點備選**：[Eagle Street Pier](https://www.google.com/maps/search/?api=1&query=Eagle%20Street%20Pier%20Brisbane) 河畔、Brisbane River City Hopper 免費渡輪
 - **備案**：
-  - GOMA **週一公休**
+  - GOMA 每日 10:00-17:00（週五延至 20:00），**僅復活節耶誕節休館** 週一照常營業
   - Felons 露天區搶位早點到
-  - [Stokehouse Q](https://www.google.com/maps/search/?api=1&query=Stokehouse%20Q%20South%20Bank%20Brisbane) **須提前 1-2 週訂** 河景位指定
+  - [Stokehouse Q](https://www.google.com/maps/search/?api=1&query=Stokehouse%20Q%20South%20Bank%20Brisbane) 若要升級 **須提前 1-2 週訂** 河景位指定
   - 全天可玩 紅眼班機 22:15 報到 20:00 前 行李前一晚打包
-  - 紅眼隔日 5:05 抵台清晨無接駁
+  - 紅眼隔日 5:05 抵台清晨無接駁 預訂機場接送
 
 ---
 
-## 🍽 推薦餐廳
+## 🍽 推薦餐廳（中價位主選 AUD$50-75 / 人 ≈ NT$1,000-1,500）
 
-| 餐廳 | 地點 / 類型 | 價位 | 訂位難度 | 訂位連結 |
-|------|-------------|------|----------|----------|
-| **★ [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads)** | Burleigh Heads・越亞海景名店 | AUD$80-120/人 | ★★★ 提前 1-2 週 | 📅 [rickshores.com.au/reservations](https://www.rickshores.com.au/reservations) |
-| [Burleigh Pavilion](https://www.google.com/maps/search/?api=1&query=Burleigh%20Pavilion%20Burleigh%20Heads) | Burleigh・海邊酒吧（夕陽） | AUD$40-70/人 | **不收訂位** 早到搶位 | 🌐 [burleighpavilion.com](https://burleighpavilion.com/) |
-| **[The Tropic](https://www.google.com/maps/search/?api=1&query=The%20Tropic%20Surfers%20Paradise)** | Surfers Paradise・rooftop 東南亞 | AUD$50-80/人 | ★★ 提前 1 週 | 📅 [thetropic.com.au/bookings](https://www.thetropic.com.au/bookings) |
-| [Hellenika](https://www.google.com/maps/search/?api=1&query=Hellenika%20Nobby%20Beach) | Nobby Beach・希臘菜 | AUD$70-100/人 | ★★ OpenTable | 📅 [hellenika.com.au](https://hellenika.com.au/nobby-beach/) |
-| [Fins Restaurant](https://www.google.com/maps/search/?api=1&query=Fins%20Restaurant%20Kingscliff) | Kingscliff・海鮮（Day4 午） | AUD$70-110/人 | ★★ 官網訂位 週一公休 | 📅 [fins.com.au/reservations](https://fins.com.au/reservations/) |
-| [Paper Daisy](https://www.google.com/maps/search/?api=1&query=Paper%20Daisy%20Cabarita%20Beach) | Cabarita Beach・fine dining | AUD$100-140/人 | ★★★ Halcyon House | 📅 [halcyonhouse.com.au/dining](https://halcyonhouse.com.au/dining/) |
-| **★ [Stokehouse Q](https://www.google.com/maps/search/?api=1&query=Stokehouse%20Q%20South%20Bank%20Brisbane)** | South Bank・fine dining 河景 | AUD$100-150/人 | ★★★ 提前 2 週 河景位指定 | 📅 [stokehouseq.com.au](https://www.stokehouseq.com.au/reservations) |
-| **[Felons Brewing Co.](https://www.google.com/maps/search/?api=1&query=Felons%20Brewing%20Co%20Howard%20Smith%20Wharves%20Brisbane)** | 故事橋下・河岸啤酒廠（夕陽） | AUD$30-60/人 | 露天區不收訂 室內可訂 | 📅 [felonsbrewingco.com.au](https://felonsbrewingco.com.au/) |
-| [Greca](https://www.google.com/maps/search/?api=1&query=Greca%20Brisbane) | [Howard Smith Wharves](https://www.google.com/maps/search/?api=1&query=Howard%20Smith%20Wharves%20Brisbane)・地中海 | AUD$60-100/人 | ★★ 提前 1 週 | 📅 [grecabrisbane.com.au](https://grecabrisbane.com.au/) |
-| [Mr Percival's](https://www.google.com/maps/search/?api=1&query=Mr%20Percival%27s%20Brisbane) | [Howard Smith Wharves](https://www.google.com/maps/search/?api=1&query=Howard%20Smith%20Wharves%20Brisbane)・河上水餐廳 | AUD$50-90/人 | ★★ 提前 1 週 | 📅 [mrpercivals.com.au](https://mrpercivals.com.au/) |
-| [Otto Ristorante](https://www.google.com/maps/search/?api=1&query=Otto%20Ristorante%20Brisbane) | South Bank・義式河景 | AUD$80-120/人 | ★★ OpenTable | 📅 [ottoristorante.com.au](https://www.ottoristorante.com.au/) |
-| [ARIA Brisbane](https://www.google.com/maps/search/?api=1&query=ARIA%20Brisbane) | 河岸・★ 名廚 fine dining | AUD$120-180/人 | ★★★ 提前 2-3 週 | 📅 [ariarestaurant.com](https://www.ariarestaurant.com/brisbane/) |
+> 排除亞洲料理 + buffet，以西式 / 現代澳洲 / 地中海為主，皆驗證 4.2★ 以上。
+
+| 餐廳 | 地點 / 類型 | 價位 AUD | Google | 建議日/餐期 | 訂位連結 |
+|------|-------------|----------|--------|-------------|----------|
+| **[Surfers Pavilion](https://www.google.com/maps/search/?api=1&query=Surfers%20Pavilion%20Surfers%20Paradise)** | Surfers Paradise・Mod-Aus 河景 | $50-65 | 4.3 | **Day2 晚餐** | [surferspavilion.com.au](https://www.surferspavilion.com.au) |
+| [COAST Beach Bar & Kitchen](https://www.google.com/maps/search/?api=1&query=COAST%20Beach%20Bar%20Kitchen%20Surfers%20Paradise) | Surfers・Josper grill 海邊 | $55-70 | 4.4 | Day2 晚餐 替代 | [coastsurfersparadise.com.au](https://coastsurfersparadise.com.au) |
+| **[Justin Lane Establishment](https://www.google.com/maps/search/?api=1&query=Justin%20Lane%20Establishment%20Burleigh%20Heads)** | Burleigh・rooftop pizza/pasta | $50-60 | 4.3 | **Day3 晚餐** | [justinlane.com.au](https://www.justinlane.com.au) |
+| [Burleigh Social](https://www.google.com/maps/search/?api=1&query=Burleigh%20Social%20Burleigh%20Heads) | Burleigh・Mod-Aus 海邊 | $45-60 | 4.4 | Day3 晚餐 替代 | [burleighsocial.com.au](https://www.burleighsocial.com.au) |
+| [Burleigh Pavilion](https://www.google.com/maps/search/?api=1&query=Burleigh%20Pavilion%20Burleigh%20Heads) | Burleigh・海邊酒吧夕陽 | $40-70 | 4.2 | Day3 落日餐前酒 | [burleighpavilion.com](https://burleighpavilion.com/) — 不收訂位 |
+| **[No. 35 Kitchen & Bar](https://www.google.com/maps/search/?api=1&query=No.%2035%20Kitchen%20Bar%20Cabarita%20Beach)** | Cabarita・Mod-Aus 季節食材 | $55-70 | 4.5 | **Day4 午餐** | [no35.com.au](https://www.no35.com.au) |
+| [Taverna Kingscliff](https://www.google.com/maps/search/?api=1&query=Taverna%20Kingscliff) | Kingscliff・希臘地中海海邊 | $50-70 | 4.5 | Day4 午餐 替代 | [tavernakingscliff.com.au](https://www.tavernakingscliff.com.au) |
+| **[Hellenika Broadbeach](https://www.google.com/maps/search/?api=1&query=Hellenika%20Broadbeach%20The%20Star)** | Broadbeach The Star・現代希臘 | $60-75 | 4.5 | **Day4 晚餐** | [OpenTable](https://www.opentable.com.au/r/hellenika-broadbeach) |
+| **[Ciao Papi](https://www.google.com/maps/search/?api=1&query=Ciao%20Papi%20Howard%20Smith%20Wharves%20Brisbane)** | HSW Brisbane・河岸義式 pizza/pasta | $45-65 | 4.4 | **Day5 午餐** | [ciaopapi.com.au](https://www.ciaopapi.com.au) |
+| [Felons Brewing Co.](https://www.google.com/maps/search/?api=1&query=Felons%20Brewing%20Co%20Howard%20Smith%20Wharves%20Brisbane) | HSW・河岸啤酒廠（pizza + steak frites） | $40-60 | 4.3 | Day5 午餐 替代 / 黃昏 | [felonsbrewingco.com.au](https://felonsbrewingco.com.au/) |
+| **[Riverbar & Kitchen](https://www.google.com/maps/search/?api=1&query=Riverbar%20Kitchen%20Eagle%20Street%20Pier%20Brisbane)** | Eagle St Pier・Mod-Aus 故事橋河景 | $55-75 | 4.3 | **Day5 晚餐** | [riverbarandkitchen.com.au](https://riverbarandkitchen.com.au) |
+
+:::success
+**🏆 必訪 Top 3 中價位**
+1. **[No. 35 Kitchen & Bar](https://www.google.com/maps/search/?api=1&query=No.%2035%20Kitchen%20Bar%20Cabarita%20Beach) (Day4 午)** — 4.5★ Cabarita 在地名店，浮潛後輕鬆海風 lunch
+2. **[Riverbar & Kitchen](https://www.google.com/maps/search/?api=1&query=Riverbar%20Kitchen%20Eagle%20Street%20Pier%20Brisbane) (Day5 晚)** — 布市 CBD 最佳中價河+橋景，trip 收尾不爆預算
+3. **[Justin Lane](https://www.google.com/maps/search/?api=1&query=Justin%20Lane%20Establishment%20Burleigh%20Heads) (Day3 晚)** — Burleigh rooftop pizza + cocktail，避開 Rick Shores 排隊
+:::
+
+---
+
+## ⭐ 升級備選（高價位 AUD$100+ / 人，自行考量替換）
+
+> 中價位主選已涵蓋全部 5 天 6 餐。下列為「想升級這天那餐」備案。提前 2-4 週訂。
+
+| 餐廳 | 地點 / 類型 | 價位 AUD | 建議替換 | 升級理由 | 訂位連結 |
+|------|-------------|----------|----------|----------|----------|
+| **[Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads)** | Burleigh Heads・亞洲融合海景 | $110-140 | Day3 晚餐 | 腳泡沙日落，GC 經典名片；訂位需 4-6 週 | [官網](https://www.rickshores.com.au/) |
+| **[The Tropic](https://www.google.com/maps/search/?api=1&query=The%20Tropic%20Burleigh%20Pavilion)** | Burleigh Pavilion 樓上・地中海 | $100-130 | Day3 晚餐 | Burleigh 最佳非亞洲升級，海景 + Med 菜 | [thetropic.com.au/bookings](https://www.thetropic.com.au/bookings) |
+| **[Paper Daisy](https://www.google.com/maps/search/?api=1&query=Paper%20Daisy%20Cabarita%20Beach) (Halcyon House)** | Cabarita Beach・Mod-Aus fine dining | $130-160 | Day4 午餐 | Hatted destination lunch，浮潛後 splurge | [halcyonhouse.com.au/paper-daisy-restaurant/](https://halcyonhouse.com.au/paper-daisy-restaurant/) |
+| **[Stokehouse Q](https://www.google.com/maps/search/?api=1&query=Stokehouse%20Q%20South%20Bank%20Brisbane) (樓上正餐)** | South Bank・Mod-Aus 海鮮 | $120-150 | Day5 晚餐 | 河 + 天際線 fine dining 特別日 | [stokehouseq.com.au/bookings/](https://stokehouseq.com.au/bookings/) |
+| **[Blackbird Bar & Grill](https://www.google.com/maps/search/?api=1&query=Blackbird%20Bar%20Grill%20Eagle%20Street%20Pier%20Brisbane)** | Eagle St Pier・牛排海鮮 | $120-160 | Day5 晚餐 替代 | 雙層河岸露台，dry-aged 牛排 | [blackbirdbrisbane.com.au](https://www.blackbirdbrisbane.com.au) |
+| **[BlackHide by Gambaro](https://www.google.com/maps/search/?api=1&query=BlackHide%20by%20Gambaro%20Brisbane)** | Brisbane CBD・名牛排 | $130-170 | Day5 晚餐 替代 | 昆士蘭名牛排，wagyu focus | [blackhide.com.au](https://www.blackhide.com.au) |
 
 :::warning
-**訂位優先順序**：[Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads) / [Stokehouse Q](https://www.google.com/maps/search/?api=1&query=Stokehouse%20Q%20South%20Bank%20Brisbane) / [Paper Daisy](https://www.google.com/maps/search/?api=1&query=Paper%20Daisy%20Cabarita%20Beach) / ARIA → 出發前 2 週訂；[The Tropic](https://www.google.com/maps/search/?api=1&query=The%20Tropic%20Surfers%20Paradise) / Fins / [Hellenika](https://www.google.com/maps/search/?api=1&query=Hellenika%20Nobby%20Beach) → 出發前 1 週訂；[Burleigh Pavilion](https://www.google.com/maps/search/?api=1&query=Burleigh%20Pavilion%20Burleigh%20Heads) / Felons 露天 → 不收訂位早點到。
+**⚠️ ARIA Brisbane 注意**：原 Matt Moran 河岸名店傳 **2026/6/15 結束營業**，出發前確認是否仍開放再訂位。
 :::
 
 ---
@@ -139,10 +163,10 @@
 
 | 活動 | 平台 | 價格（每人） | 訂票連結 | 備註 |
 |------|------|-------------|----------|------|
-| **Hot Air Gold Coast 熱氣球** | 官網 | AUD$329 含早餐 + 酒莊 | 🎈 [hotair.com.au](https://www.hotair.com.au/gold-coast/) ｜ [Klook](https://www.klook.com/zh-TW/activity/2118-hot-air-balloon-ride-gold-coast/) ｜ [KKday](https://www.kkday.com/zh-tw/product/19996) | 04:00 接送 天候取消可改期 預約綁日期 |
+| **Hot Air Gold Coast 熱氣球** | 官網 | AUD$329 含早餐 + 酒莊 | 🎈 [hotair.com.au](https://www.hotair.com.au/gold-coast/) ｜ [Klook](https://www.klook.com/zh-TW/activity/2477-hot-air-balloon-ride-gold-coast/) ｜ [KKday](https://www.kkday.com/zh-tw/product/123302) | 04:00 接送 天候取消可改期 預約綁日期 |
 | **Cook Island 半日浮潛** | Watersports Guru | AUD$159 含裝備 + 導潛 | 🤿 [官網](https://watersportsguru.com/snorkel-with-turtles/) ｜ [Rezdy 直訂](https://watersportsguru.rezdy.com/42288/snorkel-with-the-turtles) ｜ [Experience Oz](https://www.experienceoz.com.au/en/gold-coast/snorkel-or-scuba-at-cook-island) ｜ [Viator](https://www.viator.com/tours/Gold-Coast/Guided-Snorkel-with-Fish-Tour-at-Cook-Island-Aquatic-Reserve/d367-37835P15) | Tweed Heads 出海 5-10 月最佳能見度 |
 | Tangalooma 沉船浮潛（備選 棄） | Tangalooma Resort | AUD$199 全日船 | 🛥 [tangalooma.com](https://www.tangalooma.com/Marine-Eco-Tours/Tangalooma-Day-Cruise) | 佔整天 不符鬆散風格 |
-| Springbrook Natural Bridge | 免費 | 0 | 🌿 [Queensland NP](https://parks.desi.qld.gov.au/parks/springbrook) | 黃昏入園看螢光蟲 步道 25 分 帶紅光手電 |
+| Springbrook Natural Bridge | 免費 | 0 | 🌿 [Queensland NP](https://parks.qld.gov.au/parks/springbrook) | 黃昏入園看螢光蟲 步道 25 分 帶紅光手電 |
 
 ---
 
@@ -151,14 +175,18 @@
 | 項目 | 2 人 NT$ | 說明 |
 |------|---------|------|
 | 熱氣球 Hot Air GC ×2 | 14,000 | Day3 凌晨 含早餐 + 酒莊 |
-| Cook Island 浮潛 ×2 | 6,800 | Day4 上午半日 |
-| Springbrook 接送（Uber / 包車） | 4,500 | Day4 下午 來回約 AUD200 |
-| [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads) 晚餐 ×2 | 5,200 | Day2 或 Day3 |
-| [Stokehouse Q](https://www.google.com/maps/search/?api=1&query=Stokehouse%20Q%20South%20Bank%20Brisbane) 晚餐 ×2 | 5,600 | Day5 |
-| [The Tropic](https://www.google.com/maps/search/?api=1&query=The%20Tropic%20Surfers%20Paradise) 晚餐 ×2 | 3,500 | Day4 |
-| [Burleigh Pavilion](https://www.google.com/maps/search/?api=1&query=Burleigh%20Pavilion%20Burleigh%20Heads) 簡餐 ×2 | 2,400 | Day3 替代 |
-| **小計** | **42,000** | 略超預算 |
-| **精簡版** | **29,500** | 留主軸：熱氣球 + 浮潛 + [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads) + [Stokehouse Q](https://www.google.com/maps/search/?api=1&query=Stokehouse%20Q%20South%20Bank%20Brisbane) + Springbrook（自駕）其他餐改中價 |
+| Cook Island 浮潛 ×2 | 6,000 | Day4 上午半日 AUD$139 ×2 |
+| Springbrook 接送（單程 Uber） | 3,500 | Cabarita → Springbrook → Surfers ~AUD$150 |
+| Day2 晚餐 [Surfers Pavilion](https://www.google.com/maps/search/?api=1&query=Surfers%20Pavilion%20Surfers%20Paradise) ×2 | 2,500 | Mod-Aus AUD$55/人 |
+| Day3 晚餐 [Justin Lane](https://www.google.com/maps/search/?api=1&query=Justin%20Lane%20Establishment%20Burleigh%20Heads) ×2 | 2,400 | Burleigh rooftop AUD$55/人 |
+| Day4 午餐 [No. 35 Kitchen](https://www.google.com/maps/search/?api=1&query=No.%2035%20Kitchen%20Bar%20Cabarita%20Beach) ×2 | 2,800 | Cabarita Mod-Aus AUD$60/人 |
+| Day4 晚餐 [Hellenika Broadbeach](https://www.google.com/maps/search/?api=1&query=Hellenika%20Broadbeach%20The%20Star) ×2 | 2,900 | 現代希臘 AUD$65/人 |
+| Day5 午餐 [Ciao Papi](https://www.google.com/maps/search/?api=1&query=Ciao%20Papi%20Howard%20Smith%20Wharves%20Brisbane) ×2 | 2,300 | HSW 義式 AUD$50/人 |
+| Day5 晚餐 [Riverbar & Kitchen](https://www.google.com/maps/search/?api=1&query=Riverbar%20Kitchen%20Eagle%20Street%20Pier%20Brisbane) ×2 | 2,900 | Eagle St 河景 AUD$65/人 |
+| **中價位版小計** | **39,300** | 6 餐皆中價位 ~NT$2,500/餐 |
+| **精簡版（推薦）** | **30,000** | 砍 1-2 餐自理／Springbrook 自駕代替 接送 |
+| **升級1餐版** | **+5,000** | Day3 換 [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads)（+AUD$120/人）|
+| **升級2餐版** | **+10,000** | Day3 [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads) + Day5 [Stokehouse Q](https://www.google.com/maps/search/?api=1&query=Stokehouse%20Q%20South%20Bank%20Brisbane) |
 
 :::warning
 **取捨建議**：擇一砍 Springbrook 接送（改自駕 AUD$80）／ 餐廳挑 3 家高檔其他中價
@@ -171,10 +199,11 @@
 | 項目 | 2 人 NT$ | 說明 |
 |------|---------|------|
 | 團費（成人佔床 ×2） | 99,998 | 49,999 ×2 旅行社 |
-| 自費活動（精簡版） | 29,500 | 熱氣球 + 浮潛 + 3 高檔餐 |
-| 自理餐食（其餘） | ~6,000 | Day1 宵夜、Day4 午晚 等 |
+| 自費活動 + 中價位 6 餐 | 39,300 | 熱氣球 + 浮潛 + Springbrook 接送 + 6 餐中價 |
+| 自理餐食（Day1 宵夜等） | ~1,500 | Day1 抵達晚 / 早餐自理日 |
 | 市內交通 IC | ~1,500 | G:Link / Go Card |
-| **小計（不含購物）** | **~137,000** | |
+| **小計（不含購物）** | **~141,300** | 不升級版 |
+| 升級 1 餐 | +5,000 | Day3 [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads) 或 Day5 [Stokehouse Q](https://www.google.com/maps/search/?api=1&query=Stokehouse%20Q%20South%20Bank%20Brisbane) |
 | 購物 / 伴手禮 | 自訂 | TRS 退稅 AUD$300+ 單筆 |
 
 ---
