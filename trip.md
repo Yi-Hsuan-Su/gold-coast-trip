@@ -68,21 +68,24 @@
 ## 📅 Day 4｜自由日・浮潛 + 自然螢光蟲 ⭐ 重點日
 
 :::success
-**⭐ 上午 Cook Island 半日浮潛（海龜 + 魟魚 + 珊瑚）；傍晚 Springbrook 自然橋等天黑看藍螢光**
+**⭐ 上午 Cook Island Try Scuba 試潛（1對1 教練帶 不需證照 海龜+珊瑚 水下體驗）；傍晚 Springbrook 自然橋等天黑看藍螢光**
 :::
 
 | 時段 | 主安排 | 備選/替代 |
 |------|--------|-----------|
-| **上午主活動** | **Cook Island 半日浮潛**（Fingal Head 出發 — Watersports Guru 班次 08:00 / 10:30 / 13:00 任選；建議 08:00 場 ~11:00 結束 海龜 + 魟魚 + 珊瑚）🤿 [Watersports Guru 官網](https://watersportsguru.com/snorkel-with-turtles/) ｜ [直接訂(Rezdy)](https://watersportsguru.rezdy.com/42288/snorkel-with-the-turtles) ｜ [Experience Oz](https://www.experienceoz.com.au/en/gold-coast/snorkel-or-scuba-at-cook-island) ｜ [Viator](https://www.viator.com/tours/Gold-Coast/Guided-Snorkel-with-Fish-Tour-at-Cook-Island-Aquatic-Reserve/d367-37835P15) | Wave Break Island 半日浮潛、Tangalooma 沉船浮潛（全日 太占時間 棄） |
+| **上午主活動** | **Cook Island Try Scuba 試潛**（[Gold Coast Dive Centre](https://www.google.com/maps/search/?api=1&query=Gold%20Coast%20Dive%20Centre%20Miami%20QLD) Miami 出發 ~07:00 半日船；1 對 1 教練 + 完整裝備 + 海龜 + 珊瑚 水下 12m 體驗 不需證照）🤿 [官網訂](https://goldcoastdivecentre.com.au/course/discover-cook-island/) ｜ [Viator](https://www.viator.com/tours/Gold-Coast/Gold-Coast-Try-Scuba-Experience-at-Cook-Island-Aquatic-Reserve/d367-37835P14) ｜ [Experience Oz](https://www.experienceoz.com.au/en/gold-coast/cook-island-aquatic-reserve-diving-tour) ｜ [Adrenaline](https://www.adrenaline.com.au/en/gold-coast/cook-island-aquatic-reserve-diving-tour) ｜ [RedBalloon](https://www.redballoon.com.au/product/certified-scuba-diving-with-the-turtles-at-cook-island/QDS007-M.html) | 改回浮潛：[Watersports Guru](https://watersportsguru.com/snorkel-with-turtles/)（AUD$139）；Tangalooma 沉船潛（全日 太占時間 棄） |
 | **午餐** | 中價位 ★ **[No. 35 Kitchen & Bar](https://www.google.com/maps/search/?api=1&query=No.%2035%20Kitchen%20Bar%20Cabarita%20Beach)**（Cabarita Beach Mod-Aus 季節食材 AUD$55-70）📅 [no35.com.au](https://www.no35.com.au) | 中價替代 [Taverna Kingscliff](https://www.google.com/maps/search/?api=1&query=Taverna%20Kingscliff)；升級 [Paper Daisy](https://www.google.com/maps/search/?api=1&query=Paper%20Daisy%20Cabarita%20Beach)（AUD$130-160）📅 [Halcyon House](https://halcyonhouse.com.au/paper-daisy-restaurant/) |
-| **下午（直接路線）** | Cabarita → **Springbrook 國家公園**（~50 分車程 不必繞回 Surfers）— Best of All Lookout 觀景台 + Natural Bridge 自然橋 🌿 [Queensland NP](https://parks.qld.gov.au/parks/springbrook) | Lamington 國家公園（更原始 但較遠）、Mt Tamborine 酒莊 |
+| **下午（直接路線）** | Miami / Cabarita → **Springbrook 國家公園**（~50 分車程 不必繞回 Surfers）— Best of All Lookout 觀景台 + Natural Bridge 自然橋 🌿 [Queensland NP](https://parks.qld.gov.au/parks/springbrook) | Lamington 國家公園（更原始 但較遠）、Mt Tamborine 酒莊 |
 | **傍晚** | Natural Bridge 等天黑看**螢光蟲洞**（藍螢光）免費入場 | — |
 | **晚餐** | 回 Surfers Paradise — 中價位 ★ **[Hellenika Broadbeach](https://www.google.com/maps/search/?api=1&query=Hellenika%20Broadbeach%20The%20Star)**（The Star 內 現代希臘 AUD$60-75）📅 [OpenTable](https://www.opentable.com.au/r/hellenika-broadbeach) | 升級 [The Tropic](https://www.google.com/maps/search/?api=1&query=The%20Tropic%20Burleigh%20Pavilion)（Burleigh Pavilion 樓上地中海 AUD$100-130）📅 [thetropic.com.au/bookings](https://www.thetropic.com.au/bookings) |
 
-- **交通（優化）**：浮潛公司 Surfers ↔ Fingal Head 接送（含）；**Fingal → Cabarita → Springbrook 直接走 不繞回 Surfers**（省 1.5hr 車程）；Springbrook 須自駕或包車（無大眾運輸 來回 Springbrook → Surfers 約 AUD$150）
-- **自費**：Cook Island 浮潛 ~AUD139 ×2 / 約 NT$6,000（2 人）— Watersports Guru 實際價格
-- **備案**：
-  - Cook Island 能見度佳 **5-10 月最好**；暈船備藥（出海 40 分 提前 30 分服藥）
+- **交通（優化）**：Surfers → Miami（Gold Coast Dive Centre 2/54-56 Paradise Ave）~12km 約 15 分 Uber；**Miami → Cabarita → Springbrook 直接走 不繞回 Surfers**（省 1.5hr 車程）；Springbrook 須自駕或包車（無大眾運輸 來回 Springbrook → Surfers 約 AUD$150）
+- **自費**：Cook Island Try Scuba 試潛 ~AUD$269 ×2 / 約 NT$11,600（2 人）— 比浮潛貴 +NT$5,600 但水下體驗更深
+- **備案 / 健康注意**：
+  - **試潛健康限制**：氣喘 / 心臟病 / 中耳問題 / 鼻竇炎 / 高血壓未控制 → 不可下潛（出發前自我評估）
+  - 出發前 24hr **禁飲酒**；潛後 18hr 內不可搭飛機（Day5 紅眼 23hr 後 OK）
+  - 暈船 出海前 30 分服藥；早餐不要太飽
+  - Cook Island 能見度佳 **5-10 月最好**
   - Natural Bridge 黃昏入園才看得到螢火蟲（18:30 後 步道 25 分 帶**紅光**手電筒 禁閃光燈）
   - 11 月為春末初夏 螢火蟲族群比 12-3 月高峰少 預期會比夏季少
   - Hellenika 假日午晚熱門 提早 1 週訂
@@ -164,7 +167,8 @@
 | 活動 | 平台 | 價格（每人） | 訂票連結 | 備註 |
 |------|------|-------------|----------|------|
 | **Hot Air Gold Coast 熱氣球** | 官網 | AUD$329 含早餐 + 酒莊 | 🎈 [hotair.com.au](https://www.hotair.com.au/gold-coast/) ｜ [Klook](https://www.klook.com/zh-TW/activity/2477-hot-air-balloon-ride-gold-coast/) ｜ [KKday](https://www.kkday.com/zh-tw/product/123302) | 04:00 接送 天候取消可改期 預約綁日期 |
-| **Cook Island 半日浮潛** | Watersports Guru | AUD$159 含裝備 + 導潛 | 🤿 [官網](https://watersportsguru.com/snorkel-with-turtles/) ｜ [Rezdy 直訂](https://watersportsguru.rezdy.com/42288/snorkel-with-the-turtles) ｜ [Experience Oz](https://www.experienceoz.com.au/en/gold-coast/snorkel-or-scuba-at-cook-island) ｜ [Viator](https://www.viator.com/tours/Gold-Coast/Guided-Snorkel-with-Fish-Tour-at-Cook-Island-Aquatic-Reserve/d367-37835P15) | Tweed Heads 出海 5-10 月最佳能見度 |
+| **Cook Island Try Scuba 試潛** | Gold Coast Dive Centre Miami | AUD$269 1 對 1 教練 + 完整裝備 不需證照 | 🤿 [官網](https://goldcoastdivecentre.com.au/course/discover-cook-island/) ｜ [Viator](https://www.viator.com/tours/Gold-Coast/Gold-Coast-Try-Scuba-Experience-at-Cook-Island-Aquatic-Reserve/d367-37835P14) ｜ [Experience Oz](https://www.experienceoz.com.au/en/gold-coast/cook-island-aquatic-reserve-diving-tour) ｜ [Adrenaline](https://www.adrenaline.com.au/en/gold-coast/cook-island-aquatic-reserve-diving-tour) | 水下 12m 海龜 + 珊瑚 5-10 月能見度佳 健康限制詳 Day4 |
+| Cook Island 半日浮潛（替代） | Watersports Guru Fingal Head | AUD$139 含裝備 + 導潛 | 🤿 [官網](https://watersportsguru.com/snorkel-with-turtles/) ｜ [Rezdy](https://watersportsguru.rezdy.com/42288/snorkel-with-the-turtles) | 不下水改浮潛 省 AUD$130 |
 | Tangalooma 沉船浮潛（備選 棄） | Tangalooma Resort | AUD$199 全日船 | 🛥 [tangalooma.com](https://www.tangalooma.com/Marine-Eco-Tours/Tangalooma-Day-Cruise) | 佔整天 不符鬆散風格 |
 | Springbrook Natural Bridge | 免費 | 0 | 🌿 [Queensland NP](https://parks.qld.gov.au/parks/springbrook) | 黃昏入園看螢光蟲 步道 25 分 帶紅光手電 |
 
@@ -175,7 +179,7 @@
 | 項目 | 2 人 NT$ | 說明 |
 |------|---------|------|
 | 熱氣球 Hot Air GC ×2 | 14,000 | Day3 凌晨 含早餐 + 酒莊 |
-| Cook Island 浮潛 ×2 | 6,000 | Day4 上午半日 AUD$139 ×2 |
+| Cook Island Try Scuba ×2 | 11,600 | Day4 上午半日 AUD$269 ×2（試潛 不需證照）|
 | Springbrook 接送（單程 Uber） | 3,500 | Cabarita → Springbrook → Surfers ~AUD$150 |
 | Day2 晚餐 [Surfers Pavilion](https://www.google.com/maps/search/?api=1&query=Surfers%20Pavilion%20Surfers%20Paradise) ×2 | 2,500 | Mod-Aus AUD$55/人 |
 | Day3 晚餐 [Justin Lane](https://www.google.com/maps/search/?api=1&query=Justin%20Lane%20Establishment%20Burleigh%20Heads) ×2 | 2,400 | Burleigh rooftop AUD$55/人 |
@@ -183,7 +187,7 @@
 | Day4 晚餐 [Hellenika Broadbeach](https://www.google.com/maps/search/?api=1&query=Hellenika%20Broadbeach%20The%20Star) ×2 | 2,900 | 現代希臘 AUD$65/人 |
 | Day5 午餐 [Ciao Papi](https://www.google.com/maps/search/?api=1&query=Ciao%20Papi%20Howard%20Smith%20Wharves%20Brisbane) ×2 | 2,300 | HSW 義式 AUD$50/人 |
 | Day5 晚餐 [Riverbar & Kitchen](https://www.google.com/maps/search/?api=1&query=Riverbar%20Kitchen%20Eagle%20Street%20Pier%20Brisbane) ×2 | 2,900 | Eagle St 河景 AUD$65/人 |
-| **中價位版小計** | **39,300** | 6 餐皆中價位 ~NT$2,500/餐 |
+| **中價位版小計** | **44,900** | 6 餐中價位 + 試潛升級 |
 | **精簡版（推薦）** | **30,000** | 砍 1-2 餐自理／Springbrook 自駕代替 接送 |
 | **升級1餐版** | **+5,000** | Day3 換 [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads)（+AUD$120/人）|
 | **升級2餐版** | **+10,000** | Day3 [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads) + Day5 [Stokehouse Q](https://www.google.com/maps/search/?api=1&query=Stokehouse%20Q%20South%20Bank%20Brisbane) |
@@ -199,10 +203,10 @@
 | 項目 | 2 人 NT$ | 說明 |
 |------|---------|------|
 | 團費（成人佔床 ×2） | 99,998 | 49,999 ×2 旅行社 |
-| 自費活動 + 中價位 6 餐 | 39,300 | 熱氣球 + 浮潛 + Springbrook 接送 + 6 餐中價 |
+| 自費活動 + 中價位 6 餐 | 44,900 | 熱氣球 + Try Scuba 試潛 + Springbrook 接送 + 6 餐中價 |
 | 自理餐食（Day1 宵夜等） | ~1,500 | Day1 抵達晚 / 早餐自理日 |
 | 市內交通 IC | ~1,500 | G:Link / Go Card |
-| **小計（不含購物）** | **~141,300** | 不升級版 |
+| **小計（不含購物）** | **~146,900** | 不升級版（含試潛）|
 | 升級 1 餐 | +5,000 | Day3 [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads) 或 Day5 [Stokehouse Q](https://www.google.com/maps/search/?api=1&query=Stokehouse%20Q%20South%20Bank%20Brisbane) |
 | 購物 / 伴手禮 | 自訂 | TRS 退稅 AUD$300+ 單筆 |
 
@@ -232,10 +236,13 @@
 - AEST 比台快 2hr（夏令時間 +3hr）
 - I 型三孔斜插 需轉接
 
-### 熱氣球 / 浮潛
+### 熱氣球 / 試潛
 
 - 熱氣球風雨大取消是常態 建議排 Day3 預留 Day4 補位
-- Cook Island 出海 40 分 提前 30 分服暈船藥 早餐不要太飽
+- Cook Island 試潛 出海 40 分 提前 30 分服暈船藥 早餐不要太飽
+- **試潛健康限制**：氣喘 / 心臟病 / 中耳 / 鼻竇炎 / 高血壓未控制 → 不可下潛
+- 出發前 24hr 禁飲酒；潛後 18hr 內禁搭飛機（Day5 紅眼 23hr 後 OK）
+- 不下水改浮潛 [Watersports Guru](https://watersportsguru.com/snorkel-with-turtles/) AUD$139
 
 ### Springbrook 螢光蟲
 
