@@ -32,7 +32,7 @@
 |------|------|
 | **行程** | 天堂鄉農莊 Paradise Country（無尾熊 / 袋鼠 / 牧羊秀）→ 海港城 Premium Outlets |
 | **午餐** | 園區自助餐（含） |
-| **晚餐** | 中價位 ★ **[Surfers Pavilion](https://www.google.com/maps/search/?api=1&query=Surfers%20Pavilion%20Surfers%20Paradise)**（河景 Mod-Aus AUD$50-65）📅 [官網訂](https://www.surferspavilion.com.au) |
+| **晚餐** | 中價位 ★ **[Surfers Pavilion](https://www.google.com/maps/search/?api=1&query=Surfers%20Pavilion%20Surfers%20Paradise)**（河景 Mod-Aus AUD$50-65）📅 [官網訂](https://www.surferspav.com.au) |
 | **住宿** | Novotel Surfers Paradise |
 
 - **晚餐替代（中價位）**：[COAST Beach Bar & Kitchen](https://www.google.com/maps/search/?api=1&query=COAST%20Beach%20Bar%20Kitchen%20Surfers%20Paradise)（海邊 Josper grill）、[Justin Lane](https://www.google.com/maps/search/?api=1&query=Justin%20Lane%20Establishment%20Burleigh%20Heads)（Burleigh rooftop pizza）
@@ -52,7 +52,7 @@
 | **凌晨主活動** | **熱氣球 Hot Air Gold Coast** Scenic Rim 飛行（~30-60 分）+ 回程葡萄酒莊歐式早餐 🎈 [官網訂](https://www.hotair.com.au/gold-coast/) ｜ [Klook](https://www.klook.com/zh-TW/activity/2477-hot-air-balloon-ride-gold-coast/) | Hot Air Brisbane（布市西郊起飛 同公司） |
 | **下午** | 鬆散：飯店泳池 / Surfers Paradise 海灘 / 補眠 | Tamborine 山下午茶（雨林 + 酒莊 + 巧克力工坊） |
 | **傍晚** | Burleigh Headland Walk（海岬步道 ~30 分）+ 海灘夕陽 | Currumbin Rock 夕陽、Snapper Rocks |
-| **晚餐** | 中價位 ★ **[Justin Lane Establishment](https://www.google.com/maps/search/?api=1&query=Justin%20Lane%20Establishment%20Burleigh%20Heads)**（Burleigh rooftop pizza/pasta AUD$50-60）📅 [官網訂](https://www.justinlane.com.au) ／ 餐前酒 [Burleigh Pavilion](https://www.google.com/maps/search/?api=1&query=Burleigh%20Pavilion%20Burleigh%20Heads)（日落 不收訂） | 中價位替代：[Burleigh Social](https://www.google.com/maps/search/?api=1&query=Burleigh%20Social%20Burleigh%20Heads) Mod-Aus；升級 ★ [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads) / [The Tropic](https://www.google.com/maps/search/?api=1&query=The%20Tropic%20Burleigh%20Pavilion) |
+| **晚餐** | 中價位 ★ **[Justin Lane Establishment](https://www.google.com/maps/search/?api=1&query=Justin%20Lane%20Establishment%20Burleigh%20Heads)**（Burleigh rooftop pizza/pasta AUD$50-60）📅 [官網訂](https://www.justinlane.com.au) ／ 餐前酒 [Burleigh Pavilion](https://www.google.com/maps/search/?api=1&query=Burleigh%20Pavilion%20Burleigh%20Heads)（日落 不收訂） | 中價位替代：[Hellenika Nobby Beach](https://www.google.com/maps/search/?api=1&query=Hellenika%20Nobby%20Beach) Mod-Aus；升級 ★ [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads) / [The Tropic](https://www.google.com/maps/search/?api=1&query=The%20Tropic%20Burleigh%20Pavilion) |
 
 - **交通**：熱氣球公司含飯店接送（04:00 pick up）；其餘 G:Link Tram 輕軌
 - **自費**：熱氣球 ~AUD329 ×2 / 約 NT$14,000（2 人）
@@ -77,7 +77,7 @@
 | **午餐** | 中價位 ★ **[No. 35 Kitchen & Bar](https://www.google.com/maps/search/?api=1&query=No.%2035%20Kitchen%20Bar%20Cabarita%20Beach)**（Cabarita Beach Mod-Aus 季節食材 AUD$55-70）📅 [no35.com.au](https://www.no35.com.au) | 中價替代 [Taverna Kingscliff](https://www.google.com/maps/search/?api=1&query=Taverna%20Kingscliff)；升級 [Paper Daisy](https://www.google.com/maps/search/?api=1&query=Paper%20Daisy%20Cabarita%20Beach)（AUD$130-160）📅 [Halcyon House](https://halcyonhouse.com.au/paper-daisy-restaurant/) |
 | **下午（直接路線）** | Miami / Cabarita → **Springbrook 國家公園**（~50 分車程 不必繞回 Surfers）— Best of All Lookout 觀景台 + Natural Bridge 自然橋 🌿 [Queensland NP](https://parks.qld.gov.au/parks/springbrook) | Lamington 國家公園（更原始 但較遠）、Mt Tamborine 酒莊 |
 | **傍晚** | Natural Bridge 等天黑看**螢光蟲洞**（藍螢光）免費入場 | — |
-| **晚餐** | 回 Surfers Paradise — 中價位 ★ **[Hellenika Broadbeach](https://www.google.com/maps/search/?api=1&query=Hellenika%20Broadbeach%20The%20Star)**（The Star 內 現代希臘 AUD$60-75）📅 [OpenTable](https://www.opentable.com.au/r/hellenika-broadbeach) | 升級 [The Tropic](https://www.google.com/maps/search/?api=1&query=The%20Tropic%20Burleigh%20Pavilion)（Burleigh Pavilion 樓上地中海 AUD$100-130）📅 [thetropic.com.au/bookings](https://www.thetropic.com.au/bookings) |
+| **晚餐** | 回 Surfers Paradise — 中價位 ★ **[Hellenika Nobby Beach](https://www.google.com/maps/search/?api=1&query=Hellenika%20Nobby%20Beach)**（The Star 內 現代希臘 AUD$60-75）📅 [OpenTable](https://www.opentable.com.au/r/hellenika-nobby-beach) | 升級 [The Tropic](https://www.google.com/maps/search/?api=1&query=The%20Tropic%20Burleigh%20Pavilion)（Burleigh Pavilion 樓上地中海 AUD$100-130）📅 [thetropic.com.au/bookings](https://www.thetropic.com.au/bookings) |
 
 - **交通（優化）**：Surfers → Miami（Gold Coast Dive Centre 2/54-56 Paradise Ave）~12km 約 15 分 Uber；**Miami → Cabarita → Springbrook 直接走 不繞回 Surfers**（省 1.5hr 車程）；Springbrook 須自駕或包車（無大眾運輸 來回 Springbrook → Surfers 約 AUD$150）
 - **自費**：Cook Island Try Scuba 試潛 ~AUD$269 ×2 / 約 NT$11,600（2 人）— 比浮潛貴 +NT$5,600 但水下體驗更深
@@ -122,14 +122,14 @@
 
 | 餐廳 | 地點 / 類型 | 價位 AUD | Google | 建議日/餐期 | 訂位連結 |
 |------|-------------|----------|--------|-------------|----------|
-| **[Surfers Pavilion](https://www.google.com/maps/search/?api=1&query=Surfers%20Pavilion%20Surfers%20Paradise)** | Surfers Paradise・Mod-Aus 河景 | $50-65 | 4.3 | **Day2 晚餐** | [surferspavilion.com.au](https://www.surferspavilion.com.au) |
+| **[Surfers Pavilion](https://www.google.com/maps/search/?api=1&query=Surfers%20Pavilion%20Surfers%20Paradise)** | Surfers Paradise・Mod-Aus 河景 | $50-65 | 4.3 | **Day2 晚餐** | [surferspavilion.com.au](https://www.surferspav.com.au) |
 | [COAST Beach Bar & Kitchen](https://www.google.com/maps/search/?api=1&query=COAST%20Beach%20Bar%20Kitchen%20Surfers%20Paradise) | Surfers・Josper grill 海邊 | $55-70 | 4.4 | Day2 晚餐 替代 | [coastsurfersparadise.com.au](https://coastsurfersparadise.com.au) |
 | **[Justin Lane Establishment](https://www.google.com/maps/search/?api=1&query=Justin%20Lane%20Establishment%20Burleigh%20Heads)** | Burleigh・rooftop pizza/pasta | $50-60 | 4.3 | **Day3 晚餐** | [justinlane.com.au](https://www.justinlane.com.au) |
-| [Burleigh Social](https://www.google.com/maps/search/?api=1&query=Burleigh%20Social%20Burleigh%20Heads) | Burleigh・Mod-Aus 海邊 | $45-60 | 4.4 | Day3 晚餐 替代 | [burleighsocial.com.au](https://www.burleighsocial.com.au) |
+| [Hellenika Nobby Beach](https://www.google.com/maps/search/?api=1&query=Hellenika%20Nobby%20Beach) | Burleigh・Mod-Aus 海邊 | $45-60 | 4.4 | Day3 晚餐 替代 | [burleighsocial.com.au](https://www.burleighsocial.com.au) |
 | [Burleigh Pavilion](https://www.google.com/maps/search/?api=1&query=Burleigh%20Pavilion%20Burleigh%20Heads) | Burleigh・海邊酒吧夕陽 | $40-70 | 4.2 | Day3 落日餐前酒 | [burleighpavilion.com](https://burleighpavilion.com/) — 不收訂位 |
 | **[No. 35 Kitchen & Bar](https://www.google.com/maps/search/?api=1&query=No.%2035%20Kitchen%20Bar%20Cabarita%20Beach)** | Cabarita・Mod-Aus 季節食材 | $55-70 | 4.5 | **Day4 午餐** | [no35.com.au](https://www.no35.com.au) |
 | [Taverna Kingscliff](https://www.google.com/maps/search/?api=1&query=Taverna%20Kingscliff) | Kingscliff・希臘地中海海邊 | $50-70 | 4.5 | Day4 午餐 替代 | [tavernakingscliff.com.au](https://www.tavernakingscliff.com.au) |
-| **[Hellenika Broadbeach](https://www.google.com/maps/search/?api=1&query=Hellenika%20Broadbeach%20The%20Star)** | Broadbeach The Star・現代希臘 | $60-75 | 4.5 | **Day4 晚餐** | [OpenTable](https://www.opentable.com.au/r/hellenika-broadbeach) |
+| **[Hellenika Nobby Beach](https://www.google.com/maps/search/?api=1&query=Hellenika%20Nobby%20Beach)** | Nobby Beach・現代希臘 | $60-75 | 4.5 | **Day4 晚餐** | [OpenTable](https://www.opentable.com.au/r/hellenika-nobby-beach) |
 | **[Ciao Papi](https://www.google.com/maps/search/?api=1&query=Ciao%20Papi%20Howard%20Smith%20Wharves%20Brisbane)** | HSW Brisbane・河岸義式 pizza/pasta | $45-65 | 4.4 | **Day5 午餐** | [ciaopapi.com.au](https://www.ciaopapi.com.au) |
 | [Felons Brewing Co.](https://www.google.com/maps/search/?api=1&query=Felons%20Brewing%20Co%20Howard%20Smith%20Wharves%20Brisbane) | HSW・河岸啤酒廠（pizza + steak frites） | $40-60 | 4.3 | Day5 午餐 替代 / 黃昏 | [felonsbrewingco.com.au](https://felonsbrewingco.com.au/) |
 | **[Riverbar & Kitchen](https://www.google.com/maps/search/?api=1&query=Riverbar%20Kitchen%20Eagle%20Street%20Pier%20Brisbane)** | Eagle St Pier・Mod-Aus 故事橋河景 | $55-75 | 4.3 | **Day5 晚餐** | [riverbarandkitchen.com.au](https://riverbarandkitchen.com.au) |
@@ -184,7 +184,7 @@
 | Day2 晚餐 [Surfers Pavilion](https://www.google.com/maps/search/?api=1&query=Surfers%20Pavilion%20Surfers%20Paradise) ×2 | 2,500 | Mod-Aus AUD$55/人 |
 | Day3 晚餐 [Justin Lane](https://www.google.com/maps/search/?api=1&query=Justin%20Lane%20Establishment%20Burleigh%20Heads) ×2 | 2,400 | Burleigh rooftop AUD$55/人 |
 | Day4 午餐 [No. 35 Kitchen](https://www.google.com/maps/search/?api=1&query=No.%2035%20Kitchen%20Bar%20Cabarita%20Beach) ×2 | 2,800 | Cabarita Mod-Aus AUD$60/人 |
-| Day4 晚餐 [Hellenika Broadbeach](https://www.google.com/maps/search/?api=1&query=Hellenika%20Broadbeach%20The%20Star) ×2 | 2,900 | 現代希臘 AUD$65/人 |
+| Day4 晚餐 [Hellenika Nobby Beach](https://www.google.com/maps/search/?api=1&query=Hellenika%20Nobby%20Beach) ×2 | 2,900 | 現代希臘 AUD$65/人 |
 | Day5 午餐 [Ciao Papi](https://www.google.com/maps/search/?api=1&query=Ciao%20Papi%20Howard%20Smith%20Wharves%20Brisbane) ×2 | 2,300 | HSW 義式 AUD$50/人 |
 | Day5 晚餐 [Riverbar & Kitchen](https://www.google.com/maps/search/?api=1&query=Riverbar%20Kitchen%20Eagle%20Street%20Pier%20Brisbane) ×2 | 2,900 | Eagle St 河景 AUD$65/人 |
 | **中價位版小計** | **44,900** | 6 餐中價位 + 試潛升級 |

@@ -287,6 +287,29 @@ section.page .head .rule{display:inline-block;width:48px;height:1px;background:v
   .progress-nav .p-dot{width:30px;height:30px;font-size:11px}
 }
 
+/* ───── Restaurant Cards ───── */
+.resto-section-title{font-family:var(--serif);font-weight:600;text-align:center;color:var(--ink);margin:0 0 22px;font-size:18px;letter-spacing:.04em}
+.resto-section-title.upgrade{margin-top:56px;color:var(--kincha)}
+.resto-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}
+.resto-card{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow-1);display:flex;flex-direction:column;transition:transform .3s ease, box-shadow .3s ease}
+.resto-card:hover{transform:translateY(-3px);box-shadow:var(--shadow-2)}
+.resto-card .img{aspect-ratio:16/10;background:var(--washi-deep) center/cover no-repeat;position:relative}
+.resto-card .img::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(0,0,0,.42),transparent 55%);pointer-events:none}
+.resto-card .badge{position:absolute;left:12px;bottom:12px;z-index:2;color:#fff;font-family:var(--display);font-style:italic;font-size:11px;letter-spacing:.16em;text-transform:uppercase;padding:4px 12px;background:rgba(26,109,124,.88);border-radius:999px;font-weight:600}
+.resto-card.upgrade .badge{background:rgba(210,97,63,.88)}
+.resto-card .body{padding:18px 20px 20px;flex:1;display:flex;flex-direction:column;gap:6px}
+.resto-card h4{margin:0;font-family:var(--serif);font-weight:600;font-size:17px;color:var(--ink);letter-spacing:.02em}
+.resto-card .area{color:var(--ink-mute);font-size:12.5px;letter-spacing:.04em}
+.resto-card .price{color:var(--shu);font-weight:600;font-size:13.5px;margin-top:2px}
+.resto-card .desc{color:var(--ink-soft);font-size:13px;line-height:1.6;margin-top:4px;flex:1}
+.resto-card .links{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+.resto-card .links a{font-size:12px;padding:5px 11px;border-radius:999px;background:var(--washi);color:var(--shu);text-decoration:none;border:1px solid var(--line);transition:background .2s,color .2s}
+.resto-card .links a:hover{background:var(--shu);color:#fff;border-color:var(--shu)}
+details.md-detail{margin-top:48px;background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);padding:20px 24px}
+details.md-detail summary{cursor:pointer;color:var(--ink-mute);font-size:13px;letter-spacing:.04em}
+details.md-detail[open] summary{color:var(--shu);margin-bottom:14px}
+details.md-detail .md{padding:0;border:none;box-shadow:none}
+
 /* ───── Subpage MD content ───── */
 .md{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);padding:48px 56px;box-shadow:var(--shadow-1)}
 @media (max-width:720px){.md{padding:28px 22px}}
@@ -453,6 +476,25 @@ const DAYS = [
 
 const HERO_WIKI = 'Surfers_Paradise,_Queensland';
 const HERO_Q = 'Surfers Paradise beach skyline aerial Gold Coast Queensland';
+
+const RESTAURANTS = [
+  {tier:'mid', name:'Surfers Pavilion', area:'Surfers Paradise・Mod-Aus 河景', price:'AUD$50-65', day:'Day 2 晚餐', desc:'河景現代澳洲菜 牡蠣吧 Mantle Group 集團', q:'modern australian restaurant beach view dinner plate', maps:'Surfers Pavilion Surfers Paradise', book:'https://www.surferspav.com.au'},
+  {tier:'mid', name:'Justin Lane Establishment', area:'Burleigh Heads・rooftop pizza/pasta', price:'AUD$50-60', day:'Day 3 晚餐', desc:'頂樓木窯披薩+雞尾酒 海邊步行 post-sunset 氛圍', q:'rooftop pizza wood fired restaurant cocktail bar', maps:'Justin Lane Establishment Burleigh Heads', book:'https://www.justinlane.com.au'},
+  {tier:'mid', name:'No. 35 Kitchen & Bar', area:'Cabarita Beach・Mod-Aus 季節', price:'AUD$55-70', day:'Day 4 午餐', desc:'Cabarita 在地名店 季節食材 浮潛後輕鬆 lunch', q:'modern australian seafood seasonal restaurant lunch', maps:'No. 35 Kitchen Bar Cabarita Beach', book:'https://www.no35.com.au'},
+  {tier:'mid', name:'Hellenika Nobby Beach', area:'Nobby Beach・現代希臘', price:'AUD$60-75', day:'Day 4 晚餐', desc:'GC 知名希臘 海邊熱鬧 lamb + souvlaki + dips', q:'modern greek restaurant lamb souvlaki dining', maps:'Hellenika Nobby Beach', book:'https://www.opentable.com.au/r/hellenika-nobby-beach'},
+  {tier:'mid', name:'Ciao Papi', area:'HSW Brisbane・河岸義式 pizza/pasta', price:'AUD$45-65', day:'Day 5 午餐', desc:'Howard Smith Wharves 故事橋下 木窯披薩 義式', q:'italian pizza pasta riverside dining brisbane', maps:'Ciao Papi Howard Smith Wharves Brisbane', book:'https://www.ciaopapi.com.au'},
+  {tier:'mid', name:'Riverbar & Kitchen', area:'Eagle St Pier・Mod-Aus 河景', price:'AUD$55-75', day:'Day 5 晚餐', desc:'Brisbane River + Story Bridge 180° 河景', q:'brisbane riverside sunset modern restaurant view', maps:'Riverbar Kitchen Eagle Street Pier Brisbane', book:'https://riverbarandkitchen.com.au'},
+  {tier:'mid', name:'COAST Beach Bar & Kitchen', area:'Surfers・Josper grill 海邊', price:'AUD$55-70', day:'Day 2 替代', desc:'海邊 Josper 烤爐 shareable plates 牛排', q:'beachfront grill steak restaurant josper sunset', maps:'COAST Beach Bar Kitchen Surfers Paradise', book:'https://coastsurfersparadise.com.au'},
+  {tier:'mid', name:'Taverna Kingscliff', area:'Kingscliff・希臘地中海海邊', price:'AUD$50-70', day:'Day 4 午替代', desc:'Kingscliff Marine Pde 海邊 希臘 shareable', q:'mediterranean greek seaside dining lunch tapas', maps:'Taverna Kingscliff', book:'https://www.tavernakingscliff.com.au'},
+  {tier:'mid', name:'Felons Brewing Co.', area:'HSW・河岸啤酒廠', price:'AUD$40-60', day:'Day 5 黃昏', desc:'故事橋下精釀啤酒廠 露天河岸 黃昏熱門', q:'brewery riverside outdoor sunset beer pizza', maps:'Felons Brewing Co Howard Smith Wharves Brisbane', book:'https://felonsbrewingco.com.au'},
+  {tier:'mid', name:'Burleigh Pavilion', area:'Burleigh・海邊酒吧夕陽', price:'AUD$40-70', day:'Day 3 餐前酒', desc:'西望 Surfers 天際線日落 不收訂位早點到', q:'beachside coastal pub sunset venue', maps:'Burleigh Pavilion Burleigh Heads', book:'https://burleighpavilion.com'},
+  {tier:'upgrade', name:'Rick Shores', area:'Burleigh Heads・亞洲融合海景', price:'AUD$110-140', day:'Day 3 升級', desc:'GC 經典名片 腳泡沙 越亞 fusion 訂位需 4-6 週', q:'modern restaurant beach dining ocean view fine', maps:'Rick Shores Burleigh Heads', book:'https://www.rickshores.com.au'},
+  {tier:'upgrade', name:'The Tropic', area:'Burleigh Pavilion 樓上・地中海', price:'AUD$100-130', day:'Day 3 升級', desc:'Burleigh Pavilion 樓上 地中海 海景升級首選', q:'mediterranean rooftop fine dining ocean view sunset', maps:'The Tropic Burleigh Pavilion', book:'https://www.thetropic.com.au/bookings'},
+  {tier:'upgrade', name:'Paper Daisy', area:'Cabarita・Halcyon House fine dining', price:'AUD$130-160', day:'Day 4 午升級', desc:'Hatted destination lunch Halcyon House 內 浮潛後 splurge', q:'fine dining modern australian destination beach hotel', maps:'Paper Daisy Cabarita Beach', book:'https://halcyonhouse.com.au/paper-daisy-restaurant/'},
+  {tier:'upgrade', name:'Stokehouse Q', area:'South Bank・Mod-Aus 河景 fine dining', price:'AUD$120-150', day:'Day 5 升級', desc:'河 + 天際線 fine dining 特別日 必訂河景位', q:'fine dining riverside sunset australian skyline', maps:'Stokehouse Q South Bank Brisbane', book:'https://stokehouseq.com.au/bookings/'},
+  {tier:'upgrade', name:'Blackbird Bar & Grill', area:'Eagle St Pier・牛排海鮮', price:'AUD$120-160', day:'Day 5 升級替代', desc:'雙層河岸露台 dry-aged 牛排', q:'steakhouse riverside terrace fine dining dry aged beef', maps:'Blackbird Bar Grill Eagle Street Pier Brisbane', book:'https://www.blackbirdbrisbane.com.au'},
+  {tier:'upgrade', name:'BlackHide by Gambaro', area:'Brisbane CBD・名牛排', price:'AUD$130-170', day:'Day 5 升級替代', desc:'昆士蘭名牛排 wagyu focus', q:'australian steakhouse wagyu fine dining', maps:'BlackHide by Gambaro Brisbane', book:'https://www.blackhide.com.au'},
+];
 
 const imgCache = new Map();
 const LANGS = ['en','zh'];
@@ -829,6 +871,74 @@ function setupScrollSpy(){
   updateOnScroll();
 }
 
+function restoCardHtml(r){
+  const mapsUrl = 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(r.maps);
+  const bookLink = r.book ? `<a href="${r.book}" target="_blank" rel="noopener">📅 訂位</a>` : '';
+  return `
+    <article class="resto-card${r.tier==='upgrade'?' upgrade':''}">
+      <div class="img" data-pexels="${r.q}">
+        <div class="badge">${r.tier==='upgrade'?'★ 升級':'中價位'}</div>
+      </div>
+      <div class="body">
+        <h4>${r.name}</h4>
+        <div class="area">${r.area}</div>
+        <div class="price">${r.price} · ${r.day}</div>
+        <div class="desc">${r.desc}</div>
+        <div class="links">
+          <a href="${mapsUrl}" target="_blank" rel="noopener">📍 地圖</a>
+          ${bookLink}
+        </div>
+      </div>
+    </article>`;
+}
+
+async function paintRestoImages(){
+  const els = [...document.querySelectorAll('.resto-card .img[data-pexels]')];
+  const used = new Set();
+  for (const el of els){
+    const q = el.dataset.pexels;
+    let src = null;
+    if (q) src = await pexelsImage(q);
+    if (!src) src = await openverseImage(q || '');
+    if (src && used.has(src)){
+      const name = el.parentElement.querySelector('h4')?.textContent || '';
+      const altQ = name + ' restaurant interior';
+      src = await pexelsImage(altQ);
+    }
+    if (src && !isBadImage(src)){
+      used.add(src);
+      el.style.backgroundImage = `url(${src})`;
+    }
+  }
+}
+
+async function renderRestaurantsView(){
+  const md = await getMd();
+  const content = extractSections(md, SECTIONS.restaurants);
+  const mdHtml = content ? renderMd(content) : '';
+  const mid = RESTAURANTS.filter(r=>r.tier==='mid');
+  const up = RESTAURANTS.filter(r=>r.tier==='upgrade');
+  return `
+    <section class="page route-view">
+      <div class="wrap">
+        <div class="head">
+          <p class="kicker">— Restaurants —</p>
+          <h2>餐廳清單</h2>
+          <div class="rule"></div>
+          <p class="desc">中價位主選 AUD$40-75 · 高價位升級備選分開列</p>
+        </div>
+        <h3 class="resto-section-title">中價位主選 AUD$40-75 / 人 (≈ NT$1,000-1,500)</h3>
+        <div class="resto-grid">${mid.map(restoCardHtml).join('')}</div>
+        <h3 class="resto-section-title upgrade">⭐ 升級備選 AUD$100+ / 人</h3>
+        <div class="resto-grid">${up.map(restoCardHtml).join('')}</div>
+        <details class="md-detail">
+          <summary>展開完整資訊表 (markdown 表格 + 訂位優先順序)</summary>
+          <div class="md">${mdHtml}</div>
+        </details>
+      </div>
+    </section>`;
+}
+
 async function renderSubpage(keywords, title, kicker, desc){
   const md = await getMd();
   const content = extractSections(md, keywords);
@@ -852,7 +962,7 @@ async function renderSubpage(keywords, title, kicker, desc){
 
 const ROUTES = {
   '/':           { fn: ()=>renderHome(), title:'行程' },
-  '/restaurants':{ fn: ()=>renderSubpage(SECTIONS.restaurants,'餐廳清單','Restaurants','海景名店、河岸 fine dining、夕陽 cafe') },
+  '/restaurants':{ fn: ()=>renderRestaurantsView(), title:'餐廳' },
   '/booking':    { fn: ()=>renderSubpage(SECTIONS.booking,'活動訂票','Booking','熱氣球 / Cook Island 浮潛 / Springbrook') },
   '/transport':  { fn: ()=>renderSubpage(SECTIONS.transport,'交通詳細','Transport','Go Card / G:Link 輕軌 / 右駕') },
   '/lodging':    { fn: ()=>renderSubpage(SECTIONS.lodging,'住宿周邊','Lodging','Novotel Surfers Paradise') },
@@ -877,6 +987,7 @@ async function navigate(){
       setupScrollSpy();
     } else {
       wrapTables(view);
+      if (hash === '/restaurants') paintRestoImages();
     }
     window.scrollTo({top:0,behavior:'instant'});
   }catch(err){
