@@ -297,6 +297,7 @@ section.page .head .rule{display:inline-block;width:48px;height:1px;background:v
 .resto-card .img::after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,rgba(0,0,0,.42),transparent 55%);pointer-events:none}
 .resto-card .badge{position:absolute;left:12px;bottom:12px;z-index:2;color:#fff;font-family:var(--display);font-style:italic;font-size:11px;letter-spacing:.16em;text-transform:uppercase;padding:4px 12px;background:rgba(26,109,124,.88);border-radius:999px;font-weight:600}
 .resto-card.upgrade .badge{background:rgba(210,97,63,.88)}
+.resto-card.low .badge{background:rgba(107,142,92,.88)}
 .resto-card .body{padding:18px 20px 20px;flex:1;display:flex;flex-direction:column;gap:6px}
 .resto-card h4{margin:0;font-family:var(--serif);font-weight:600;font-size:17px;color:var(--ink);letter-spacing:.02em}
 .resto-card .area{color:var(--ink-mute);font-size:12.5px;letter-spacing:.04em}
@@ -488,6 +489,13 @@ const RESTAURANTS = [
   {tier:'mid', name:'Taverna Kingscliff', area:'Kingscliff・希臘地中海海邊', price:'AUD$50-70', day:'Day 4 午替代', desc:'Kingscliff Marine Pde 海邊 希臘 shareable', q:'mediterranean greek seaside dining lunch tapas', maps:'Taverna Kingscliff', book:'https://www.tavernakingscliff.com.au'},
   {tier:'mid', name:'Felons Brewing Co.', area:'HSW・河岸啤酒廠', price:'AUD$40-60', day:'Day 5 黃昏', desc:'故事橋下精釀啤酒廠 露天河岸 黃昏熱門', q:'brewery riverside outdoor sunset beer pizza', maps:'Felons Brewing Co Howard Smith Wharves Brisbane', book:'https://felonsbrewingco.com.au'},
   {tier:'mid', name:'Burleigh Pavilion', area:'Burleigh・海邊酒吧夕陽', price:'AUD$40-70', day:'Day 3 餐前酒', desc:'西望 Surfers 天際線日落 不收訂位早點到', q:'beachside coastal pub sunset venue', maps:'Burleigh Pavilion Burleigh Heads', book:'https://burleighpavilion.com'},
+  {tier:'low', name:'Salt Meats Cheese', area:'Surfers Paradise・義式 pizza-pasta', price:'AUD$20-40', day:'Day1 抵達晚 / Day2 替代', desc:'起司輪 pasta + AUYCE pizza Mon 限定 4.4★', q:'italian pizza wood fired cheese wheel', maps:'Salt Meats Cheese Surfers Paradise', book:'https://saltmeatscheese.com/surfers-paradise'},
+  {tier:'low', name:'Pepe Italia', area:'Burleigh Heads・拿坡里 pizza', price:'AUD$25-40', day:'Day3 替代', desc:'Cult-favourite 拿坡里風 pizza 4.6★', q:'neapolitan pizza margherita restaurant', maps:'Pepe Italia Burleigh Heads', book:'https://pepeitalia.com.au'},
+  {tier:'low', name:'Paddock Bakery', area:'Miami GC・cafe brunch', price:'AUD$20-30', day:'任一日 brunch', desc:'白色昆士蘭老屋 Single O 咖啡 木窯 pastry 4.6★', q:'australian cafe brunch coffee bakery', maps:'Paddock Bakery Miami Gold Coast', book:'https://paddockbakery.com'},
+  {tier:'mid', name:"Clifford's Grill & Lounge", area:'Surfers Paradise (QT)・牛排 Mod-Aus', price:'AUD$45-65', day:'Day 2 晚 替代', desc:'QT Hotel 內 復古 grill 牛排海鮮 4.5★', q:'grilled steak restaurant retro modern', maps:"Cliffords Grill Lounge QT Gold Coast", book:'https://qthotelsandresorts.com'},
+  {tier:'mid', name:'Italia Lane', area:'Fortitude Valley・義式 pizza/pasta', price:'AUD$40-60', day:'Day 5 替代', desc:'2025 Best Pizza Australia + Best Casual Dining 花園露台 4.6★', q:'italian pasta garden terrace restaurant', maps:'Italia Lane Fortitude Valley', book:'https://italialane.com.au'},
+  {tier:'mid', name:"Fellini's Riverside", area:'Brisbane Riverside CBD・義式地中海', price:'AUD$40-60', day:'Day 5 午/晚 替代', desc:'手工 pasta + 羅馬風 pizza 河景橄欖樹燈飾 4.4★', q:'italian riverside dining terrace', maps:'Fellinis Riverside Brisbane', book:'https://fellinis.com.au'},
+  {tier:'mid', name:'Rosmarino Ristorante', area:'Fortitude Valley・現代義式', price:'AUD$50-65', day:'Day 5 晚 替代', desc:'家族經營 2021 開幕 獲獎酒單 親密氛圍 4.5★', q:'modern italian restaurant interior intimate', maps:'Rosmarino Italian Fortitude Valley', book:'https://rosmarino.com.au'},
   {tier:'upgrade', name:'Rick Shores', area:'Burleigh Heads・亞洲融合海景', price:'AUD$110-140', day:'Day 3 升級', desc:'GC 經典名片 腳泡沙 越亞 fusion 訂位需 4-6 週', q:'modern restaurant beach dining ocean view fine', maps:'Rick Shores Burleigh Heads', book:'https://www.rickshores.com.au'},
   {tier:'upgrade', name:'The Tropic', area:'Burleigh Pavilion 樓上・地中海', price:'AUD$100-130', day:'Day 3 升級', desc:'Burleigh Pavilion 樓上 地中海 海景升級首選', q:'mediterranean rooftop fine dining ocean view sunset', maps:'The Tropic Burleigh Pavilion', book:'https://www.thetropic.com.au/bookings'},
   {tier:'upgrade', name:'Paper Daisy', area:'Cabarita・Halcyon House fine dining', price:'AUD$130-160', day:'Day 4 午升級', desc:'Hatted destination lunch Halcyon House 內 浮潛後 splurge', q:'fine dining modern australian destination beach hotel', maps:'Paper Daisy Cabarita Beach', book:'https://halcyonhouse.com.au/paper-daisy-restaurant/'},
@@ -875,9 +883,9 @@ function restoCardHtml(r){
   const mapsUrl = 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(r.maps);
   const bookLink = r.book ? `<a href="${r.book}" target="_blank" rel="noopener">📅 訂位</a>` : '';
   return `
-    <article class="resto-card${r.tier==='upgrade'?' upgrade':''}">
+    <article class="resto-card ${r.tier}">
       <div class="img" data-pexels="${r.q}">
-        <div class="badge">${r.tier==='upgrade'?'★ 升級':'中價位'}</div>
+        <div class="badge">${r.tier==='upgrade'?'★ 升級':(r.tier==='low'?'低價位':'中價位')}</div>
       </div>
       <div class="body">
         <h4>${r.name}</h4>
@@ -924,6 +932,7 @@ async function renderRestaurantsView(){
   const md = await getMd();
   const content = extractSections(md, SECTIONS.restaurants);
   const mdHtml = content ? renderMd(content) : '';
+  const low = RESTAURANTS.filter(r=>r.tier==='low');
   const mid = RESTAURANTS.filter(r=>r.tier==='mid');
   const up = RESTAURANTS.filter(r=>r.tier==='upgrade');
   return `
@@ -933,9 +942,11 @@ async function renderRestaurantsView(){
           <p class="kicker">— Restaurants —</p>
           <h2>餐廳清單</h2>
           <div class="rule"></div>
-          <p class="desc">中價位主選 AUD$40-75 · 高價位升級備選分開列</p>
+          <p class="desc">低價 / 中價 / 升級三層 · 評價皆 4.3★ 以上</p>
         </div>
-        <h3 class="resto-section-title">中價位主選 AUD$40-75 / 人 (≈ NT$1,000-1,500)</h3>
+        <h3 class="resto-section-title">🥗 低價位 AUD$20-40 / 人 (≈ NT$430-870)</h3>
+        <div class="resto-grid">${low.map(restoCardHtml).join('')}</div>
+        <h3 class="resto-section-title">🍽 中價位主選 AUD$40-75 / 人 (≈ NT$870-1,600)</h3>
         <div class="resto-grid">${mid.map(restoCardHtml).join('')}</div>
         <h3 class="resto-section-title upgrade">⭐ 升級備選 AUD$100+ / 人</h3>
         <div class="resto-grid">${up.map(restoCardHtml).join('')}</div>
