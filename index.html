@@ -894,22 +894,30 @@ function restoCardHtml(r){
 
 async function paintRestoImages(){
   const els = [...document.querySelectorAll('.resto-card .img[data-pexels]')];
-  const used = new Set();
-  for (const el of els){
-    const q = el.dataset.pexels;
-    let src = null;
-    if (q) src = await pexelsImage(q);
-    if (!src) src = await openverseImage(q || '');
-    if (src && used.has(src)){
-      const name = el.parentElement.querySelector('h4')?.textContent || '';
-      const altQ = name + ' restaurant interior';
-      src = await pexelsImage(altQ);
+  await Promise.all(els.map(async (el)=>{
+    const q = el.dataset.pexels || '';
+    const name = el.parentElement.querySelector('h4')?.textContent || '';
+    // Multi-query fallback: every card gets SOME image
+    const tries = [
+      q,
+      q + ' food plate',
+      name + ' restaurant',
+      name + ' dining interior',
+      'fine dining restaurant plate',
+    ].filter(Boolean);
+    for (const t of tries){
+      const s = await pexelsImage(t);
+      if (s && !isBadImage(s)){
+        el.style.backgroundImage = `url(${s})`;
+        return;
+      }
     }
-    if (src && !isBadImage(src)){
-      used.add(src);
-      el.style.backgroundImage = `url(${src})`;
+    // Last resort: openverse
+    const ov = await openverseImage(q || name || 'restaurant interior');
+    if (ov && !isBadImage(ov)){
+      el.style.backgroundImage = `url(${ov})`;
     }
-  }
+  }));
 }
 
 async function renderRestaurantsView(){
