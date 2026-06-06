@@ -424,7 +424,7 @@ const DAYS = [
       { name:'袋鼠', q:'kangaroo Australia farm sunset' },
       { name:'Harbour Town Outlets', q:'shopping outlet mall Gold Coast' },
     ],
-    meal:{ 午:'園區自助餐（含）', 晚:'★ Rick Shores（自費 ~AUD120）' },
+    meal:{ 午:'園區自助餐（含）', 晚:'★ Surfers Pavilion 河景（升級備選 Rick Shores ~AUD120）' },
     hotel:'Novotel Surfers Paradise',
   },
   {
@@ -438,13 +438,13 @@ const DAYS = [
       { name:'Burleigh Heads 海岬', q:'Burleigh Heads headland sunset beach' },
       { name:'Burleigh 海灘夕陽', q:'Gold Coast sunset beach palm trees' },
     ],
-    meal:{ 早:'酒莊歐式（熱氣球含）', 晚:'★ Burleigh Pavilion 海邊夕陽 / Rick Shores' },
+    meal:{ 早:'酒莊歐式（熱氣球含）', 晚:'★ Justin Lane rooftop（餐前酒 Burleigh Pavilion・升級 Rick Shores）' },
     activity:'★ Hot Air Gold Coast 熱氣球（含早餐 + 酒莊）',
     hotel:'Novotel Surfers Paradise',
   },
   {
     n:4, date:'Day 4 ・ 自由日', title:'Cook Island 浮潛 ・ Springbrook 螢光蟲',
-    tagline:'⭐ 重點日 — 上午 Cook Island 半日浮潛（海龜 + 魟魚 + 珊瑚），下午 Springbrook 國家公園 Natural Bridge 自然橋，黃昏看藍螢光蟲。晚回 Surfers 上 The Tropic rooftop。',
+    tagline:'⭐ 重點日 — 上午 Cook Island 半日浮潛（海龜 + 魟魚 + 珊瑚），下午 Springbrook 國家公園 Natural Bridge 自然橋，黃昏看藍螢光蟲。晚在 Burleigh 吃 Osteria Del Mare 義式海鮮。',
     heroWiki:'Springbrook_National_Park', heroQ:'Springbrook National Park waterfall rainforest',
     star:true,
     attractions:[
@@ -454,7 +454,7 @@ const DAYS = [
       { name:'螢光蟲洞', q:'glow worm cave blue bioluminescence' },
       { name:'The Tropic rooftop', q:'rooftop bar tropical cocktail sunset' },
     ],
-    meal:{ 午:'Fins Restaurant（Kingscliff 海鮮）', 晚:'★ The Tropic rooftop' },
+    meal:{ 午:'No. 35 Kitchen（Cabarita・週末午）/ Paper Daisy', 晚:'★ Osteria Del Mare 義式海鮮（升級 The Tropic rooftop）' },
     activity:'★ Cook Island 半日浮潛 + Springbrook 自駕',
     hotel:'Novotel Surfers Paradise',
   },
@@ -481,27 +481,28 @@ const HERO_Q = 'Surfers Paradise beach skyline aerial Gold Coast Queensland';
 const RESTAURANTS = [
   {tier:'mid', name:'Surfers Pavilion', area:'Surfers Paradise・Mod-Aus 河景', price:'AUD$50-65', day:'Day 2 晚餐', desc:'河景現代澳洲菜 牡蠣吧 Mantle Group 集團', q:'modern australian restaurant beach view dinner plate', maps:'Surfers Pavilion Surfers Paradise', book:'https://www.surferspav.com.au'},
   {tier:'mid', name:'Justin Lane Establishment', area:'Burleigh Heads・rooftop pizza/pasta', price:'AUD$50-60', day:'Day 3 晚餐', desc:'頂樓木窯披薩+雞尾酒 海邊步行 post-sunset 氛圍', q:'rooftop pizza wood fired restaurant cocktail bar', maps:'Justin Lane Establishment Burleigh Heads', book:'https://www.justinlane.com.au'},
-  {tier:'mid', name:'No. 35 Kitchen & Bar', area:'Cabarita Beach・Mod-Aus 季節', price:'AUD$55-70', day:'Day 4 午餐', desc:'Cabarita 在地名店 季節食材 浮潛後輕鬆 lunch', q:'modern australian seafood seasonal restaurant lunch', maps:'No. 35 Kitchen Bar Cabarita Beach', book:'https://www.no35.com.au'},
-  {tier:'mid', name:'Hellenika Nobby Beach', area:'Nobby Beach・現代希臘', price:'AUD$60-75', day:'Day 4 晚餐', desc:'GC 知名希臘 海邊熱鬧 lamb + souvlaki + dips', q:'modern greek restaurant lamb souvlaki dining', maps:'Hellenika Nobby Beach', book:'https://www.opentable.com.au/r/hellenika-nobby-beach'},
-  {tier:'mid', name:'Ciao Papi', area:'HSW Brisbane・河岸義式 pizza/pasta', price:'AUD$45-65', day:'Day 5 午餐', desc:'Howard Smith Wharves 故事橋下 木窯披薩 義式', q:'italian pizza pasta riverside dining brisbane', maps:'Ciao Papi Howard Smith Wharves Brisbane', book:'https://www.ciaopapi.com.au'},
+  {tier:'mid', name:'No. 35 Kitchen & Bar', area:'Cabarita Beach・Mod-Aus 季節', price:'AUD$55-70', day:'Day 4 午餐', desc:'Cabarita 在地名店 季節食材 浮潛後輕鬆 lunch（⚠️午餐僅週六/日，平日不開）', q:'modern australian seafood seasonal restaurant lunch', maps:'No. 35 Kitchen Bar Cabarita Beach', book:'https://www.number35.com.au'},
+  {tier:'mid', name:'Osteria Del Mare', area:'Burleigh Heads・義式海鮮 pizzeria', price:'AUD$45-70', day:'Day 4 晚餐', desc:'義大利籍主廚 義式海鮮 + 手工 pasta + 石窯 pizza 海邊主街 Google 4.4★（⚠️電話訂 07 5576 6169 無線上訂位）', q:'italian seafood pasta pizzeria restaurant', maps:'Osteria Del Mare Burleigh Heads', book:''},
+  {tier:'mid', name:'Fire Cue Bar & Grill', area:'Nobby Beach・拉丁炭烤 grill', price:'AUD$45-65', day:'Day 4 晚替代', desc:'現代拉丁美洲炭烤 parilla ribs + ceviche 回程最順 OpenTable 4.4★（線上可訂）', q:'latin american charcoal grill ribs steak restaurant', maps:'Fire Cue Bar Grill Nobby Beach', book:'https://www.opentable.com.au/r/fire-cue-bar-and-grill-nobby-beach'},
+  {tier:'mid', name:'Ciao Papi', area:'HSW Brisbane・河岸義式 pizza/pasta', price:'AUD$45-65', day:'Day 5 午餐', desc:'Howard Smith Wharves 故事橋下 木窯披薩 義式', q:'italian pizza pasta riverside dining brisbane', maps:'Ciao Papi Howard Smith Wharves Brisbane', book:'https://www.ciaopapi.com.au/bookings'},
   {tier:'mid', name:'Riverbar & Kitchen', area:'Eagle St Pier・Mod-Aus 河景', price:'AUD$55-75', day:'Day 5 晚餐', desc:'Brisbane River + Story Bridge 180° 河景', q:'brisbane riverside sunset modern restaurant view', maps:'Riverbar Kitchen Eagle Street Pier Brisbane', book:'https://riverbarandkitchen.com.au'},
-  {tier:'mid', name:'COAST Beach Bar & Kitchen', area:'Surfers・Josper grill 海邊', price:'AUD$55-70', day:'Day 2 替代', desc:'海邊 Josper 烤爐 shareable plates 牛排', q:'beachfront grill steak restaurant josper sunset', maps:'COAST Beach Bar Kitchen Surfers Paradise', book:'https://coastsurfersparadise.com.au'},
-  {tier:'mid', name:'Taverna Kingscliff', area:'Kingscliff・希臘地中海海邊', price:'AUD$50-70', day:'Day 4 午替代', desc:'Kingscliff Marine Pde 海邊 希臘 shareable', q:'mediterranean greek seaside dining lunch tapas', maps:'Taverna Kingscliff', book:'https://www.tavernakingscliff.com.au'},
+  {tier:'mid', name:'COAST Beach Bar & Kitchen', area:'Surfers・Josper grill 海邊', price:'AUD$55-70', day:'Day 2 替代', desc:'海邊 Josper 烤爐 shareable plates 牛排（⚠️週一公休）', q:'beachfront grill steak restaurant josper sunset', maps:'COAST Beach Bar Kitchen Surfers Paradise', book:'https://coastbeachbar.com.au'},
+  {tier:'mid', name:'Taverna Kingscliff', area:'Kingscliff・希臘地中海海邊', price:'AUD$50-65', day:'Day 4 晚替代', desc:'Kingscliff Marine Pde 海邊 希臘 shareable（⚠️只開晚餐 17:30 起 不供午餐）', q:'mediterranean greek seaside dining tapas', maps:'Taverna Kingscliff', book:'https://taverna.net.au'},
   {tier:'mid', name:'Felons Brewing Co.', area:'HSW・河岸啤酒廠', price:'AUD$40-60', day:'Day 5 黃昏', desc:'故事橋下精釀啤酒廠 露天河岸 黃昏熱門', q:'brewery riverside outdoor sunset beer pizza', maps:'Felons Brewing Co Howard Smith Wharves Brisbane', book:'https://felonsbrewingco.com.au'},
   {tier:'mid', name:'Burleigh Pavilion', area:'Burleigh・海邊酒吧夕陽', price:'AUD$40-70', day:'Day 3 餐前酒', desc:'西望 Surfers 天際線日落 不收訂位早點到', q:'beachside coastal pub sunset venue', maps:'Burleigh Pavilion Burleigh Heads', book:'https://burleighpavilion.com'},
   {tier:'low', name:'Salt Meats Cheese', area:'Surfers Paradise・義式 pizza-pasta', price:'AUD$20-40', day:'Day1 抵達晚 / Day2 替代', desc:'起司輪 pasta + AUYCE pizza Mon 限定 4.4★', q:'italian pizza wood fired cheese wheel', maps:'Salt Meats Cheese Surfers Paradise', book:'https://saltmeatscheese.com/surfers-paradise'},
-  {tier:'low', name:'Pepe Italia', area:'Burleigh Heads・拿坡里 pizza', price:'AUD$25-40', day:'Day3 替代', desc:'Cult-favourite 拿坡里風 pizza 4.6★', q:'neapolitan pizza margherita restaurant', maps:'Pepe Italia Burleigh Heads', book:'https://pepeitalia.com.au'},
+  {tier:'low', name:'Crispy Italian Bar', area:'Burleigh Heads・木窯 pizza/pasta', price:'AUD$25-45', day:'Day3 替代', desc:'木窯 pizza + 手工 pasta 義式 bar 輕鬆 半米瑪格麗特 週三 gnocchi night', q:'wood fired pizza italian bar casual', maps:'Crispy Italian Bar Burleigh Heads', book:'https://www.crispyitalianbar.com'},
   {tier:'low', name:'Paddock Bakery', area:'Miami GC・cafe brunch', price:'AUD$20-30', day:'任一日 brunch', desc:'白色昆士蘭老屋 Single O 咖啡 木窯 pastry 4.6★', q:'australian cafe brunch coffee bakery', maps:'Paddock Bakery Miami Gold Coast', book:'https://paddockbakery.com'},
-  {tier:'mid', name:"Clifford's Grill & Lounge", area:'Surfers Paradise (QT)・牛排 Mod-Aus', price:'AUD$45-65', day:'Day 2 晚 替代', desc:'QT Hotel 內 復古 grill 牛排海鮮 4.5★', q:'grilled steak restaurant retro modern', maps:"Cliffords Grill Lounge QT Gold Coast", book:'https://qthotelsandresorts.com'},
+  {tier:'mid', name:"Clifford's Grill & Lounge", area:'Surfers Paradise (voco)・牛排 Mod-Aus', price:'AUD$45-65', day:'Day 2 晚 替代', desc:'voco Gold Coast（原 QT）內 復古 grill 牛排海鮮 4.5★（⚠️週一二公休 只開晚餐）', q:'steak restaurant elegant wine lounge interior', maps:"Cliffords Grill Lounge voco Gold Coast", book:'https://goldcoast.vocohotels.com'},
   {tier:'mid', name:'Italia Lane', area:'Fortitude Valley・義式 pizza/pasta', price:'AUD$40-60', day:'Day 5 替代', desc:'2025 Best Pizza Australia + Best Casual Dining 花園露台 4.6★', q:'italian pasta garden terrace restaurant', maps:'Italia Lane Fortitude Valley', book:'https://italialane.com.au'},
-  {tier:'mid', name:"Fellini's Riverside", area:'Brisbane Riverside CBD・義式地中海', price:'AUD$40-60', day:'Day 5 午/晚 替代', desc:'手工 pasta + 羅馬風 pizza 河景橄欖樹燈飾 4.4★', q:'italian riverside dining terrace', maps:'Fellinis Riverside Brisbane', book:'https://fellinis.com.au'},
+  {tier:'mid', name:"Fellini's Trattoria", area:'Howard Smith Wharves・義式地中海', price:'AUD$40-60', day:'Day 5 午/晚 替代', desc:'HSW 河岸 2025/9 開幕 手工 pasta + 羅馬風 pizza 故事橋下', q:'italian trattoria riverside pasta terrace', maps:'Fellinis Trattoria Howard Smith Wharves Brisbane', book:'https://howardsmithwharves.com/eat-drink/fellinis-trattoria/'},
   {tier:'mid', name:'Rosmarino Ristorante', area:'Fortitude Valley・現代義式', price:'AUD$50-65', day:'Day 5 晚 替代', desc:'家族經營 2021 開幕 獲獎酒單 親密氛圍 4.5★', q:'modern italian restaurant interior intimate', maps:'Rosmarino Italian Fortitude Valley', book:'https://rosmarino.com.au'},
   {tier:'upgrade', name:'Rick Shores', area:'Burleigh Heads・亞洲融合海景', price:'AUD$110-140', day:'Day 3 升級', desc:'GC 經典名片 腳泡沙 越亞 fusion 訂位需 4-6 週', q:'modern restaurant beach dining ocean view fine', maps:'Rick Shores Burleigh Heads', book:'https://www.rickshores.com.au'},
   {tier:'upgrade', name:'The Tropic', area:'Burleigh Pavilion 樓上・地中海', price:'AUD$100-130', day:'Day 3 升級', desc:'Burleigh Pavilion 樓上 地中海 海景升級首選', q:'mediterranean rooftop fine dining ocean view sunset', maps:'The Tropic Burleigh Pavilion', book:'https://www.thetropic.com.au/bookings'},
   {tier:'upgrade', name:'Paper Daisy', area:'Cabarita・Halcyon House fine dining', price:'AUD$130-160', day:'Day 4 午升級', desc:'Hatted destination lunch Halcyon House 內 浮潛後 splurge', q:'fine dining modern australian destination beach hotel', maps:'Paper Daisy Cabarita Beach', book:'https://halcyonhouse.com.au/paper-daisy-restaurant/'},
-  {tier:'upgrade', name:'Stokehouse Q', area:'South Bank・Mod-Aus 河景 fine dining', price:'AUD$120-150', day:'Day 5 升級', desc:'河 + 天際線 fine dining 特別日 必訂河景位', q:'fine dining riverside sunset australian skyline', maps:'Stokehouse Q South Bank Brisbane', book:'https://stokehouseq.com.au/bookings/'},
+  {tier:'upgrade', name:'Otto Brisbane', area:'South Bank・義式 fine dining 河景', price:'AUD$120-150', day:'Day 5 升級', desc:'River Quay 河岸高級義式（原 Stokehouse Q 已關 此為南岸河景首選）必訂河景位', q:'italian fine dining riverside elegant pasta restaurant', maps:'Otto Ristorante Brisbane South Bank', book:'https://ottoristorante.com.au/brisbane/'},
   {tier:'upgrade', name:'Blackbird Bar & Grill', area:'Eagle St Pier・牛排海鮮', price:'AUD$120-160', day:'Day 5 升級替代', desc:'雙層河岸露台 dry-aged 牛排', q:'steakhouse riverside terrace fine dining dry aged beef', maps:'Blackbird Bar Grill Eagle Street Pier Brisbane', book:'https://www.blackbirdbrisbane.com.au'},
-  {tier:'upgrade', name:'BlackHide by Gambaro', area:'Brisbane CBD・名牛排', price:'AUD$130-170', day:'Day 5 升級替代', desc:'昆士蘭名牛排 wagyu focus', q:'australian steakhouse wagyu fine dining', maps:'BlackHide by Gambaro Brisbane', book:'https://www.blackhide.com.au'},
+  {tier:'upgrade', name:'BlackHide by Gambaro', area:'Queen\'s Wharf・名牛排', price:'AUD$130-170', day:'Day 5 升級替代', desc:'昆士蘭名牛排 wagyu focus（已搬 The Star / Queen\'s Wharf）', q:'australian steakhouse wagyu fine dining', maps:'BlackHide Queens Wharf Brisbane', book:'https://blackhidequeenswharf.com.au'},
 ];
 
 const imgCache = new Map();
@@ -902,12 +903,15 @@ function restoCardHtml(r){
 
 async function paintRestoImages(){
   const els = [...document.querySelectorAll('.resto-card .img[data-pexels]')];
+  // 跨卡去重：避免兩張卡共用同一張 Pexels 圖（check+add 在 await 後同步執行，無 race）
+  const used = new Set();
   await Promise.all(els.map(async (el)=>{
     const q = el.dataset.pexels || '';
     const name = el.parentElement.querySelector('h4')?.textContent || '';
-    // Multi-query fallback: every card gets SOME image
+    // Multi-query fallback: every card gets SOME 且盡量不重複的圖
     const tries = [
       q,
+      q + ' interior',
       q + ' food plate',
       name + ' restaurant',
       name + ' dining interior',
@@ -915,16 +919,22 @@ async function paintRestoImages(){
     ].filter(Boolean);
     for (const t of tries){
       const s = await pexelsImage(t);
-      if (s && !isBadImage(s)){
+      if (s && !isBadImage(s) && !used.has(s)){
+        used.add(s);
         el.style.backgroundImage = `url(${s})`;
         return;
       }
     }
-    // Last resort: openverse
+    // 退而求其次 openverse
     const ov = await openverseImage(q || name || 'restaurant interior');
-    if (ov && !isBadImage(ov)){
+    if (ov && !isBadImage(ov) && !used.has(ov)){
+      used.add(ov);
       el.style.backgroundImage = `url(${ov})`;
+      return;
     }
+    // 最後兜底：寧可重複也別空白
+    const last = await pexelsImage(q || name || 'restaurant');
+    if (last && !isBadImage(last)){ el.style.backgroundImage = `url(${last})`; }
   }));
 }
 
