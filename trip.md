@@ -71,7 +71,7 @@
 | ~08:00 | O'Reilly's 酒莊歐式早餐 | 🚐 含 | — | 含氣泡酒 |
 | ~10:30–11:30 | 回飯店 | 🚐 接送 | — | 上午全包 |
 | 午後 | 飯店泳池 / 海灘 / 補眠 | — | — | 鬆散彈性 |
-| 16:30 | Surfers → Burleigh Heads | 🚊 G:Link→Broadbeach→700/777 公車（~45分 A$0.50）／🚗 Uber 18–25 分 ~$30 | | 輕軌每 8–15 分 |
+| 16:30 | Surfers → Burleigh Heads | 🚊 G:Link→Broadbeach→700/777 公車（~45分 A$0.50）／🚗 Uber 18–25 分 ~A$30 | | 輕軌每 8–15 分 |
 | 17:00–18:20 | Burleigh Headland 海岬步道 + 海灘夕陽 | 🚶 | 步道 ~30 分 | 日落 ~18:15 |
 | 18:30 | 餐前酒 Burleigh Pavilion → 19:00 晚餐 Justin Lane | 🚶 | — | Pavilion 不收訂位 |
 | ~21:00 | Burleigh → Surfers | 🚊 公車+輕軌 ~45分 ／ 🚗 Uber ~20 分 | | |
@@ -338,7 +338,7 @@
 | BNE 機場→Surfers | ~86km | 🚌 跟團車（M1） | 60–75 分 | 含 | Day1；自行則 Airtrain+輕軌 ~2hr |
 | Surfers→天堂鄉農莊 | 21km | 🚌 跟團車 | 20–25 分 | 含 | Day2 |
 | 農莊→Harbour Town→Surfers | ~25km | 🚌 跟團車 | 共 ~35 分 | 含 | Day2 |
-| Surfers↔Burleigh | 13km | 🚊 G:Link→Broadbeach→700/777 公車 ／ 🚗 Uber | 公車 ~45 分 ／ 車 18–25 分 | **A$0.50** ／ Uber ~$30 | Day3；輕軌 Stage3 延伸 Burleigh 預計 2026 中通車（出發前查） |
+| Surfers↔Burleigh | 13km | 🚊 G:Link→Broadbeach→700/777 公車 ／ 🚗 Uber | 公車 ~45 分 ／ 車 18–25 分 | **A$0.50** ／ Uber ~A$30 | Day3；輕軌 Stage3 延伸 Burleigh 預計 2026 中通車（出發前查） |
 | Surfers→Miami (Dive Centre) | 10km | 🚗 自駕/Uber | 15–20 分 | ~A$25 | Day4 |
 | Miami→Cabarita (No.35) | 40km | 🚗 自駕（過州界 NSW） | 40–50 分 | 油資 | Day4 |
 | Cabarita→Springbrook | 55–65km | 🚗 自駕（回 QLD 山路） | 70–90 分 | 油資 | Day4 |
