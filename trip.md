@@ -14,6 +14,15 @@
 
 ## 📅 Day 1｜11/05 (四)・抵達・Check in
 
+### ⏰ 時間流程
+
+| 時間 | 行程 | 交通方式 | 車程/耗時 | 備註 |
+|------|------|----------|-----------|------|
+| 20:20 | BR315 抵達 BNE 機場 | ✈️ 班機 | — | 入境 + 提行李 ~45 分 |
+| ~21:00 | BNE → Surfers Paradise 飯店 | 🚌 跟團遊覽車 | 60–75 分（~86km M1） | 含 |
+| ~22:15 | Novotel Surfers Paradise Check-in | — | — | 晚到 不排活動 |
+| 彈性 | Cavill Mall 宵夜 / 海邊夜逛 | 🚶 步行 | 3 分 | 飯店旁 walk-in |
+
 | 項目 | 內容 |
 |------|------|
 | **行程** | BNE 機場 → Surfers Paradise 飯店（跟團車 ~80km / 90 分）→ 海灘夜逛 Cavill Mall |
@@ -27,6 +36,16 @@
 ---
 
 ## 📅 Day 2｜11/06 (五)・跟團・天堂鄉農莊 + 海港城
+
+### ⏰ 時間流程
+
+| 時間 | 行程 | 交通方式 | 車程/耗時 | 備註 |
+|------|------|----------|-----------|------|
+| 08:30 | 飯店 → Paradise Country 天堂鄉農莊 (Oxenford) | 🚌 跟團車 | 20–25 分（21km） | 含 |
+| 09:00–12:30 | 抱無尾熊 / 牧羊秀 + 園區自助午餐 | — | — | 跟團含 |
+| 13:00 | → Harbour Town Premium Outlets | 🚌 跟團車 | 15–20 分 | 退稅 TRS 戰 |
+| ~16:30 | → Surfers Paradise | 🚌 跟團車 | 12–18 分 | |
+| 18:30 | 晚餐 Surfers Pavilion 河景 | 🚶 步行/河岸 | — | 升級 Rick Shores 需提前訂 |
 
 | 項目 | 內容 |
 |------|------|
@@ -42,6 +61,20 @@
 ---
 
 ## 📅 Day 3｜11/07 (六)・自由日・熱氣球 + 夕陽 ⭐ 重點日
+
+### ⏰ 時間流程
+
+| 時間 | 行程 | 交通方式 | 車程/耗時 | 備註 |
+|------|------|----------|-----------|------|
+| 03:50–04:30 | 飯店 pickup（熱氣球） | 🚐 熱氣球公司接送 | 含 | 確切時間訂位時告知 |
+| 05:00–07:30 | Scenic Rim 日出飛行 | 🎈 熱氣球 | 飛行 ~30–60 分 | |
+| ~08:00 | O'Reilly's 酒莊歐式早餐 | 🚐 含 | — | 含氣泡酒 |
+| ~10:30–11:30 | 回飯店 | 🚐 接送 | — | 上午全包 |
+| 午後 | 飯店泳池 / 海灘 / 補眠 | — | — | 鬆散彈性 |
+| 16:30 | Surfers → Burleigh Heads | 🚊 G:Link→Broadbeach→700/777 公車（~45分 A$0.50）／🚗 Uber 18–25 分 ~$30 | | 輕軌每 8–15 分 |
+| 17:00–18:20 | Burleigh Headland 海岬步道 + 海灘夕陽 | 🚶 | 步道 ~30 分 | 日落 ~18:15 |
+| 18:30 | 餐前酒 Burleigh Pavilion → 19:00 晚餐 Justin Lane | 🚶 | — | Pavilion 不收訂位 |
+| ~21:00 | Burleigh → Surfers | 🚊 公車+輕軌 ~45分 ／ 🚗 Uber ~20 分 | | |
 
 :::success
 **⭐ 凌晨熱氣球 — Scenic Rim 農牧地飛行 + 葡萄酒莊歐式早餐，傍晚 Burleigh 海岬日落**
@@ -66,6 +99,22 @@
 ---
 
 ## 📅 Day 4｜11/08 (日)・自由日・浮潛 + 自然螢光蟲 ⭐ 重點日
+
+### ⏰ 時間流程（⚠️ 滿檔日 — Springbrook 無大眾運輸，建議**租車或包車一日**）
+
+| 時間 | 行程 | 交通方式 | 車程/耗時 | 備註 |
+|------|------|----------|-----------|------|
+| 06:30 | 飯店 → Gold Coast Dive Centre (Miami) | 🚗 自駕/Uber | 15–20 分（10km） | ~A$25 |
+| 07:00 | 出海 Cook Island Try Scuba 試潛 | ⛵ 半日船 | ~4–5 小時 | 海龜+珊瑚 不需證照 |
+| ~12:00 | 回 Miami | — | | |
+| 12:30 | Miami → Cabarita No.35 | 🚗 自駕 | 40–50 分（過州界入 NSW） | |
+| 14:00–15:30 | 午餐 No. 35 Kitchen（Cabarita） | — | | **週日午餐有開 ✓** |
+| 15:30 | Cabarita → Springbrook Natural Bridge | 🚗 自駕 | 70–90 分（回 QLD 山路） | 不繞回 Surfers |
+| 17:00 | Best of All Lookout + Natural Bridge 步道（天亮先走） | 🚶 | 步道 ~1 小時 | |
+| 18:15 | 日落 | — | | |
+| 18:30–19:30 | Natural Bridge 等天黑看**螢光蟲** | 🚶 | | 帶外套+小手電（洞內關燈 禁閃光）|
+| 19:30 | Springbrook → Burleigh/Surfers | 🚗 自駕 夜間山路 | 50–60 分 | 山路無路燈 慢行 |
+| ~20:30 | 晚餐 Osteria Del Mare（Burleigh） | 🚗 | | 廚房約到 21:30；建議先電話訂 07 5576 6169，或回 Surfers 就近吃 |
 
 :::success
 **⭐ 上午 Cook Island Try Scuba 試潛（1對1 教練帶 不需證照 海龜+珊瑚 水下體驗）；傍晚 Springbrook 自然橋等天黑看藍螢光**
@@ -94,6 +143,20 @@
 ---
 
 ## 📅 Day 5｜11/09 (一)・跟團市區 + 紅眼返程
+
+### ⏰ 時間流程（🌙 紅眼返程日 — 跟團車時間以旅行社公告為準）
+
+| 時間 | 行程 | 交通方式 | 車程/耗時 | 備註 |
+|------|------|----------|-----------|------|
+| 08:30 | 退房，Surfers → Brisbane CBD | 🚌 跟團車 | 55–75 分（78km M1） | 行李前晚打包 |
+| 10:00 | 舊市政廳 / 喬治王廣場 / South Bank | 🚶 | | |
+| 12:30 | 午餐 Ciao Papi（HSW 河岸義式） | 🚶 / 接駁 | | **週一營業 ✓** |
+| 14:00 | South Bank Streets Beach + GOMA + Story Bridge | 🚶 / City Hopper 免費渡輪 | | GOMA 免費 |
+| 16:00 | Felons 河岸夕陽精釀啤酒（HSW） | 🚶 | | **週一營業 ✓** |
+| 17:00–18:15 | 早晚餐 Riverbar & Kitchen（Eagle St 河景） | 🚶 | | 週一營業 ✓（升級改 Blackbird）|
+| ~18:30 | Brisbane CBD → BNE 機場 | 🚌 跟團車 ／ 🚆 Airtrain 20 分 | 15–25 分 | |
+| 19:15 | 抵 BNE 國際線報到 | — | | **提前 3 小時** 行李 closes ~60–90 分前 |
+| 22:15 | BR316 起飛（→ TPE 隔日 05:15 抵） | ✈️ | | 紅眼 |
 
 | 項目 | 內容 |
 |------|------|
@@ -264,15 +327,29 @@
 
 **Go Card**（Queensland Translink）— 公車 / 火車 / 輕軌 / 渡輪通用。機場便利店買 AUD$10 押金。**Apple Pay 可直接刷不買卡**。
 
+:::success
+**💰 2025 起昆士蘭 TransLink 全程均一價 A$0.50/趟**（含 G:Link 輕軌、公車、火車、渡輪；轉乘免費）。**不適用 Airtrain（機場線）與 NSW 段**。等於黃金海岸市區交通幾乎免費。
+:::
+
 ### 區間明細
 
-| 區間 | 路線/方式 | 需時 | 費用 | 備註 |
-|------|-----------|------|------|------|
-| BNE 機場→Surfers | 跟團車 | ~90 分 | 含 | Day1 |
-| Surfers 內 | G:Link Tram 輕軌（Helensvale↔Broadbeach） | — | AUD$3-5 | 刷 Go Card / Apple Pay |
-| Surfers→Tweed Heads | 浮潛公司接送 | ~30 分 | 含 | Day4 |
-| Surfers→Springbrook | Uber / 包車 / 自駕（**右駕**） | ~50 分 | Uber 單趟 ~AUD$80-100 | 山路 無大眾運輸 |
-| Gold Coast→Brisbane | 跟團車 / Airtrain+G:Link | ~80 分 | AUD$11（火車） | Day5 跟團 |
+| 區間 | 距離 | 路線/方式 | 需時 | 費用 | 備註 |
+|------|------|-----------|------|------|------|
+| BNE 機場→Surfers | ~86km | 🚌 跟團車（M1） | 60–75 分 | 含 | Day1；自行則 Airtrain+輕軌 ~2hr |
+| Surfers→天堂鄉農莊 | 21km | 🚌 跟團車 | 20–25 分 | 含 | Day2 |
+| 農莊→Harbour Town→Surfers | ~25km | 🚌 跟團車 | 共 ~35 分 | 含 | Day2 |
+| Surfers↔Burleigh | 13km | 🚊 G:Link→Broadbeach→700/777 公車 ／ 🚗 Uber | 公車 ~45 分 ／ 車 18–25 分 | **A$0.50** ／ Uber ~$30 | Day3；輕軌 Stage3 延伸 Burleigh 預計 2026 中通車（出發前查） |
+| Surfers→Miami (Dive Centre) | 10km | 🚗 自駕/Uber | 15–20 分 | ~A$25 | Day4 |
+| Miami→Cabarita (No.35) | 40km | 🚗 自駕（過州界 NSW） | 40–50 分 | 油資 | Day4 |
+| Cabarita→Springbrook | 55–65km | 🚗 自駕（回 QLD 山路） | 70–90 分 | 油資 | Day4 |
+| Springbrook→Surfers | ~50km | 🚗 自駕（夜間山路 無路燈） | 50–60 分 | 油資 | Day4 慢行 |
+| Gold Coast→Brisbane CBD | 78km | 🚌 跟團車（M1） | 55–75 分 | 含 | Day5；自行 輕軌+火車 ~1hr50 |
+| Brisbane CBD→BNE 機場 | 13km | 🚆 Airtrain ／ 🚌 跟團車 | Airtrain 20 分 | Airtrain ~A$23（線上 85 折）| Day5 |
+| Surfers 市區 | — | 🚊 G:Link 輕軌（Helensvale↔Broadbeach South，**Surfers 有 3 站**）| 每 8–15 分 | **A$0.50/趟** | Apple Pay 直刷 |
+
+:::warning
+**🚗 Day4 需自備交通**：Cook Island + Cabarita + Springbrook 連線**無大眾運輸**，須**租車（右駕）或包一日車/私人司機**。Springbrook 夜間山路彎且無路燈，不熟右駕者建議包車。預算抓單日租車 ~A$80 或包車 ~A$300–400。
+:::
 
 :::warning
 **右駕提醒**：方向盤在右側 反向開 環島優先 不熟先別自駕去山路
