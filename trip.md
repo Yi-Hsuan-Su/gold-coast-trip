@@ -1,7 +1,7 @@
 # 🇦🇺 布里斯本・黃金海岸 5日 詳細行程規劃
 
 :::info
-**📅 梯次** ｜可樂本團期程（以旅行社公告為準）
+**📅 梯次** ｜**2026/11/05(四) – 11/09(一)** 5 天 4 夜（可樂本團）
 **✈️ 航班** ｜去 長榮 BR315 09:10-20:00 (TPE→BNE) ｜ 回 BR316 22:15-05:05+1 (BNE→TPE 紅眼)
 **💰 預算** ｜自費約 NT$30,000 / 2 人（團費另計）
 **🏨 住宿（旅行社固定，不可調整）** ｜Novotel Surfers Paradise ×4 晚（衝浪者天堂）
@@ -12,7 +12,7 @@
 
 ---
 
-## 📅 Day 1｜抵達・Check in
+## 📅 Day 1｜11/05 (四)・抵達・Check in
 
 | 項目 | 內容 |
 |------|------|
@@ -26,7 +26,7 @@
 
 ---
 
-## 📅 Day 2｜跟團・天堂鄉農莊 + 海港城
+## 📅 Day 2｜11/06 (五)・跟團・天堂鄉農莊 + 海港城
 
 | 項目 | 內容 |
 |------|------|
@@ -41,7 +41,7 @@
 
 ---
 
-## 📅 Day 3｜自由日・熱氣球 + 夕陽 ⭐ 重點日
+## 📅 Day 3｜11/07 (六)・自由日・熱氣球 + 夕陽 ⭐ 重點日
 
 :::success
 **⭐ 凌晨熱氣球 — Scenic Rim 農牧地飛行 + 葡萄酒莊歐式早餐，傍晚 Burleigh 海岬日落**
@@ -65,7 +65,7 @@
 
 ---
 
-## 📅 Day 4｜自由日・浮潛 + 自然螢光蟲 ⭐ 重點日
+## 📅 Day 4｜11/08 (日)・自由日・浮潛 + 自然螢光蟲 ⭐ 重點日
 
 :::success
 **⭐ 上午 Cook Island Try Scuba 試潛（1對1 教練帶 不需證照 海龜+珊瑚 水下體驗）；傍晚 Springbrook 自然橋等天黑看藍螢光**
@@ -93,7 +93,7 @@
 
 ---
 
-## 📅 Day 5｜跟團市區 + 紅眼返程
+## 📅 Day 5｜11/09 (一)・跟團市區 + 紅眼返程
 
 | 項目 | 內容 |
 |------|------|
@@ -105,12 +105,12 @@
 | **晚餐** | 中價位 ★ **[Riverbar & Kitchen](https://www.google.com/maps/search/?api=1&query=Riverbar%20Kitchen%20Eagle%20Street%20Pier%20Brisbane)**（Eagle St Pier Mod-Aus 故事橋河景 AUD$55-75）📅 [riverbarandkitchen.com.au](https://riverbarandkitchen.com.au) |
 | **返程** | Brisbane → BNE 機場 跟團車 → BR316 22:15 起飛 |
 
-- **晚餐升級備選**：★ [Otto Brisbane](https://www.google.com/maps/search/?api=1&query=Otto%20Ristorante%20Brisbane%20South%20Bank)（South Bank 河畔義式 fine dining AUD$120-150 原 Stokehouse Q 址）📅 [訂位](https://ottoristorante.com.au/brisbane/) ／ [Blackbird](https://www.google.com/maps/search/?api=1&query=Blackbird%20Bar%20Grill%20Eagle%20Street%20Pier%20Brisbane) Eagle St 牛排（Riverside Centre 棟 不受 Eagle St Pier 重建影響） ／ [BlackHide by Gambaro](https://www.google.com/maps/search/?api=1&query=BlackHide%20Queens%20Wharf%20Brisbane) 昆士蘭名牛排（Queen's Wharf）
+- **晚餐升級備選**（Day5 = 週一，已篩掉週一公休店）：★ [Blackbird Bar & Grill](https://www.google.com/maps/search/?api=1&query=Blackbird%20Bar%20Grill%20Eagle%20Street%20Brisbane)（Eagle St Riverside Centre 雙層河岸露台 dry-aged 牛排 AUD$120-160 **每日營業** 不受 Eagle St Pier 重建影響）📅 [訂位](https://www.blackbirdbrisbane.com.au) ／ [BlackHide by Gambaro](https://www.google.com/maps/search/?api=1&query=BlackHide%20Queens%20Wharf%20Brisbane) 昆士蘭名牛排（Queen's Wharf 每日營業） ／ ⚠️ [Otto Brisbane](https://www.google.com/maps/search/?api=1&query=Otto%20Ristorante%20Brisbane%20South%20Bank)（South Bank 義式 但**週一/二公休 本團 Day5 不適用**）
 - **景點備選**：[Eagle Street Pier](https://www.google.com/maps/search/?api=1&query=Eagle%20Street%20Pier%20Brisbane) 河畔、Brisbane River City Hopper 免費渡輪
 - **備案**：
   - GOMA 每日 10:00-17:00（週五延至 20:00），**僅復活節耶誕節休館** 週一照常營業
   - Felons 露天區搶位早點到
-  - [Otto Brisbane](https://www.google.com/maps/search/?api=1&query=Otto%20Ristorante%20Brisbane%20South%20Bank) 若要升級 **須提前 1-2 週訂** 河景位指定
+  - **Day5 = 週一**：主選 [Ciao Papi](https://www.google.com/maps/search/?api=1&query=Ciao%20Papi%20Howard%20Smith%20Wharves%20Brisbane)（午）、[Riverbar & Kitchen](https://www.google.com/maps/search/?api=1&query=Riverbar%20Kitchen%20Eagle%20Street%20Pier%20Brisbane)（晚）、[Felons](https://www.google.com/maps/search/?api=1&query=Felons%20Brewing%20Co%20Howard%20Smith%20Wharves%20Brisbane) 皆**週一營業 ✓**；升級避開週一公休的 Otto 改 [Blackbird](https://www.google.com/maps/search/?api=1&query=Blackbird%20Bar%20Grill%20Eagle%20Street%20Brisbane)（每日營業 **須提前 1-2 週訂** 河景位）
   - 全天可玩 紅眼班機 22:15 報到 20:00 前 行李前一晚打包
   - 紅眼隔日 5:05 抵台清晨無接駁 預訂機場接送
 
@@ -152,8 +152,8 @@
 | **[Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads)** | Burleigh Heads・亞洲融合海景 | $110-140 | Day3 晚餐 | 腳泡沙日落，GC 經典名片；訂位需 4-6 週 | [官網](https://www.rickshores.com.au/) |
 | **[The Tropic](https://www.google.com/maps/search/?api=1&query=The%20Tropic%20Burleigh%20Pavilion)** | Burleigh Pavilion 樓上・地中海 | $100-130 | Day3 晚餐 | Burleigh 最佳非亞洲升級，海景 + Med 菜 | [thetropic.com.au/bookings](https://www.thetropic.com.au/bookings) |
 | **[Paper Daisy](https://www.google.com/maps/search/?api=1&query=Paper%20Daisy%20Cabarita%20Beach) (Halcyon House)** | Cabarita Beach・Mod-Aus fine dining | $130-160 | Day4 午餐 | Hatted destination lunch，浮潛後 splurge | [halcyonhouse.com.au/paper-daisy-restaurant/](https://halcyonhouse.com.au/paper-daisy-restaurant/) |
-| **[Otto Brisbane](https://www.google.com/maps/search/?api=1&query=Otto%20Ristorante%20Brisbane%20South%20Bank)** | South Bank・義式 fine dining 河景 | $120-150 | Day5 晚餐 | River Quay 河岸高級義式（原 Stokehouse Q 已永久關閉 此為南岸河景首選） | [ottoristorante.com.au/brisbane](https://ottoristorante.com.au/brisbane/) |
-| **[Blackbird Bar & Grill](https://www.google.com/maps/search/?api=1&query=Blackbird%20Bar%20Grill%20Eagle%20Street%20Pier%20Brisbane)** | Eagle St Pier・牛排海鮮 | $120-160 | Day5 晚餐 替代 | 雙層河岸露台，dry-aged 牛排 | [blackbirdbrisbane.com.au](https://www.blackbirdbrisbane.com.au) |
+| **[Otto Brisbane](https://www.google.com/maps/search/?api=1&query=Otto%20Ristorante%20Brisbane%20South%20Bank)** | South Bank・義式 fine dining 河景 | $120-150 | ⚠️**週一公休**（Day5 不適）| River Quay 河岸高級義式（原 Stokehouse Q 址）週三–日營業 本團 Day5=週一不開 | [ottoristorante.com.au/brisbane](https://ottoristorante.com.au/brisbane/) |
+| **[Blackbird Bar & Grill](https://www.google.com/maps/search/?api=1&query=Blackbird%20Bar%20Grill%20Eagle%20Street%20Brisbane)** | Eagle St (Riverside Centre)・牛排海鮮 | $120-160 | **Day5 升級首選**（每日營業）| 雙層河岸露台 dry-aged 牛排 週一照常營業 不受 Eagle St Pier 重建影響 | [blackbirdbrisbane.com.au](https://www.blackbirdbrisbane.com.au) |
 | **[BlackHide by Gambaro](https://www.google.com/maps/search/?api=1&query=BlackHide%20Queens%20Wharf%20Brisbane)** | Queen's Wharf・名牛排 | $130-170 | Day5 晚餐 替代 | 昆士蘭名牛排 wagyu focus（已搬 The Star / Queen's Wharf） | [blackhidequeenswharf.com.au](https://blackhidequeenswharf.com.au) |
 
 :::warning
@@ -190,7 +190,7 @@
 | **中價位版小計** | **47,900** | 6 餐中價位 + 試潛升級（熱氣球漲價已反映）|
 | **精簡版（推薦）** | **33,000** | 砍 1-2 餐自理／Springbrook 自駕代替 接送 |
 | **升級1餐版** | **+5,000** | Day3 換 [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads)（+AUD$120/人）|
-| **升級2餐版** | **+10,000** | Day3 [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads) + Day5 [Otto Brisbane](https://www.google.com/maps/search/?api=1&query=Otto%20Ristorante%20Brisbane%20South%20Bank) |
+| **升級2餐版** | **+10,000** | Day3 [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads) + Day5 [Blackbird](https://www.google.com/maps/search/?api=1&query=Blackbird%20Bar%20Grill%20Eagle%20Street%20Brisbane)（週一營業）|
 
 :::warning
 **取捨建議**：擇一砍 Springbrook 接送（改自駕 AUD$80）／ 餐廳挑 3 家高檔其他中價
@@ -207,7 +207,7 @@
 | 自理餐食（Day1 宵夜等） | ~1,500 | Day1 抵達晚 / 早餐自理日 |
 | 市內交通 IC | ~1,500 | G:Link / Go Card |
 | **小計（不含購物）** | **~149,900** | 不升級版（含試潛）|
-| 升級 1 餐 | +5,000 | Day3 [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads) 或 Day5 [Otto Brisbane](https://www.google.com/maps/search/?api=1&query=Otto%20Ristorante%20Brisbane%20South%20Bank) |
+| 升級 1 餐 | +5,000 | Day3 [Rick Shores](https://www.google.com/maps/search/?api=1&query=Rick%20Shores%20Burleigh%20Heads) 或 Day5 [Blackbird](https://www.google.com/maps/search/?api=1&query=Blackbird%20Bar%20Grill%20Eagle%20Street%20Brisbane)（週一營業）|
 | 購物 / 伴手禮 | 自訂 | TRS 退稅 AUD$300+ 單筆 |
 
 ---
