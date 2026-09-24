@@ -5,7 +5,7 @@ https://yi-hsuan-su.github.io/gold-coast-trip/
 更新行程：
 
 ```bash
-SHEET_URL=<Apps Script exec URL> SHEET_TOKEN=<token> node sync.mjs   # 重抓 data.json
+set -a; . ~/travel-sheet-script/.env; set +a; node sync.mjs   # 重抓 data.json（token 在本機 .env）
 ./deploy.sh                                                          # commit + push
 ```
 

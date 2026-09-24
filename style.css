@@ -59,10 +59,6 @@ h2 { font: 900 clamp(34px, 6vw, 72px)/1.05 var(--body); letter-spacing: -.02em; 
 .cue span { position: absolute; left: 50%; top: 8px; width: 4px; height: 8px; margin-left: -2px; border-radius: 2px; background: #fff; animation: cue 1.6s infinite; }
 @keyframes cue { 0% { opacity: 0; transform: translateY(0); } 40% { opacity: 1; } 100% { opacity: 0; transform: translateY(14px); } }
 
-/* ---------- marquee ---------- */
-.marquee { background: var(--coral); color: var(--ink); overflow: hidden; padding: 14px 0; white-space: nowrap; }
-.marquee-track { display: inline-block; font: 400 clamp(22px, 3vw, 40px)/1 var(--display); letter-spacing: .06em; will-change: transform; }
-
 /* ---------- overview (horizontal) ---------- */
 .overview { background: var(--sand); }
 .ov-pin { height: 100svh; display: flex; flex-direction: column; justify-content: center; gap: min(32px, 3svh); padding: min(80px, 8svh) 0; overflow: hidden; }

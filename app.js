@@ -158,10 +158,6 @@ function animate(lenis) {
   gsap.to('.hero-bg img', { yPercent: 18, ease: 'none', scrollTrigger: { trigger: '.hero', start: 'top top', end: 'bottom top', scrub: true } });
   gsap.to('.hero-in', { yPercent: -30, opacity: 0, ease: 'none', scrollTrigger: { trigger: '.hero', start: 'top top', end: 'bottom 20%', scrub: true } });
 
-  // 跑馬燈：常速捲動，往下捲時加速
-  const mq = gsap.to('.marquee-track', { xPercent: -50, repeat: -1, ease: 'none', duration: 24 });
-  ScrollTrigger.create({ onUpdate: (s) => gsap.to(mq, { timeScale: 1 + Math.min(Math.abs(s.getVelocity()) / 400, 5), duration: .2, overwrite: true, onComplete: () => gsap.to(mq, { timeScale: 1, duration: .8 }) }) });
-
   // 總覽：桌機釘住橫向捲
   ScrollTrigger.matchMedia({
     '(min-width: 901px)': () => {
@@ -219,8 +215,6 @@ function animate(lenis) {
 
   setImg('.hero-bg img', data.images.hero);
   setImg('.budget-bg img', data.images.budget);
-  const mt = $('.marquee-track');
-  mt.textContent = mt.textContent.repeat(4);
   countdown();
   renderOverview(days, data.images);
   $('#days').innerHTML = days.map((d, i) => renderDay(d, i, data.images[`day${i + 1}`])).join('');
