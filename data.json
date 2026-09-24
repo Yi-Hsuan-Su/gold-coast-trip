@@ -1,0 +1,568 @@
+{
+ "updated": "2026-09-24T04:24:29.278Z",
+ "days": [
+  {
+   "title": "Day1 11/5(四)",
+   "rows": [
+    [
+     "主題",
+     "出發・飛往布里斯本"
+    ],
+    [
+     "當日提醒",
+     "⚠ 護照、ETA 帶齊\n・20:00 才落地 當晚不排行程"
+    ],
+    [
+     "05:00 起床",
+     "最後檢查行李\n・護照、ETA、充電器、轉接頭"
+    ],
+    [
+     "🚗 06:20 計程車",
+     "家 → 三重捷運站（約11分）\n・06:31 到站 留13分進站找月台"
+    ],
+    [
+     "🚇 06:44 機捷",
+     "三重站 普通車 → 機場第二航廈 07:29\n・車程 45 分"
+    ],
+    [
+     "07:30 集合",
+     "第二航廈 跟旅行社會合"
+    ],
+    [
+     "09:10 起飛",
+     "長榮 BR315　TPE 09:10 → BNE 20:00\n・機上用餐"
+    ],
+    [
+     "🚗 20:00 抵達",
+     "BNE 入境 → 跟團車 → 飯店（約90分）\n・到飯店約 22:00"
+    ],
+    [
+     "夜間（有空再去）",
+     "Surfers 海灘夜逛 + Cavill Mall\n・飯店步行 3 分"
+    ],
+    [
+     "住宿",
+     "Novotel Surfers Paradise"
+    ]
+   ]
+  },
+  {
+   "title": "Day2 11/6(五)",
+   "rows": [
+    [
+     "主題",
+     "跟團・天堂鄉農莊 + 海港城"
+    ],
+    [
+     "當日提醒",
+     "・全日跟團 行程不可改\n・時間為暫定 以領隊公告為準"
+    ],
+    [
+     "07:00 早餐",
+     "飯店早餐"
+    ],
+    [
+     "🚗 08:30 集合出發",
+     "飯店大廳 → 天堂鄉農莊（車程約30分）"
+    ],
+    [
+     "09:00 天堂鄉農莊",
+     "Paradise Country\n・抱無尾熊拍照（團費含）\n・袋鼠餵食、牧羊秀"
+    ],
+    [
+     "12:00 午餐",
+     "園區自助餐（團費含）"
+    ],
+    [
+     "13:30 海港城",
+     "Harbour Town Premium Outlets 購物\n・車程約20分 逛到約17:00"
+    ],
+    [
+     "回飯店",
+     "待定（依跟團結束時間）"
+    ],
+    [
+     "晚餐",
+     "待定\n・若跟團早結束：可考慮 Citrique 週五海鮮燒烤自助晚餐（17:30-21:30 AUD$135/人 品項比週日多）"
+    ],
+    [
+     "住宿",
+     "Novotel Surfers Paradise"
+    ]
+   ]
+  },
+  {
+   "title": "Day3 11/7(六)",
+   "rows": [
+    [
+     "主題",
+     "自由日・熱氣球 + 海灘 + 夕陽"
+    ],
+    [
+     "當日提醒",
+     "⚠ 長褲、包鞋、外套；避免白衣、不帶包包\n⚠ 接送時間以確認信為準 遲到視同放棄\n・24hr 前免費取消；48hr 內不可改期"
+    ],
+    [
+     "03:15 起床",
+     "換裝 手機/相機充飽\n・長褲、包鞋、外套、帽子、太陽眼鏡"
+    ],
+    [
+     "03:45 大廳等車",
+     "提前 15 分到大廳"
+    ],
+    [
+     "🚗 04:00 接送",
+     "Hot Air 共乘巴士 → 黃金海岸內陸\n・途中有廁所休息"
+    ],
+    [
+     "06:15 熱氣球",
+     "飛行約 1 小時 看日出\n・起飛時間隨天候調整"
+    ],
+    [
+     "07:16 落地",
+     "氣泡酒慶祝\n・飛行員簽名證書 + 數位照片（價值 AUD$135）"
+    ],
+    [
+     "🚗 09:15 回程",
+     "巴士送回飯店 約 09:45 到"
+    ],
+    [
+     "10:00 補眠",
+     "回房補眠（方案不含早餐）\n⚠ 出門前泳衣穿裡面 帶毛巾＋乾衣服"
+    ],
+    [
+     "🚗 11:30 移動",
+     "→ Paddock Bakery（Burleigh）Uber 約20分"
+    ],
+    [
+     "12:00 Brunch",
+     "★Paddock Bakery（不收訂位 現場排）\n・招牌：Toad in the Hole、法式吐司、甜甜圈\n・備選：Pretty Handsome／Tarte Bakery／LiTO（海景）"
+    ],
+    [
+     "🚶 13:30 移動",
+     "→ Burleigh Beach 步行約10分"
+    ],
+    [
+     "13:45 海灘放鬆",
+     "Burleigh Beach 躺沙灘\n・想走走：Burleigh Headland 海岬步道（約30分）"
+    ],
+    [
+     "🚿 16:00 沖水換衣",
+     "海灘沖水 換回乾衣服"
+    ],
+    [
+     "🚶 16:20 移動",
+     "→ Rick Shores 步行約5分"
+    ],
+    [
+     "16:30 Rick Shores",
+     "戶外 patio 喝一杯 等夕陽（日落約 18:30）\n⚠ 不收訂位 先到先得 週末早點到"
+    ],
+    [
+     "🚗 18:45 移動",
+     "→ Moo Moo（Broadbeach）Uber 約15分"
+    ],
+    [
+     "19:00 晚餐",
+     "★Moo Moo The Wine Bar + Grill\n・高級牛排館：乾式熟成＋日本和牛 900+ 款酒\n・招牌：Wagyu 1kg Rump Cap 桌邊切\n⚠ 週六務必先訂位（OpenTable）訂位時預點招牌（需約55分）\n・吃完 Uber 約10分回飯店"
+    ],
+    [
+     "自費",
+     "熱氣球 NT$10,568（2人）\n・Uber 當日約 AUD$60-80"
+    ],
+    [
+     "交通",
+     "熱氣球含飯店接送；其餘 Uber／步行"
+    ],
+    [
+     "住宿",
+     "Novotel Surfers Paradise"
+    ]
+   ]
+  },
+  {
+   "title": "Day4 11/8(日)",
+   "rows": [
+    [
+     "主題",
+     "自由日・水上活動 + 海鮮自助 + 耍廢 + 螢火蟲"
+    ],
+    [
+     "當日提醒",
+     "⚠ 前一晚 20:00 掃確認單 QR Code 看螢火蟲接送時間\n⚠ 穿泳衣出門 帶毛巾＋乾衣服\n・週日加價：獨木舟 +12%；JW Marriott 刷卡 +1.95%\n・螢火蟲團不含餐 中午吃飽"
+    ],
+    [
+     "06:30 起床",
+     "換泳衣 帶毛巾＋乾衣服\n・前一晚 Moo Moo 別喝太晚"
+    ],
+    [
+     "上午 水上活動（三選一）",
+     "① Get Wet 衝浪私人課 1對2（較刺激）\n・07:20 步行到 10 Beach Rd（Brooklyn Depot 旁壁畫）→ 07:30 免費接駁 → 08:00-10:00 The Spit\n・教練依程度教；2人 NT$7,982；週日不加價\n② Seaway 獨木舟＋浮潛（較溫和 推薦給伴侶）\n・06:50 Uber 約20分 → 07:15 報到（462-486 Marine Parade, Biggera Waters 白色拖車）→ 07:30-10:00\n・全程救生衣 不會游泳也可；划到 Wave Break Island 浮潛 可能看到海豚；照片免費\n・Klook 4.7★（57則）約 NT$2,105/人起；⚠ 週日 +12%；選 07:30 場（風最小）\n③ Go Ride A Wave 衝浪團體課（最省）\n・09:45 步行到 Cavill Mall 海灘端集合 → 10:00-12:00 Surfers 海灘\n・Klook 4.7★（269則）約 NT$1,786/人起；可選中文教練；11/8 場次待確認\n・⚠ 12:00 才下課 → 走回飯店沖澡 → Citrique 改訂 12:30"
+    ],
+    [
+     "🚗 10:00 回程",
+     "① 接駁回 Surfers ／ ② Uber 約20分 ／ ③ 12:00 下課 步行回飯店"
+    ],
+    [
+     "10:30 回飯店",
+     "沖澡休息"
+    ],
+    [
+     "🚶 11:40 移動",
+     "→ JW Marriott 步行約15分／Uber 約5分"
+    ],
+    [
+     "12:00 午餐",
+     "★Citrique 週日海鮮自助（JW Marriott）\n・12:00-14:30 AUD$109/人 含 mimosa＋現場音樂\n・生蠔、虎蝦、旭蟹、Moreton Bay bugs\n⚠ 需先訂位"
+    ],
+    [
+     "14:45 下午 放鬆",
+     "擇一或混搭（都在飯店步行 5 分內）\n① Novotel 泳池：躺椅＋點餐飲（到 17:00）\n② Surfers 海灘：紅黃旗間玩水；SLSC 面海 bar\n③ SkyPoint 觀景台：Q1 77F 成人約 AUD$22\n④ Cali Beach Club：頂樓泳池俱樂部 免費入場\n⚠ 17:00 回房沖澡 17:20 下大廳"
+    ],
+    [
+     "🚗 17:30 螢火蟲接送",
+     "Novotel 大廳上車 車程約1小時\n・17:30-18:00 以確認單為準 提前10分到"
+    ],
+    [
+     "~19:00 春溪國家公園",
+     "雨林步道＋自然橋洞 看藍光螢火蟲\n⚠ 禁拍照、禁手電筒直照、勿喧嘩\n・天氣好加碼觀星"
+    ],
+    [
+     "🚗 ~21:30 回飯店",
+     "送回 Novotel（約 21:15-22:15）"
+    ],
+    [
+     "~22:00 宵夜",
+     "保底：上車前先買零食、水果、水\n① Uber Eats 送飯店（推薦 回程車上先點）\n② Guzman y Gomez（Cavill Ave）墨西哥捲餅\n③ Kebza（Cavill Ave）烤肉捲、披薩\n✕ Milky Lane 週日 20:30 關"
+    ],
+    [
+     "自費",
+     "上午（2人）：① 衝浪私人 NT$7,982 ／ ② 獨木舟 約 NT$4,210＋週日12% ／ ③ 衝浪團體 約 NT$3,572\n・Citrique AUD$218（2人）＋刷卡 1.95%\n・螢火蟲 NT$3,638（2人）；導遊小費 AUD$5/人 看確認單是否含"
+    ],
+    [
+     "交通",
+     "① 衝浪免費接駁 ／ ② Uber ／ ③ 步行；螢火蟲含飯店接送；其餘步行"
+    ],
+    [
+     "住宿",
+     "Novotel Surfers Paradise"
+    ]
+   ]
+  },
+  {
+   "title": "Day5 11/9(一)",
+   "rows": [
+    [
+     "主題",
+     "跟團市區 + 紅眼返程"
+    ],
+    [
+     "當日提醒",
+     "・全天可玩 紅眼班機 22:15\n⚠ 前一晚行李打包好"
+    ],
+    [
+     "早餐",
+     "飯店"
+    ],
+    [
+     "行程",
+     "跟團布里斯本市區\n・舊市政廳 → 喬治王廣場 → 南岸公園 → Mt Coot-tha 觀景台 → Queen St Mall 購物"
+    ],
+    [
+     "午餐",
+     "自理 推薦 ★Howard Smith Wharves\n・故事橋下河岸餐廳群"
+    ],
+    [
+     "下午彈性",
+     "南岸公園 Streets Beach 人造海灘\n・GOMA 現代美術館（免費）、故事橋"
+    ],
+    [
+     "黃昏",
+     "★Felons Brewing Co. 河岸啤酒廠看夕陽\n・或 Mt Coot-tha 黃昏觀景"
+    ],
+    [
+     "晚餐",
+     "★Riverbar & Kitchen（Eagle St Pier 河景）\n・現代澳洲菜 約 AUD$55-75/人"
+    ],
+    [
+     "🚗 返程",
+     "跟團車 → BNE 機場 → BR316 22:15 起飛\n⚠ 20:00 前報到"
+    ]
+   ]
+  }
+ ],
+ "budget": [
+  [
+   "黃金海岸 自費預算（2人）",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "匯率",
+   "1 AUD =",
+   21,
+   "TWD（改這格 台幣欄自動更新）",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "日期",
+   "項目",
+   "幣別",
+   "2人 低",
+   "2人 高",
+   "台幣 低",
+   "台幣 高",
+   "狀態",
+   "備註"
+  ],
+  [
+   "Day1 11/5(四)",
+   "計程車 家 → 三重站",
+   "TWD",
+   250,
+   250,
+   250,
+   250,
+   "估計",
+   ""
+  ],
+  [
+   "Day1 11/5(四)",
+   "機捷 三重 → 第二航廈",
+   "TWD",
+   300,
+   300,
+   300,
+   300,
+   "估計",
+   ""
+  ],
+  [
+   "Day2 11/6(五)",
+   "晚餐",
+   "TWD",
+   0,
+   0,
+   0,
+   0,
+   "待定",
+   "依跟團結束時間"
+  ],
+  [
+   "Day3 11/7(六)",
+   "熱氣球 Bubbles & Go",
+   "TWD",
+   10568,
+   10568,
+   10568,
+   10568,
+   "Klook 實價",
+   "NT$5,284×2"
+  ],
+  [
+   "Day3 11/7(六)",
+   "Brunch Paddock Bakery",
+   "AUD",
+   65,
+   65,
+   1365,
+   1365,
+   "估計",
+   ""
+  ],
+  [
+   "Day3 11/7(六)",
+   "Rick Shores 一人一杯＋小點",
+   "AUD",
+   50,
+   50,
+   1050,
+   1050,
+   "估計",
+   ""
+  ],
+  [
+   "Day3 11/7(六)",
+   "Moo Moo 晚餐（含酒）",
+   "AUD",
+   330,
+   500,
+   6930,
+   10500,
+   "估計",
+   "誤差最大；酒錢可控"
+  ],
+  [
+   "Day3 11/7(六)",
+   "Uber 三段",
+   "AUD",
+   65,
+   65,
+   1365,
+   1365,
+   "估計",
+   "Surfers→Burleigh→Broadbeach→Surfers"
+  ],
+  [
+   "Day4 11/8(日)",
+   "上午水上活動（三選一）",
+   "TWD",
+   3572,
+   7982,
+   3572,
+   7982,
+   "Klook 價",
+   "低=③團體衝浪 高=①私人衝浪；②獨木舟約4,715＋Uber約1,260"
+  ],
+  [
+   "Day4 11/8(日)",
+   "Citrique Sunday Long Lunch",
+   "AUD",
+   222,
+   222,
+   4662,
+   4662,
+   "官網價",
+   "AUD$109×2＋刷卡1.95%"
+  ],
+  [
+   "Day4 11/8(日)",
+   "螢火蟲夜遊",
+   "TWD",
+   3638,
+   3638,
+   3638,
+   3638,
+   "Klook 實價",
+   "NT$1,819×2"
+  ],
+  [
+   "Day4 11/8(日)",
+   "螢火蟲導遊小費",
+   "AUD",
+   0,
+   10,
+   0,
+   210,
+   "待確認",
+   "AUD$5/人 看確認單是否已含"
+  ],
+  [
+   "Day4 11/8(日)",
+   "下午飲料點心＋宵夜＋Uber",
+   "AUD",
+   85,
+   85,
+   1785,
+   1785,
+   "估計",
+   ""
+  ],
+  [
+   "Day5 11/9(一)",
+   "午餐／晚餐／自由時段",
+   "TWD",
+   0,
+   0,
+   0,
+   0,
+   "待定",
+   "等旅行社行程"
+  ],
+  [
+   "其他",
+   "澳洲 ETA 電子簽證",
+   "AUD",
+   40,
+   40,
+   840,
+   840,
+   "官方價",
+   "AUD$20×2"
+  ],
+  [
+   "合計",
+   "",
+   "",
+   "",
+   "",
+   36325,
+   44515,
+   "",
+   ""
+  ],
+  [
+   "刷卡回饋",
+   "Unicard UP選 4.5% − 國外手續費 1.5% ≈ 3%（只算 AUD 部分）",
+   "",
+   "",
+   "",
+   -540,
+   -653,
+   "",
+   ""
+  ],
+  [
+   "實付估計",
+   "",
+   "",
+   "",
+   "",
+   35785,
+   43862,
+   "",
+   ""
+  ]
+ ],
+ "images": {
+  "hero": {
+   "src": "https://images.pexels.com/photos/19823955/pexels-photo-19823955.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "alt": "Stunning aerial view of Gold Coast's beach meeting the modern skyline, with vibrant ocean waters."
+  },
+  "day1": {
+   "src": "https://images.pexels.com/photos/18136344/pexels-photo-18136344.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "alt": "A breathtaking view of clouds and sunset from an airplane window, highlighting the beauty of flight."
+  },
+  "day2": {
+   "src": "https://images.pexels.com/photos/18440574/pexels-photo-18440574.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "alt": "A curious koala climbs between trees in Yarra Glen, Australia, showcasing its natural habitat."
+  },
+  "day3": {
+   "src": "https://images.pexels.com/photos/106154/balloon-hot-air-landscape-hot-air-balloon-106154.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "alt": "Captivating view of hot air balloons floating over a foggy landscape at sunset."
+  },
+  "day4": {
+   "src": "https://images.pexels.com/photos/3637759/pexels-photo-3637759.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "alt": "Aerial view of four kayakers enjoying a sunny day on turquoise waters, perfect for travel and leisure."
+  },
+  "day5": {
+   "src": "https://images.pexels.com/photos/10696099/pexels-photo-10696099.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "alt": "A breathtaking view of Brisbane's illuminated skyline at night with reflections on the river."
+  },
+  "budget": {
+   "src": "https://images.pexels.com/photos/12446345/pexels-photo-12446345.jpeg?auto=compress&cs=tinysrgb&w=1920",
+   "alt": "Serene tropical beach at sunset, with palm trees silhouetted against a golden sky, reflecting on calm waves."
+  }
+ }
+}
