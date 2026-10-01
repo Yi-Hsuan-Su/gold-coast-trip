@@ -30,13 +30,16 @@ const [plan, budget] = await Promise.all([
   call({ action: 'read', tab: '黃金海岸_預算' }),
 ]);
 
+// 只留在試算表、不上網頁的行（訂位備註、紀念日等私人內容）
+const PRIVATE = (s) => s.split('\n').filter((l) => !/^・(訂位備註|一週年紀念餐)/.test(l)).join('\n');
+
 // 直排：每天兩欄（項目｜內容），第一列是 Day 表頭
 const v = plan.values;
 const days = [];
 for (let c = 0; c + 1 < v[0].length; c += 2) {
   if (!v[0][c + 1]) continue;
   const rows = [];
-  for (let r = 1; r < v.length && v[r][c] !== ''; r++) rows.push([String(v[r][c]), String(v[r][c + 1])]);
+  for (let r = 1; r < v.length && v[r][c] !== ''; r++) rows.push([String(v[r][c]), PRIVATE(String(v[r][c + 1]))]);
   days.push({ title: String(v[0][c + 1]), rows });
 }
 
