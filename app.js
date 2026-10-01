@@ -12,7 +12,7 @@ const COMPACT = /移動|計程車|機捷|沖水換衣|回程/;
 // ponytail: 待辦是手寫清單，行程改了要順手更新這裡
 const TODO = [
   ['11/7 04:00', '熱氣球 Bubbles & Go', 'Klook'],
-  ['11/7 19:15', 'Citrique 週六海鮮燒烤自助晚餐', 'SevenRooms → EXPERIENCES'],
+  ['11/7 18:30', 'Citrique 週六海鮮燒烤自助晚餐', 'SevenRooms → EXPERIENCES'],
   ['11/8 10:00', 'Go Ride A Wave 衝浪團體課（衝浪者天堂）', 'Klook'],
   ['11/8 17:30', '螢火蟲夜遊', 'Klook'],
   ['11/9 12:45', "Walter's 午餐（備註要 Porterhouse）", 'SevenRooms'],
