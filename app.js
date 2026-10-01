@@ -9,13 +9,13 @@ const MEAL = /早餐|午餐|晚餐|Brunch|宵夜/;
 const PEND = /待[訂定]/;
 const COMPACT = /移動|計程車|機捷|沖水換衣|回程/;
 
-// ponytail: 待辦是手寫清單，行程改了要順手更新這裡
+// ponytail: 待辦是手寫清單，行程改了要順手更新這裡；第 4 欄 true = 已完成
 const TODO = [
   ['11/7 04:00', '熱氣球 Bubbles & Go', 'Klook'],
-  ['11/7 18:30', 'Citrique 週六海鮮燒烤自助晚餐', 'SevenRooms → EXPERIENCES'],
+  ['11/7 18:30', 'Citrique 週六海鮮燒烤自助晚餐', 'SevenRooms → EXPERIENCES', true],
   ['11/8 10:00', 'Go Ride A Wave 衝浪團體課（衝浪者天堂）', 'Klook'],
   ['11/8 17:30', '螢火蟲夜遊', 'Klook'],
-  ['11/9 12:45', "Walter's 午餐（備註要 Porterhouse）", 'SevenRooms'],
+  ['11/9 12:45', "Walter's 午餐（備註要 Porterhouse）", 'SevenRooms', true],
   ['出發前 2 週', '澳洲 ETA 電子簽證', 'AustralianETA App'],
   ['11 月初', 'Unicard 切 UP 選（12 月初切回）', '玉山 Wallet'],
   ['這週', '防沙墊、速乾毛巾', '淘寶'],
@@ -143,7 +143,7 @@ function renderBudget(rows) {
 }
 
 function renderTodo() {
-  $('.todo-list').innerHTML = TODO.map(([w, what, where]) => `<li class="reveal"><small>${esc(w)}</small><b>${esc(what)}</b><em>${esc(where)}</em></li>`).join('');
+  $('.todo-list').innerHTML = TODO.map(([w, what, where, done]) => `<li class="reveal${done ? ' done' : ''}"><small>${esc(w)}</small><b>${esc(what)}</b><em>${done ? '✅ 已訂位' : esc(where)}</em></li>`).join('');
 }
 
 function setImg(sel, img) {
