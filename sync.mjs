@@ -31,7 +31,7 @@ const [plan, budget] = await Promise.all([
 ]);
 
 // 只留在試算表、不上網頁的行（訂位備註、紀念日等私人內容）
-const PRIVATE = (s) => s.split('\n').filter((l) => !/^・(訂位備註|一週年紀念餐)/.test(l)).join('\n');
+const PRIVATE = (s) => s.split('\n').filter((l) => !/^・(訂位備註|一週年紀念餐|遲到講法)/.test(l)).join('\n');
 
 // 直排：每天兩欄（項目｜內容），第一列是 Day 表頭
 const v = plan.values;
