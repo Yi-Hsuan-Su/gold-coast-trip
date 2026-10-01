@@ -127,7 +127,17 @@ function renderBudget(rows) {
   </div>`).join('');
   const lo = $('.n-lo'), hi = $('.n-hi');
   lo.dataset.to = pay[5] || 0; hi.dataset.to = pay[6] || 0;
-  if (REDUCED) { lo.textContent = nt(pay[5] || 0); hi.textContent = nt(pay[6] || 0); }
+  // 用最終數字量寬度並鎖住：跳數字時寬度不變，版面就不會換行閃爍（字型載入、視窗縮放後重量）
+  const lock = () => [lo, hi].forEach((el) => {
+    const cur = el.textContent;
+    el.style.minWidth = '';
+    el.textContent = nt(+el.dataset.to);
+    el.style.minWidth = `${el.getBoundingClientRect().width}px`;
+    el.textContent = cur;
+  });
+  lo.textContent = nt(+lo.dataset.to); hi.textContent = nt(+hi.dataset.to);
+  document.fonts.ready.then(lock);
+  addEventListener('resize', lock);
   const pend = items.filter((r) => /待定/.test(r[7])).map((r) => `${r[0].split(' ')[0]} ${r[1]}`);
   $('.note').textContent = `匯率 1 AUD ≈ ${rate} TWD　｜　尚未計入：${pend.join('、') || '無'}`;
 }

@@ -136,6 +136,7 @@ h2 { font: 900 clamp(34px, 6vw, 72px)/1.05 var(--body); letter-spacing: -.02em; 
 .budget-bg::after { content: ''; position: absolute; inset: 0; background: rgba(10,26,47,.84); }
 .budget-in { position: relative; padding: clamp(90px, 14vh, 150px) var(--gut); max-width: 1100px; margin: 0 auto; }
 .big-num { font: 400 clamp(64px, 12vw, 170px)/1 var(--display); color: var(--gold); margin-top: 26px; display: flex; flex-wrap: wrap; align-items: baseline; gap: .15em; }
+.big-num span { display: inline-block; text-align: right; font-variant-numeric: tabular-nums; }
 .big-num i { font-style: normal; color: #fff; opacity: .5; }
 .big-cap { font-size: 15px; opacity: .8; margin-bottom: 48px; }
 .bars { display: grid; gap: 16px; }
