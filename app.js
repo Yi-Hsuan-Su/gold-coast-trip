@@ -12,17 +12,18 @@ const COMPACT = /移動|計程車|機捷|沖水換衣|回程/;
 // ponytail: 待辦是手寫清單，行程改了要順手更新這裡
 const TODO = [
   ['11/7 04:00', '熱氣球 Bubbles & Go', 'Klook'],
-  ['11/7 19:00', 'Moo Moo 晚餐（預點 1kg Rump Cap）', 'OpenTable'],
-  ['11/8 12:00', 'Citrique Sunday Long Lunch', 'SevenRooms → RESERVATIONS'],
+  ['11/7 19:15', 'Citrique 週六海鮮燒烤自助晚餐', 'SevenRooms → EXPERIENCES'],
+  ['11/8 10:00', 'Go Ride A Wave 衝浪團體課（衝浪者天堂）', 'Klook'],
   ['11/8 17:30', '螢火蟲夜遊', 'Klook'],
-  ['11/8 上午', '水上活動（三選一）', 'Klook'],
+  ['11/9 12:45', "Walter's 午餐（備註要 Porterhouse）", 'SevenRooms'],
   ['出發前 2 週', '澳洲 ETA 電子簽證', 'AustralianETA App'],
   ['11 月初', 'Unicard 切 UP 選（12 月初切回）', '玉山 Wallet'],
+  ['這週', '防沙墊、速乾毛巾', '淘寶'],
 ];
 
 // 「06:44 機捷」→ {icon, time, name}
 function parseLabel(l) {
-  const m = l.match(/^([🚗🚶🚇🚿])?\s*(~?\d{1,2}:\d{2})?\s*(.*)$/u);
+  const m = l.match(/^([🚗🚶🚇🚿🚊])?\s*(~?\d{1,2}:\d{2})?\s*(.*)$/u);
   return { icon: m[1] || '', time: m[2] || '', name: m[3] || l };
 }
 
