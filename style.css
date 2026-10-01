@@ -114,6 +114,10 @@ h2 { font: 900 clamp(34px, 6vw, 72px)/1.05 var(--body); letter-spacing: -.02em; 
 .card li.warn { color: #b3261e; font-weight: 700; }
 .card li.warn::before { content: '⚠'; background: none; width: auto; height: auto; top: 0; left: -1px; font-size: 12px; }
 .card li.no { color: var(--muted); text-decoration: line-through; }
+.pins { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+.pin { font-size: 12px; font-weight: 700; padding: 5px 11px; border-radius: 99px; background: #e8f0fe; color: #0b5394; text-decoration: none; }
+.pin:hover { background: #0b5394; color: #fff; }
+.hero-meta a { text-decoration: none; }
 .opt { margin-top: 10px; padding: 12px 14px; border-radius: 12px; background: var(--sand); }
 .opt + .opt { margin-top: 8px; }
 .opt-h { font-weight: 700; }

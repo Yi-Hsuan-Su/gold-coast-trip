@@ -44,6 +44,10 @@ function parseBody(v) {
   return out;
 }
 
+// Google 地圖連結（places.json：已逐一在 Google 地圖核對過名稱與地址）
+const mapUrl = (p) => `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(p.q)}${p.pid ? `&query_place_id=${p.pid}` : ''}`;
+const pinsHtml = (ps) => (ps.length ? `<p class="pins">${ps.map((p) => `<a class="pin" href="${mapUrl(p)}" target="_blank" rel="noopener">📍 ${esc(p.name)}</a>`).join('')}</p>` : '');
+
 const li = (it) => `<li class="${it.t}">${fmt(it.s)}</li>`;
 
 function parseDay(d, i) {
@@ -63,7 +67,7 @@ function parseDay(d, i) {
   return day;
 }
 
-function renderRow(r) {
+function renderRow(r, places = []) {
   if (r.compact) {
     const detail = [r.body.lead, ...r.body.items.map((x) => x.s)].filter(Boolean).join(' · ');
     return `<div class="move reveal"><span class="ic">${r.icon}</span>${r.time ? `<span class="time">${esc(r.time)}</span>` : ''}<span>${fmt(detail)}</span></div>`;
@@ -75,10 +79,11 @@ function renderRow(r) {
     ${b.lead ? `<p class="lead">${fmt(b.lead)}</p>` : ''}
     ${b.items.length ? `<ul>${b.items.map(li).join('')}</ul>` : ''}
     ${b.opts.map((o) => `<div class="opt"><p class="opt-h"><em>${o.n}</em>${fmt(o.h)}</p>${o.items.length ? `<ul>${o.items.map(li).join('')}</ul>` : ''}</div>`).join('')}
+    ${pinsHtml(places.filter((p) => p.card && r.name.includes(p.card)))}
   </article>`;
 }
 
-function renderDay(day, i, img) {
+function renderDay(day, i, img, places) {
   const foot = Object.entries(day.foot).map(([k, v]) => `<div><b>${esc(k)}</b>${fmt(v).replace(/\n/g, '<br>')}</div>`).join('');
   return `<section class="day" id="day${i + 1}" data-dot="DAY ${day.no}">
     <div class="day-bg">${img ? `<img src="${esc(img.src)}" alt="${esc(img.alt)}" loading="lazy">` : ''}</div>
@@ -89,7 +94,7 @@ function renderDay(day, i, img) {
         <h2 class="day-theme">${fmt(day.theme)}</h2>
         <ul class="alerts">${day.alerts.map((a) => `<li class="${a.warn ? 'warn' : ''}">${fmt(a.s)}</li>`).join('')}</ul>
       </aside>
-      <div class="flow">${day.rows.map(renderRow).join('')}${foot ? `<div class="day-foot reveal">${foot}</div>` : ''}</div>
+      <div class="flow">${day.rows.map((r) => renderRow(r, places.filter((p) => p.day === i + 1))).join('')}${foot ? `<div class="day-foot reveal">${foot}</div>` : ''}</div>
     </div>
   </section>`;
 }
@@ -221,14 +226,16 @@ function animate(lenis) {
 }
 
 (async function main() {
-  const data = await (await fetch('data.json', { cache: 'no-cache' })).json();
+  const [data, places] = await Promise.all(['data.json', 'places.json'].map(async (f) => (await fetch(f, { cache: 'no-cache' })).json()));
   const days = data.days.map(parseDay);
 
   setImg('.hero-bg img', data.images.hero);
   setImg('.budget-bg img', data.images.budget);
   countdown();
   renderOverview(days, data.images);
-  $('#days').innerHTML = days.map((d, i) => renderDay(d, i, data.images[`day${i + 1}`])).join('');
+  $('#days').innerHTML = days.map((d, i) => renderDay(d, i, data.images[`day${i + 1}`], places)).join('');
+  const hotel = places.find((p) => p.card === '住宿');
+  if (hotel) $('.hero-meta').children[2].innerHTML = `<a href="${mapUrl(hotel)}" target="_blank" rel="noopener"><b>Novotel 📍</b><small>Surfers Paradise ×4</small></a>`;
   $('#budget').dataset.dot = 'BUDGET';
   renderBudget(data.budget);
   renderTodo();
