@@ -13,7 +13,7 @@
   "addr": "新北市三重區捷運路36號",
   "q": "三重 地鐵站",
   "pid": "ChIJPTQeIPuoQjQR7xoSGQpcyRE",
-  "note": "06:44 普通車"
+  "note": "06:29 普通車"
  },
  {
   "day": 1,
@@ -148,23 +148,9 @@
  {
   "day": 4,
   "card": "下午 放鬆",
-  "name": "Surfers Paradise Surf Life Saving Club",
-  "addr": "Cnr Hanlan St & The Esplanade, Surfers Paradise QLD 4217",
-  "q": "Surfers Paradise Surf Life Saving Club"
- },
- {
-  "day": 4,
-  "card": "下午 放鬆",
   "name": "SkyPoint 觀景台（Q1）",
   "addr": "Q1 Building, Level 77/9 Hamilton Ave, Surfers Paradise QLD 4217",
   "q": "SkyPoint Observation Deck Surfers Paradise"
- },
- {
-  "day": 4,
-  "card": "下午 放鬆",
-  "name": "Cali Beach Club",
-  "addr": "21a Elkhorn Ave, Surfers Paradise QLD 4217",
-  "q": "Cali Beach Club 21a Elkhorn Avenue Surfers Paradise"
  },
  {
   "day": 4,
