@@ -110,18 +110,26 @@
  },
  {
   "day": 4,
-  "card": "上午 海灘",
+  "card": "上午",
   "name": "Surfers Paradise Beach",
   "addr": "Surfers Paradise QLD",
   "q": "Surfers Paradise Beach Queensland"
  },
  {
   "day": 4,
-  "card": "上午 海灘",
+  "card": "上午",
   "name": "Go Ride A Wave Surfers Paradise",
   "addr": "Paradise Centre, Shop 26A Cavill Ave, Surfers Paradise QLD 4217",
   "q": "Go Ride A Wave Surfers Paradise",
   "note": "海灘攤位可現場租衝浪板（店面在 Paradise Centre）"
+ },
+ {
+  "day": 4,
+  "card": "上午",
+  "name": "Go Vertical SUP（Budds Beach）",
+  "addr": "Shop 4/19 River Dr, Surfers Paradise QLD 4215",
+  "q": "Go Vertical Stand Up Paddle Board & Kayak 19 River Drive Surfers Paradise",
+  "note": "SUP 教學／導覽 先官網預約"
  },
  {
   "day": 4,
