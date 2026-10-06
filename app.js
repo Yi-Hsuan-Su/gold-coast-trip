@@ -18,6 +18,7 @@ const TODO = [
   ['出發前 2 週', '澳洲 ETA 電子簽證', 'AustralianETA App'],
   ['11 月初', 'Unicard 切 UP 選（12 月初切回）', '玉山 Wallet'],
   ['這週', '防沙墊、速乾毛巾', '淘寶'],
+  ['出發前', '澳洲 eSIM（1 張含當地號碼通話＋1 張純上網）', 'KKday／Klook（Optus 或 Telstra）'],
 ];
 
 // 「06:44 機捷」→ {icon, time, name}
