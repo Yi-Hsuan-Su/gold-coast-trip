@@ -1,15 +1,20 @@
 // 從 Google Sheet（Apps Script Web App）拉行程＋預算＋封面圖 → data.json
 // 用法：SHEET_URL=... SHEET_TOKEN=... node sync.mjs
 // token 只在本機用，不會寫進 data.json / 網頁
-import { writeFileSync } from 'node:fs';
+import { readFileSync, writeFileSync } from 'node:fs';
 
 const { SHEET_URL, SHEET_TOKEN } = process.env;
 if (!SHEET_URL || !SHEET_TOKEN) throw new Error('需要 SHEET_URL、SHEET_TOKEN 環境變數');
 
-const call = async (params) => {
+const call = async (params, tries = 4) => {
   const q = new URLSearchParams({ token: SHEET_TOKEN, ...params });
-  const r = await fetch(`${SHEET_URL}?${q}`, { redirect: 'follow' });
-  const j = await r.json();
+  let j;
+  // Web App 偶爾回 Google 錯誤頁（非 JSON）→ 重試
+  for (let i = 0; i < tries && !j; i++) {
+    const r = await fetch(`${SHEET_URL}?${q}`, { redirect: 'follow' });
+    j = await r.json().catch(() => null);
+  }
+  if (!j) throw new Error(`${params.action}: 回應不是 JSON`);
   if (!j.ok) throw new Error(`${params.action}: ${j.error}`);
   return j;
 };
@@ -43,9 +48,12 @@ for (let c = 0; c + 1 < v[0].length; c += 2) {
   days.push({ title: String(v[0][c + 1]), rows });
 }
 
+// pexels 偶爾回 Google 錯誤頁 → 沿用上一版 data.json 的圖
+const prevImages = (() => { try { return JSON.parse(readFileSync(new URL('./data.json', import.meta.url))).images || {}; } catch { return {}; } })();
 const images = {};
 for (const [k, q] of Object.entries(IMAGES)) {
-  const j = await call({ action: 'pexels', q });
+  const j = await call({ action: 'pexels', q }, 1).catch(() => null);
+  if (!j) { images[k] = prevImages[k] ?? null; continue; }
   // ponytail: 取 pexels 第一張，選錯就改 IMAGES 關鍵字
   images[k] = j.src ? { src: j.src.replace(/\?.*$/, '?auto=compress&cs=tinysrgb&w=1920'), alt: j.alt || '' } : null;
 }

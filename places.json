@@ -8,15 +8,6 @@
  },
  {
   "day": 1,
-  "card": "",
-  "name": "機場捷運 三重站（A2）",
-  "addr": "新北市三重區捷運路36號",
-  "q": "三重 地鐵站",
-  "pid": "ChIJPTQeIPuoQjQR7xoSGQpcyRE",
-  "note": "06:29 普通車"
- },
- {
-  "day": 1,
   "card": "抵達",
   "name": "布里斯本機場 BNE",
   "addr": "Airport Dr, Brisbane Airport QLD",
