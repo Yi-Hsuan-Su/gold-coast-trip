@@ -11,6 +11,7 @@ const COMPACT = /移動|計程車|機捷|沖水換衣|回程/;
 
 // ponytail: 待辦是手寫清單，行程改了要順手更新這裡；第 4 欄 true = 已完成
 const TODO = [
+  ['10/8 早上', 'Klook 結帳：熱氣球（11/7）＋螢火蟲（11/8），結完看確認信接送時間', 'Klook（信用卡出帳後再刷，算下期）'],
   ['11/7 04:00', '熱氣球 Bubbles & Go', 'Klook'],
   ['11/7 18:30', 'Citrique 週六海鮮燒烤自助晚餐', 'SevenRooms → EXPERIENCES', true],
   ['11/8 17:30', '螢火蟲夜遊', 'Klook'],
