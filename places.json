@@ -73,17 +73,17 @@
  },
  {
   "day": 3,
-  "card": "海灘",
-  "name": "Burleigh Beach",
-  "addr": "Burleigh Heads QLD",
-  "q": "Burleigh Beach Burleigh Heads"
+  "card": "寄物",
+  "name": "Miami 輕軌站（Bounce 寄物點在旁，地址預約後顯示）",
+  "addr": "Gold Coast Hwy, Miami QLD 4220",
+  "q": "Miami light rail station Gold Coast"
  },
  {
   "day": 3,
   "card": "海灘",
-  "name": "Burleigh Head National Park（海岬步道）",
-  "addr": "Goodwin Terrace, Burleigh Heads QLD 4220",
-  "q": "Burleigh Head National Park"
+  "name": "Miami 海灘 Hythe St 救生站（Miami Beach SLSC）",
+  "addr": "2 Hythe St, Miami QLD 4220",
+  "q": "Miami Beach Surf Life Saving Club 2 Hythe St Miami"
  },
  {
   "day": 3,

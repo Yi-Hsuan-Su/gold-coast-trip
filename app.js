@@ -18,7 +18,9 @@ const TODO = [
   ['出發前 2 週', '澳洲 ETA 電子簽證', 'AustralianETA App'],
   ['11 月初', 'Unicard 切 UP 選（12 月初切回）', '玉山 Wallet'],
   ['這週', '防沙墊、速乾毛巾', '淘寶'],
+  ['這週', '防水手機袋 ×2＋小防水收納袋（海灘防盜，伯利海灘週六下午沒寄物點）', '蝦皮／淘寶'],
   ['出發前', '澳洲 eSIM（1 張含當地號碼通話＋1 張純上網）', 'KKday／Klook（Optus 或 Telstra）'],
+  ['出發前', 'Bounce 預約寄物：Miami – Close to Miami Beach，11/7 13:30 寄、15:00 取，小件 ×2', 'Bounce App／bounce.com'],
 ];
 
 // 「06:44 機捷」→ {icon, time, name}
