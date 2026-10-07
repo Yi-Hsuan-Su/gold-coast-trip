@@ -87,10 +87,32 @@
  },
  {
   "day": 2,
+  "card": "海港城",
+  "name": "Harbour Town Tourism Lounge 遊客中心",
+  "addr": "Harbour Town, 147-189 Brisbane Rd, Biggera Waters QLD 4216",
+  "q": "Harbour Town Tourism Lounge Biggera Waters",
+  "note": "領免費遊客折扣卡"
+ },
+ {
+  "day": 2,
   "card": "晚餐",
-  "name": "Harbour Town Premium Outlets 海港城",
-  "addr": "147-189 Brisbane Rd, Biggera Waters QLD 4216",
-  "q": "Harbour Town Premium Outlets Biggera Waters"
+  "name": "Betty's Burgers 海港城",
+  "addr": "Harbour Town, 147-189 Brisbane Rd, Biggera Waters QLD 4216",
+  "q": "Betty's Burgers Harbour Town Biggera Waters"
+ },
+ {
+  "day": 2,
+  "card": "晚餐",
+  "name": "Yum Cha Cuisine 海港城",
+  "addr": "Harbour Town, 147-189 Brisbane Rd, Biggera Waters QLD 4216",
+  "q": "Yum Cha Cuisine Harbour Town"
+ },
+ {
+  "day": 2,
+  "card": "晚餐",
+  "name": "Grill'd 海港城",
+  "addr": "Harbour Town, 147-189 Brisbane Rd, Biggera Waters QLD 4216",
+  "q": "Grill'd Burgers Harbour Town"
  },
  {
   "day": 3,
