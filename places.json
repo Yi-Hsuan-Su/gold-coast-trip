@@ -202,6 +202,27 @@
  },
  {
   "day": 5,
+  "card": "晚餐",
+  "name": "MEBAMI Southbank（越南菜）",
+  "addr": "Shop 6/182 Grey St, South Brisbane QLD 4101",
+  "q": "MEBAMI Southbank 182 Grey St South Brisbane"
+ },
+ {
+  "day": 5,
+  "card": "晚餐",
+  "name": "Harajuku Gyoza South Bank（日式煎餃）",
+  "addr": "184 Grey St, South Brisbane QLD 4101",
+  "q": "Harajuku Gyoza South Bank 184 Grey St"
+ },
+ {
+  "day": 5,
+  "card": "晚餐",
+  "name": "El Camino Cantina South Bank（墨西哥菜）",
+  "addr": "All Gas Building, 153 Stanley St, South Brisbane QLD 4101",
+  "q": "El Camino Cantina South Bank 153 Stanley St"
+ },
+ {
+  "day": 5,
   "card": "前往機場",
   "name": "布里斯本機場 BNE",
   "addr": "Airport Dr, Brisbane Airport QLD",
