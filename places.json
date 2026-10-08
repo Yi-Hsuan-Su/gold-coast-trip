@@ -123,28 +123,36 @@
  },
  {
   "day": 3,
-  "card": "Miami 海灘晃晃",
-  "name": "Miami 海灘（Hythe St 救生站）",
-  "addr": "2 Hythe St, Miami QLD 4220",
-  "q": "Miami Beach Surf Life Saving Club 2 Hythe St Miami"
- },
- {
-  "day": 3,
-  "card": "沿海岸散步",
-  "name": "伯利岬角國家公園 Burleigh Head NP（步道看體力）",
+  "card": "Burleigh Hill",
+  "name": "Burleigh Hill 草坡",
   "addr": "Goodwin Terrace, Burleigh Heads QLD 4220",
-  "q": "Burleigh Head National Park"
+  "q": "Burleigh Hill Burleigh Heads"
  },
  {
   "day": 3,
-  "card": "Rick Shores",
-  "name": "Rick Shores",
-  "addr": "3/43 Goodwin Terrace, Burleigh Heads QLD 4220",
-  "q": "Rick Shores 43 Goodwin Terrace Burleigh Heads"
+  "card": "Tumgun Lookout",
+  "name": "Tumgun Lookout（伯利岬角國家公園，看體力）",
+  "addr": "Burleigh Head National Park, Burleigh Heads QLD 4220",
+  "q": "Tumgun Lookout Burleigh Head National Park"
  },
  {
   "day": 3,
-  "card": "Surfers 海灘玩水",
+  "card": "伯利海灘",
+  "name": "Burleigh Beach 伯利海灘",
+  "addr": "Goodwin Terrace, Burleigh Heads QLD 4220",
+  "q": "Burleigh Beach Burleigh Heads"
+ },
+ {
+  "day": 3,
+  "card": "James St",
+  "name": "Scoop Gelati（James St）",
+  "addr": "23 James St, Burleigh Heads QLD 4220",
+  "q": "Scoop Gelati 23 James St Burleigh Heads",
+  "note": "Uber 回程上車點"
+ },
+ {
+  "day": 3,
+  "card": "Surfers 海灘",
   "name": "Surfers Paradise 海灘（Cavill Ave 34 號救生塔）",
   "addr": "The Esplanade, Surfers Paradise QLD 4217",
   "q": "Surfers Paradise Beach Cavill Avenue"
