@@ -116,35 +116,6 @@
  },
  {
   "day": 3,
-  "card": "Brunch",
-  "name": "Paddock Bakery",
-  "addr": "20 Hibiscus Haven, Burleigh Heads QLD 4220",
-  "q": "Paddock Bakery 20 Hibiscus Haven Burleigh Heads"
- },
- {
-  "day": 3,
-  "card": "Burleigh Hill",
-  "name": "Burleigh Hill 草坡",
-  "addr": "Goodwin Terrace, Burleigh Heads QLD 4220",
-  "q": "Burleigh Hill Burleigh Heads"
- },
- {
-  "day": 3,
-  "card": "Tumgun Lookout",
-  "name": "Tumgun Lookout（伯利岬角國家公園，看體力）",
-  "addr": "Burleigh Head National Park, Burleigh Heads QLD 4220",
-  "q": "Tumgun Lookout Burleigh Head National Park"
- },
- {
-  "day": 3,
-  "card": "James St",
-  "name": "Scoop Gelati（James St）",
-  "addr": "23 James St, Burleigh Heads QLD 4220",
-  "q": "Scoop Gelati 23 James St Burleigh Heads",
-  "note": "Uber 回程上車點"
- },
- {
-  "day": 3,
   "card": "Surfers 海灘",
   "name": "Surfers Paradise 海灘（Cavill Ave 34 號救生塔）",
   "addr": "The Esplanade, Surfers Paradise QLD 4217",
@@ -159,47 +130,39 @@
  },
  {
   "day": 4,
-  "card": "上午",
-  "name": "Surfers Paradise Beach",
-  "addr": "Surfers Paradise QLD",
-  "q": "Surfers Paradise Beach Queensland"
+  "card": "Brunch",
+  "name": "Paddock Bakery",
+  "addr": "20 Hibiscus Haven, Burleigh Heads QLD 4220",
+  "q": "Paddock Bakery 20 Hibiscus Haven Burleigh Heads"
  },
  {
   "day": 4,
-  "card": "上午",
-  "name": "Go Ride A Wave Surfers Paradise",
-  "addr": "Paradise Centre, Shop 26A Cavill Ave, Surfers Paradise QLD 4217",
-  "q": "Go Ride A Wave Surfers Paradise",
-  "note": "海灘攤位可現場租衝浪板（店面在 Paradise Centre）"
+  "card": "Burleigh Hill",
+  "name": "Burleigh Hill 草坡",
+  "addr": "Goodwin Terrace, Burleigh Heads QLD 4220",
+  "q": "Burleigh Hill Burleigh Heads"
  },
  {
   "day": 4,
-  "card": "上午",
-  "name": "Go Vertical SUP（Budds Beach）",
-  "addr": "Shop 4/19 River Dr, Surfers Paradise QLD 4215",
-  "q": "Go Vertical Stand Up Paddle Board & Kayak 19 River Drive Surfers Paradise",
-  "note": "SUP 教學／導覽 先官網預約"
+  "card": "Tumgun Lookout",
+  "name": "Tumgun Lookout（伯利岬角國家公園，看體力）",
+  "addr": "Burleigh Head National Park, Burleigh Heads QLD 4220",
+  "q": "Tumgun Lookout Burleigh Head National Park"
  },
  {
   "day": 4,
-  "card": "午餐",
-  "name": "Hellenika（參考）",
-  "addr": "2235 Gold Coast Hwy, Nobby Beach QLD 4218",
-  "q": "Hellenika 2235 Gold Coast Highway Nobby Beach"
+  "card": "James St",
+  "name": "Scoop Gelati（James St）",
+  "addr": "23 James St, Burleigh Heads QLD 4220",
+  "q": "Scoop Gelati 23 James St Burleigh Heads",
+  "note": "Uber 回程上車點"
  },
  {
   "day": 4,
-  "card": "午餐",
-  "name": "Mamasan（參考）",
-  "addr": "3 Oracle Bvd, Broadbeach QLD 4218",
-  "q": "Mamasan Kitchen Bar 3 Oracle Boulevard Broadbeach"
- },
- {
-  "day": 4,
-  "card": "下午 放鬆",
-  "name": "SkyPoint 觀景台（Q1）",
-  "addr": "Q1 Building, Level 77/9 Hamilton Ave, Surfers Paradise QLD 4217",
-  "q": "SkyPoint Observation Deck Surfers Paradise"
+  "card": "下午茶",
+  "name": "Rick Shores（下午茶選項）",
+  "addr": "3/43 Goodwin Terrace, Burleigh Heads QLD 4220",
+  "q": "Rick Shores Burleigh Heads"
  },
  {
   "day": 4,
